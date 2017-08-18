@@ -19,8 +19,8 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/hackbridge
+github_url: https://github.com/hackbridge
+gitlab_url: 
 googleplus_url: 
 instagram_url: 
 linkedin_url: 
