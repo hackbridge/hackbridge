@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to hackbridge.io'
+landing-title: 'Welcome to Hackbridge'
 description: null
 image: null
 author: null
