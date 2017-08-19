@@ -2,7 +2,7 @@
 layout: page
 title: Aspire
 description: A speakers series to inspire you to keep creating. 
-image: assets/images/pic06.jpg
+image: assets/images/lecture.jpg
 order: 2
 nav-order: 3
 nav-menu: true
