@@ -1,11 +1,11 @@
 ---
 title: About Us
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
-nav-menu: true
-order: 20
+description: 'Our mission and our team.'
+image: assets/images/office.jpg
+order: 4
 nav-order: 1
+nav-menu: true
 permalink: about.html
 ---
 
