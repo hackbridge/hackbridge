@@ -2,7 +2,7 @@
 title: Support Us
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+image: assets/images/camb.jpg
 nav-menu: false
 order: 20
 nav-order: 6
