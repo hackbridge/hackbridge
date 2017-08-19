@@ -5,15 +5,10 @@ email: hello@hackbridge.io
 description: Kindling tech entrepreneurship at Cambridge University
 url: "" # the base hostname & protocol for your site
 author: Imran Ahmed
-street_address:
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
+include: ["_pages"]
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 4
 
 # social settings
