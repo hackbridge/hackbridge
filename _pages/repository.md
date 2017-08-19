@@ -2,7 +2,7 @@
 layout: page
 title: Repository
 description: Resources for people interested in tech & entrepreneurship.
-image: assets/images/library.jpg
+image: assets/images/library_filt.jpg
 order: 3
 nav-order: 4
 nav-menu: true

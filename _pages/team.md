@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Our Team
-description: The hackbridge team.</br>Interested in helping?
-image: assets/images/pic06.jpg
+description: The hackbridge team.</br>Interested in helping out?
+image: assets/images/office.jpg
 order: 4
 nav-order: 5
 nav-menu: true
