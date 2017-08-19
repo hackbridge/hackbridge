@@ -1,7 +1,7 @@
 ---
 title: Support Us
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Interested in supporting some of the UK&apos;s most innovative creators?<br />Look no further.'
 image: assets/images/camb.jpg
 nav-menu: false
 order: 20

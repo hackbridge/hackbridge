@@ -10,7 +10,25 @@
 
 <body>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
+	{% include header.html %} 
+	
+	<!-- Main -->
+	<div id="main" class="alt">
+	
+	<!-- One -->
+	<section id="one">
+		<div class="inner">
+			<header class="major">
+				<h1>{{ page.title }}</h1>
+			</header>
+			<p>{{ content }}</p>
+		</div>
+	</section>
+	
+	</div>
+	
+	
+	{% include footer.html %}
 
 </body>
 
