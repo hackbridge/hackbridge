@@ -1,38 +1,86 @@
 <!-- Contact -->
 <section id="subscribe">
 	<div class="inner">
-		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
-				<header class="major">
-					<h2>Subscribe for Updates</h2>
-				</header>
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
-				</ul>
-			</form>
-		</section>
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="mailto:{{ site.email }}?Subject=Hi%20there%21">{{ site.email }}</a>
-				</div>
+		<div class="row 200%">
+		<div class="6u 12u$(medium)">
+			<section class="field half">
+				<form action="//hackbridge.us16.list-manage.com/subscribe/post?u=772077aa6a3be6e740894f0bf&amp;id=17ee0f5532" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>	
+					<header class="major">
+						<h2>Subscribe for Updates</h2>
+					</header>
+					<div class="field half first">
+						<label for="name">First Name*</label>
+						<input type="text" name="FNAME" class="required" id="mce-FNAME" />
+					</div>
+					<div class="field half">
+						<label for="email">Email*</label>
+						<input type="email" name="EMAIL" class="required email" id="mce-EMAIL" />
+					</div>
+					<div style="position: absolute; left: -5000px;" aria-hidden="true">
+						<input type="text" name="b_772077aa6a3be6e740894f0bf_17ee0f5532" tabindex="-1" value="">
+					</div>
+					
+					<label for="email">Position*</label>
+					<div class="12u$">
+						<div class="mc-field-group select-wrapper">
+							<select name="MMERGE2" id="mce-MMERGE2">
+								<option value="">Select an option...</option>
+								<option value="Undergraduate">Undergraduate</option>
+								<option value="Graduate">Graduate</option>
+								<option value="Staff">Staff</option>
+							</select>
+						</div>
+					</div>
+					</br>
+					<h4>Also keep me posted about: </h4>
+					<div class="row uniform">
+						<div class="6u 12u$(small)">
+							<input type="checkbox" value="2" name="group[1187][2]" id="mce-group[1187]-1187-0" checked>
+							<label for="mce-group[1187]-1187-0">Cluster</label>
+						</div>
+						<div class="6u 12u$(small)">
+							<input type="checkbox" value="4" name="group[1187][4]" id="mce-group[1187]-1187-1" checked>
+							<label for="mce-group[1187]-1187-1">Aspire</label>
+						</div>
+						<div class="6u 12u$(small)">
+							<input type="checkbox" value="8" name="group[1187][8]" id="mce-group[1187]-1187-2" checked>
+							<label for="mce-group[1187]-1187-2">Repository</label>
+						</div>
+						<div class="6u 12u$(small)">
+							<input type="checkbox" value="16" name="group[1187][16]" id="mce-group[1187]-1187-3" checked>
+							<label for="mce-group[1187]-1187-3">Related Events</label>
+						</div>
+					</div>
+					<div id="mce-responses" class="clear row uniform">
+						<font size="3">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+						</font>
+					</div>
+					<ul class="actions">
+						<li><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="special"/></li>
+						<li><input type="reset" value="Clear" /></li>
+					</ul>
+				</form>
+				<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 			</section>
-		</section>
+		</div>
+		<div class="6u 12u$(medium)">
+			<section class="split">
+				<section>
+					<header class="major">
+						<h2>Get in touch</h2>
+					</header>
+					<p>Have an idea to make Hackbridge better? Want us to feature some content? Shoot us a message!</p>
+					<div class="contact-method">
+						<span class="icon alt fa-envelope"></span>
+						<h3>Email</h3>
+						<a href="mailto:{{ site.email }}?Subject=Hi%20there%21">{{ site.email }}</a>
+					</div>
+				</section>
+			</section>
+		</div>
+		</div>
 	</div>
 </section>
 
