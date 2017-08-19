@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Aspire
-description: Feugiat amet tempus
+description: A speakers series to inspire you to keep creating. 
 image: assets/images/pic06.jpg
 order: 2
+nav-order: 3
+nav-menu: true
 permalink: aspire.html
 ---
 

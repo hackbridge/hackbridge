@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Repository
-description: Feugiat amet tempus
+description: Resources for people interested in tech & entrepreneurship.
 image: assets/images/pic06.jpg
 order: 3
+nav-order: 4
+nav-menu: true
 permalink: repository.html
 ---
 

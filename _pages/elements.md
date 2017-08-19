@@ -3,6 +3,7 @@ layout: page
 title: Elements
 nav-menu: true
 order: 20
+nav-order: 20
 permalink: elements.html
 ---
 

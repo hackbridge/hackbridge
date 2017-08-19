@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Team
-description: Feugiat amet tempus
+title: Our Team
+description: The hackbridge team.</br>Interested in helping?
 image: assets/images/pic06.jpg
 order: 4
+nav-order: 5
+nav-menu: true
 permalink: team.html
 ---
 

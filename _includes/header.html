@@ -12,19 +12,20 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.html_pages %}
+		{% assign nav_pages = site.html_pages | sort: 'nav-order' %}
+        {% for page in nav_pages %}
 		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
+		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
-		{% for page in site.html_pages %}
+		{% for page in nav_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
+		<li><a href="#subscribe" class="button special fit">Subscribe</a></li>
+		<li><a href="support.html" class="button fit">Support</a></li>
 	</ul>
 </nav>

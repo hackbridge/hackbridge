@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Cluster
-description: Feugiat amet tempus
-image: assets/images/pic06.jpg
+description: Build you dream projects.</br>Saturdays, 12:01 to 23:59
+image: assets/images/arm.jpg
 order: 1
+nav-order: 2
+nav-menu: true
 permalink: cluster.html
 ---
 

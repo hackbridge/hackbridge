@@ -7,6 +7,7 @@ description: null
 image: null
 author: null
 order: 20
+nav-order: 20
 permalink: posts.html
 ---
 

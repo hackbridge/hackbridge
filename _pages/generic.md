@@ -5,6 +5,7 @@ description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
 order: 20
+nav-order: 20
 permalink: generic.html
 ---
 
