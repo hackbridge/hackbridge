@@ -15,7 +15,7 @@
 		{% assign nav_pages = site.html_pages | sort: 'nav-order' %}
         {% for page in nav_pages %}
 		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
+		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
 		{% for page in nav_pages %}
