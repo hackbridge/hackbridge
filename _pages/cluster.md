@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cluster
-description: Build your dream projects.</br>Saturdays, 12:01 to 23:59
+description: Code & build your dream projects.</br>Saturdays, 12:01 to 23:59
 image: assets/images/arm.jpg
 order: 1
 nav-order: 2
@@ -9,18 +9,60 @@ nav-menu: true
 permalink: cluster.html
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<!-- Main -->
+<div id="main" class="alt">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Cluster</h1>
+		</header>
+        <h3>Saturdays, 12:01 to 23:59, Venue determined every week</h3> 
+        <ul class="actions">
+            <li><a href="#subscribe" class="button scrolly">Remind me about Cluster events</a></li>
+        </ul>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+
+        <h4>ARM was born out of the Cambridge ecosystem. What will you build?</h4>
+
+
+        <p><b>Hackbridge Cluster</b> aims to foster the sort of collaborative environment which encourages you to build your dream projects. Whether its a $bn app in-the-making or a boundary-breaking research paper, you'll always find a group of like-minded - and motivated - students. Spend your time brainstorming ideas, furiously coding, or just leisurely working on examples papers. Drop by at the next Cluster - we're looking forward to meeting you!</p>
+
+        <div class="row">
+            <div class="4u 12u$(medium)">
+                <h3>Who can turn up?</h3>
+                <p><b>Anyone</b> - even graduate students! Cluster is the opportunity to work with ambitious (and techy) students who want to develop something unique. If you fall into this broad category, you'd be very welcome!</p>
+            </div>
+            <div class="4u 12u$(medium)">
+                <h3>Do I need a fully-fledged idea?</h3>
+                <p>Not at all. Part of the fun of Cluster is finding a small group of like-minded students - and then banding together to build stuff! Just drop by and say hi!</p>
+            </div>
+            <div class="4u 12u$(medium)">
+                <h3>Will there be resources available?</h3>
+                <p>Theoretically - we'll be reaching out to tech companies for cloud platform credits and some components to do rudimentary making. In the meantime, apply to grants - that'll be the best way to get cash to buy resources!</p>
+            </div>
+        </div>
+        <div class="row"> 
+            <div class="4u 12u$(medium)">
+                <h3>And, how about food/Red Bull?</h3>
+                <p>Again, we'll try to get some food + drink but it might be challenging to get the funding. Alternatives include chipping in a bit of cash and ordering pizza/going to Sainsbury's!</p>
+            </div>
+
+            <div class="4u 12u$(medium)">
+                <h3>What things should I work on?</h3>
+                <p>Um, that's up to you. But, how about your 4th year project? A cool research experiment? A device? A project with Google Home? Need to send some emails for a project you're running at your society? Basically, just stay productive!</p>
+            </div>
+
+            <div class="4u 12u$(medium)">
+                <h3>What's Cluster's vision?</h3>
+                <p>Some of the best ideas come from these sort of environments. We're just trying to create it at Cambridge. Let's start building!</p>
+            </div>
+        </div>
+
+    <hr class="major" />
+    <h2>Project Showcase</h2>
+    <p>We may be techy but we're not superhuman. Cluster was started in Summer 2017: check back to see what comes out of it.</p> 
+
+    </div>
+</section>
