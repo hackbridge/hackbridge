@@ -19,13 +19,14 @@ permalink: cluster.html
 			<h1>Cluster</h1>
 		</header>
         <h3>Saturdays, 12:01 to 23:59, Venue determined every week</h3> 
+
         <ul class="actions">
             <li><a href="#subscribe" class="button scrolly">Notify me about Cluster Events</a></li>
         </ul>
 
+        <span class="image fit"><img src="assets/images/code.jpg" alt="" /></span>
 
         <h4>ARM was born out of the Cambridge ecosystem. What will you build?</h4>
-
 
         <p><b>Hackbridge Cluster</b> aims to foster the sort of collaborative environment which encourages you to build your dream projects. Whether its a $bn app in-the-making or a boundary-breaking research paper, you'll always find a group of like-minded - and motivated - students. Spend your time brainstorming ideas, furiously coding, or just leisurely working on examples papers. Drop by at the next Cluster - we're looking forward to meeting you!</p>
 
@@ -45,7 +46,7 @@ permalink: cluster.html
         </div>
         <div class="row"> 
             <div class="4u 12u$(medium)">
-                <h3>And, how about food/Red Bull?</h3>
+                <h3>How about food/Red Bull?</h3>
                 <p>Again, we'll try to get some food + drink but it might be challenging to get the funding. Alternatives include chipping in a bit of cash and ordering pizza/going to Sainsbury's!</p>
             </div>
 
