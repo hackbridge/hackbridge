@@ -20,7 +20,7 @@ permalink: cluster.html
 		</header>
         <h3>Saturdays, 12:01 to 23:59, Venue determined every week</h3> 
         <ul class="actions">
-            <li><a href="#subscribe" class="button scrolly">Remind me about Cluster events</a></li>
+            <li><a href="#subscribe" class="button scrolly">Notify me about Cluster Events</a></li>
         </ul>
 
 
@@ -39,8 +39,8 @@ permalink: cluster.html
                 <p>Not at all. Part of the fun of Cluster is finding a small group of like-minded students - and then banding together to build stuff! Just drop by and say hi!</p>
             </div>
             <div class="4u 12u$(medium)">
-                <h3>Will there be resources available?</h3>
-                <p>Theoretically - we'll be reaching out to tech companies for cloud platform credits and some components to do rudimentary making. In the meantime, apply to grants - that'll be the best way to get cash to buy resources!</p>
+                <h3>Will there be free resources?</h3>
+                <p>Hopefully - we'll be reaching out to tech companies for cloud platform credits and some components to do rudimentary making. In the meantime, apply to grants - that'll be the best way to get cash to buy resources!</p>
             </div>
         </div>
         <div class="row"> 
