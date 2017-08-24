@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-nav-menu: true
+nav-menu: false
 order: 20
 nav-order: 20
 permalink: elements.html
