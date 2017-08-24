@@ -51,12 +51,12 @@ permalink: cluster.html
             </div>
 
             <div class="4u 12u$(medium)">
-                <h3>What things should I work on?</h3>
+                <h3>What should I work on?</h3>
                 <p>Um, that's up to you. But, how about your 4th year project? A cool research experiment? A device? A project with Google Home? Need to send some emails for a project you're running at your society? Basically, just stay productive!</p>
             </div>
 
             <div class="4u 12u$(medium)">
-                <h3>What's Cluster's vision?</h3>
+                <h3>What is Cluster's vision?</h3>
                 <p>Some of the best ideas come from these sort of environments. We're just trying to create it at Cambridge. Let's start building!</p>
             </div>
         </div>
