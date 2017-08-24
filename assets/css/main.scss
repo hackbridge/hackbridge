@@ -50,6 +50,29 @@
 		}
 	}
 
+	.img-circle {
+		border-radius: 50%;
+	}
+
+	.center {
+		text-align: center;
+		align-items: center;
+	}
+
+	.align-center {
+		display: flex;
+		align-items: center;
+		justify-content: center
+	}
+
+	.pad-top {
+		padding-top: 5px;
+	}
+
+	.rmb {
+		margin-bottom: 0px !important;
+	}
+
 // Base.
 
 	@import 'base/page';

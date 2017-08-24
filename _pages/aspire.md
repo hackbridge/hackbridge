@@ -25,9 +25,9 @@ permalink: aspire.html
             <li><a href="#subscribe" class="button scrolly">Notify me about Aspire Events</a></li>
         </ul>
 
-        <span class="image fit"><img src="assets/images/lecture_thin.jpg" alt="" /></span>
+        <span class="image fit"><img src="assets/images/lecture_large.jpg" alt="" /></span>
 
-        <p><b>Hackbridge Aspire</b> aims to motivate students to ideate, research and develop their own personal projects. By inviting inspirational industry-leaders and entrepreneurs to speak about their stories and their vision for the future, we hope to encourage Cambridge students to continue developing practical projects - in addition to learning academic theory.</p>
+        <p><b>Hackbridge Aspire</b> aims to motivate entrepreneurial students to ideate, research and develop their own personal projects. By inviting inspirational industry-leaders and entrepreneurs to speak about their stories and their vision for the future, we hope to encourage Cambridge students to continue developing practical projects - in addition to learning academic theory.</p>
 
         <div class="row">
             <div class="6u 12u$(medium)">
@@ -39,8 +39,11 @@ permalink: aspire.html
                 <p>Yes! Ideally, we would like people to submit questions in advance so we can sort through and prioritise them. There may also be a Q&A period towards the end of each Aspire event, time permitting.</p>
             </div>
         </div>  
-        <hr />
-        <p>It takes a great deal of hard work to arrange Aspire events. If you'd like to help us out, please look into joining our <a href="about.html#team">team</a>.
+        <hr class = "major"/>
+        <p>It takes a great deal of hard work to arrange Aspire events. If you'd like to help us out, please look into joining our <a href="about.html#team">team</a>.</p>
     <hr class="major" />
     <h2>Previous Speakers</h2>
-    <p>Check back soon to see some of our previous speakers and (hopefully) recorded streams of the Aspire event - all broadcasted to the world!</p> 
+    <p>Check back soon to see some of our previous speakers and (hopefully) recorded streams of previous Aspire events - all broadcasted to the world!</p> 
+    </div>
+    </section>
+    </div>
