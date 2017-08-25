@@ -41,7 +41,7 @@ permalink: cluster.html
             </div>
             <div class="4u 12u$(medium)">
                 <h3>Will there be free resources?</h3>
-                <p>Hopefully - we'll be reaching out to tech companies for resources. In the meantime, apply to grants or make use of the various resources in the Dyson Centre/IFM/Computer Lab</p>
+                <p>Hopefully - we'll be reaching out to tech companies for resources. In the meantime, apply to grants or make use of the various resources (listed in <a href="/repository.html">Repository</a>)</p>
             </div>
         </div>
         <div class="row"> 

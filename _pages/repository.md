@@ -45,7 +45,7 @@ permalink: repository.html
         </div>
         <div class="row">
             <div class="6u 12u(small)">
-                <h3>Making Resources</h3>
+                <h3>Entrepreneurship/Making Resources</h3>
                 <ol class="alt">
                     <li><a href="https://www.dysoncentre.eng.cam.ac.uk/">Dyson Centre (CUED)</a></li>
                     <li><a href="http://www.ifm.eng.cam.ac.uk/news/ifm-launches-3d-printing-lab-for-students/">IFM 3D Printing Lab</a> (for MET students only)</li>
