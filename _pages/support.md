@@ -28,7 +28,7 @@ permalink: support.html
 			<li>Funding to support Cluster and Aspire events</li>
 			<li>Great publicity!</li>
 		</ul>
-		<p>Interested? If so, please get in touch by emailing: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b>.</p>
+		<p>Interested? Please reach out at: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b>.</p>
 		<ul class="actions">
 			<li><a href="mailto:sponsor@hackbridge.io" class="button">Email Us</a></li>
 		</ul>
@@ -56,7 +56,7 @@ permalink: support.html
 		<header class="major">
 			<h2>Our Sponsors</h2>
 		</header>
-		<p>None so far - but check back soon for updates. If you would like to sponsor, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b>.</p> 
+		<p>None just yet - but check back soon for updates. If you would like to sponsor, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b>.</p> 
 	</div>
 </section>
 

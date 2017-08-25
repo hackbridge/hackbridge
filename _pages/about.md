@@ -40,7 +40,7 @@ permalink: about.html
 		<p>If you do reach out, please let us know (very briefly) <b>what you're working on now</b>/have worked on in the past and <b>where you'd like to help</b>! Also, let us know what subject you're studying and what year you're in!</p>
 
 		<ul class="actions">
-			<li><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21" class="button">Get in touch!</a></li>
+			<li><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21" class="button">Join Us</a></li>
 		</ul>
 
 	</div>

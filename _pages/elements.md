@@ -4,7 +4,7 @@ title: Elements
 nav-menu: false
 order: 20
 nav-order: 20
-permalink: elements.html
+permalink: opt_elements.html
 ---
 
 <!-- Main -->
