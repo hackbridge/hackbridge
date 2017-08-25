@@ -16,74 +16,47 @@ permalink: support.html
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>What are we looking for?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>A long-term goal of ours is to be able to provide development resources to our hackers. We believe that providing these sort of resources helps to create <b>better projects</b> and, for sponsors, a group of graduating students who have <b>technical experience with novel tools</b> from the outset. With this in mind, we would welcome any support including (but not limited to):
+		</p>
+		<ul>
+			<li>Cash funding to be allocated to particularly novel projects</li>
+			<li>Computing cluster time/resources</li>
+			<li>Test hardware (such as VR Headsets)</li>
+			<li>Hardware components for 'maker' projects</li>
+			<li>Funding to support Cluster and Aspire events</li>
+			<li>Great publicity!</li>
+		</ul>
+		<p>Interested? If so, please get in touch by emailing: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b>.</p>
+		<ul class="actions">
+			<li><a href="mailto:sponsor@hackbridge.io" class="button">Email Us</a></li>
+		</ul>
 	</div>
 </section>
 
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>What we can offer?</h2>
+		</header>
+		<p>We would be more than happy to explore a tailored sponsorship package but typically we would be able to offer:
+		</p>
+		<ul>
+			<li>Targeted publicity to a cohort of Cambridge students who are passionate about tech/entrepreneurship</li>
+			<li>Company Logos on our website/our material</li>
+			<li>Direct access to our Cluster students through CVs</li>
+			<li>Content for your own CSR initiatives</li>
+		</ul>
+	</div>
 </section>
 
-<!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Our Sponsors</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<p>None so far - but check back soon for updates. If you would like to sponsor, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b>.</p> 
 	</div>
 </section>
 

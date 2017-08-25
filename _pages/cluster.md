@@ -41,7 +41,7 @@ permalink: cluster.html
             </div>
             <div class="4u 12u$(medium)">
                 <h3>Will there be free resources?</h3>
-                <p>Hopefully - we'll be reaching out to tech companies for cloud platform credits and some components to do rudimentary making. In the meantime, apply to grants - that'll be the best way to get cash to buy resources!</p>
+                <p>Hopefully - we'll be reaching out to tech companies for resources. In the meantime, apply to grants or make use of the various resources in the Dyson Centre/IFM/Computer Lab</p>
             </div>
         </div>
         <div class="row"> 
