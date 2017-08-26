@@ -78,6 +78,14 @@
 		max-width: 300px;
 	}
 
+	#back-top {
+		position: fixed; 
+		bottom: 5px; 
+		right:10px; 
+		width:auto;
+		display: none;
+		z-index:10000; //Not great - but eh can't think of anything better
+	}
 // Base.
 
 	@import 'base/page';
