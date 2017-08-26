@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cluster
-description: Code & build your dream projects.</br>Saturdays, 12:01 to 23:59
+description: Code & build your dream projects. </br>Saturdays, 12:01 to 23:59.
 image: assets/images/arm.jpg
 order: 1
 nav-order: 2
