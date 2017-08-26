@@ -20,7 +20,7 @@ $(document).ready(function(){
             $(window).scroll(function () {
                 var sub_pos = $('#subscribe').position().top;
                 var cur_scroll = $(this).scrollTop();
-                if ($('#back-top').css("background-color")=== "rgb(155, 241, 255)" && isClicked) {
+                if ($('#back-top').css("background-color")=== "rgb(155, 241, 255)" && isClicked) { //BS Fix for touch devices
                     isClicked = false
                     isForced = true
                     $('#back-top').toggleClass("force");
@@ -29,7 +29,7 @@ $(document).ready(function(){
                     isForced = false
                     $('#back-top').toggleClass("force");
                 }
-                if (cur_scroll > 100 && Math.abs(cur_scroll-sub_pos) > 200 && cur_scroll < sub_pos) {
+                if (cur_scroll > 50 && Math.abs(cur_scroll-sub_pos) > 300 && cur_scroll < sub_pos) {
                     $('#back-top').fadeIn();
                 } else {
                     $('#back-top').fadeOut();
@@ -39,7 +39,7 @@ $(document).ready(function(){
         $('a#back-top').click(function () {
             isClicked = true
         });
-        
+
         $(window).scrollEnd(function(){
             //Stopped scrolling
         }, 500);
