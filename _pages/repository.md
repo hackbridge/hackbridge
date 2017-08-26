@@ -40,6 +40,7 @@ permalink: repository.html
                     <li><a href="http://www.cuer.co.uk/">Cambridge University Eco Racing</a></li>
                     <li><a href="http://www.cauv.co.uk/">Cambridge Autonomous Underwater Vehicle</a></li>
                     <li><a href="https://cucats.org/">Cambridge University Computing and Technology Society</a></li>
+                    <li><a href="http://www.cusf.co.uk/">Cambridge University Spaceflight</a></li>
                 </ol>
             </div>
         </div>
@@ -58,6 +59,18 @@ permalink: repository.html
                 <ol class="alt">
                     <li><a href="http://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a> (Book)</li>
                     <li><a href="http://www.crackingthepminterview.com/">Cracking the PM Interview</a> (Book)</li>
+                    <li><a href="https://www.cl.cam.ac.uk/supporters-club/recruitment-fair.html">CS Careers Fair</a></li>
+                </ol>
+            </div>
+        </div>
+        <div class="row">
+            <div class="6u 12u(small)">
+                <h3>Scholarships and Awards</h3>
+                <ol class="alt">
+                    <li><a href="http://www.raeng.org.uk/grants-and-prizes/schemes-for-students/engineering-leaders-scholarship">RAEng Engineering Leaders Scholarship</a> (£5k)</li>
+                    <li><a href="https://enterprisehub.raeng.org.uk/blog/schemeoraward/future-of-engineering/">RAEng Future of Engineering Scholarship</a> (£5-10k)</li>
+                    <li><a href="https://www.imeche.org/careers-education/scholarships-and-awards/scholarships">IMechE Scholarships</a></li>
+                    <li><a href="http://conferences.theiet.org/achievement/scholarships/index.cfm">IET Scholarships</a></li>
                 </ol>
             </div>
         </div>
