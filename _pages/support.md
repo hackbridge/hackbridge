@@ -18,7 +18,7 @@ permalink: support.html
 		<header class="major">
 			<h2>What are we looking for?</h2>
 		</header>
-		<p>A long-term goal of ours is to be able to provide development resources to our hackers. We believe that providing these sort of resources helps to create <b>better projects</b> and, for sponsors, a group of graduating students who have <b>technical experience with novel tools</b> from the outset. With this in mind, we would welcome any support including (but not limited to):
+		<p>A long-term goal of ours is to be able to provide development resources for our hackers. We believe that providing these sort of resources helps to create <b>better projects</b> and, for sponsors, a group of graduating students who have <b>technical experience with novel tools</b> from the outset. With this in mind, we would welcome any support including (but not limited to):
 		</p>
 		<ul>
 			<li>Cash funding to be allocated to particularly novel projects</li>
@@ -38,13 +38,13 @@ permalink: support.html
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>What we can offer?</h2>
+			<h2>What can we offer?</h2>
 		</header>
 		<p>We would be more than happy to explore a tailored sponsorship package but typically we would be able to offer:
 		</p>
 		<ul>
 			<li>Targeted publicity to a cohort of Cambridge students who are passionate about tech/entrepreneurship</li>
-			<li>Company Logos on our website/our material</li>
+			<li>Prominent display of a company logo on our website/our material</li>
 			<li>Direct access to our Cluster students through CVs</li>
 			<li>Content for your own CSR initiatives</li>
 		</ul>
