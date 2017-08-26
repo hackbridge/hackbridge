@@ -86,6 +86,10 @@
 		display: none;
 		z-index:10000; //Not great - but eh can't think of anything better
 	}
+
+	#back-top.force {
+		background-color: #fff !important;
+	}
 // Base.
 
 	@import 'base/page';
