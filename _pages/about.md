@@ -30,8 +30,14 @@ permalink: about.html
 
 		<div class="box alt">
 			<div class="row uniform align-center">
-			<div class="2u center"><span class="image fit rmb"><img class="img-circle" src="assets/images/imran.jpg" alt="" /></span><div class="pad-top"><b>Imran Ahmed</b></div></div>
-			<div class="2u$ center"><span class="image fit rmb"><img class="img-circle" src="assets/images/ani.jpg" alt="" /></span><div class="pad-top"><b>Aniruddh Raghu</b></div></div>
+				<div class="center">
+					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/imran.jpg" alt="" /></span>
+					<div class="pad-top"><b>Imran Ahmed</b></div>
+				</div>
+				<div class="center">
+					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/ani.jpg" alt="" /></span>
+					<div class="pad-top"><b>Aniruddh Raghu</b></div>
+				</div>
 			</div>
 		</div>
 

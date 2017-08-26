@@ -73,6 +73,11 @@
 		margin-bottom: 0px !important;
 	}
 
+	.size-fix {
+		max-height: 300px;
+		max-width: 300px;
+	}
+
 // Base.
 
 	@import 'base/page';
