@@ -13,7 +13,7 @@ tiles-count: 4
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/hackbridgeio
 github_url: https://github.com/hackbridge
 gitlab_url: 
 googleplus_url: 
