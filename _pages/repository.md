@@ -41,6 +41,11 @@ permalink: repository.html
                     <li><a href="http://www.cauv.co.uk/">Cambridge Autonomous Underwater Vehicle</a></li>
                     <li><a href="https://cucats.org/">Cambridge University Computing and Technology Society</a></li>
                     <li><a href="http://www.cusf.co.uk/">Cambridge University Spaceflight</a></li>
+                    <li><a href="http://www.cu3dsoc.com/">Cambridge University 3D Printing Society</a></li>
+                    <li><a href="http://www.iticam.org/">Impact Through Innovation Cambridge</a></li>
+                    <li><a href="https://www.cues.org.uk/">Cambridge University Engineering Society</a></li>
+                    <li><a href="http://cusbs.soc.srcf.net/">Cambridge University Synthetic Biology Society</a></li>
+                    <li><a href="http://curobosoc.soc.srcf.net/">Cambridge University Robotics Society</a></li>
                 </ol>
             </div>
         </div>
