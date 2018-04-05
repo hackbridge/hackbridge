@@ -16,6 +16,20 @@ permalink: support.html
 <section id="one">
 	<div class="inner">
 		<header class="major">
+			<h2>Our Sponsors</h2>
+		</header>
+		<p>We would like to thank our sponsors for their support. If you would like to sponsor us, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b></p>
+		<div class="row 50% uniform">
+			<div class="6u"><span class="image img_wid_max">
+			<a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
+		</div>
+
+	</div>
+</section>
+
+<section id="two">
+	<div class="inner">
+		<header class="major">
 			<h2>What are we looking for?</h2>
 		</header>
 		<p>A long-term goal of ours is to be able to provide development resources for our hackers. We believe that providing these sort of resources helps to create <b>better projects</b> and, for sponsors, a group of graduating students who have <b>technical experience with novel tools</b> from the outset. With this in mind, we would welcome any support including (but not limited to):
@@ -35,7 +49,7 @@ permalink: support.html
 	</div>
 </section>
 
-<section id="two">
+<section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>What can we offer?</h2>
@@ -48,15 +62,6 @@ permalink: support.html
 			<li>Direct access to our Cluster students through CVs</li>
 			<li>Content for your own CSR initiatives</li>
 		</ul>
-	</div>
-</section>
-
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Our Sponsors</h2>
-		</header>
-		<p>None just yet - but check back soon for updates. If you would like to sponsor, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b>.</p> 
 	</div>
 </section>
 
