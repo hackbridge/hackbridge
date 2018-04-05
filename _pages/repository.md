@@ -57,6 +57,8 @@ permalink: repository.html
                     <li><a href="http://www.ifm.eng.cam.ac.uk/news/ifm-launches-3d-printing-lab-for-students/">IFM 3D Printing Lab</a> (for MET students only)</li>
                     <li><a href="http://makespace.org/">Cambridge Makespace</a></li>
                     <li><a href="https://www.enterprise.cam.ac.uk/our-services/academics-researchers-and-students/clubs-programmes-networking/">Accelerators @ Cambridge</a></li>
+                    <li><a href="https://www.enterprisenetwork.group.cam.ac.uk">The University Enterprise Network</a></li>
+                    <li><a href="https://www.ideaspace.cam.ac.uk">ideaSpace</a></li>               
                 </ol>
             </div>
             <div class="6u 12u(small)">
