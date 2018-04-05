@@ -18,12 +18,11 @@ permalink: cluster.html
 		<header class="major">
 			<h1>Cluster</h1>
 		</header>
-        <h3>Saturdays, 12:01 to 23:59, Venue determined every week</h3> 
+        <h3>Tuesdays, from 4pm @ Cambridge University Engineering Department.</h3> 
 
         <ul class="actions">
-            <li><a href="#subscribe" class="button scrolly">Notify me about Cluster Events</a></li>
+            <li><a href="https://www.facebook.com/hackbridgeio/"  target="_blank" class="button">Visit our Facebook Page</a></li>
         </ul>
-
         <span class="image fit"><img src="assets/images/code.jpg" alt="" /></span>
 
         <h4>ARM was born out of the Cambridge ecosystem. What will you build?</h4>
