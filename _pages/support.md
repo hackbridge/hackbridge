@@ -16,15 +16,18 @@ permalink: support.html
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Our Sponsors</h2>
+			<h2>What can we offer?</h2>
 		</header>
-		<p>We would like to thank our sponsors for their support. If you would like to sponsor us, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b></p>
-		<div class="row 50% uniform">
-			<div class="6u"><span class="image img_wid_max">
-			<a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
-		</div>
-
+		<p>We would be more than happy to explore a tailored sponsorship package but typically we would be able to offer:
+		</p>
+		<ul>
+			<li>Targeted publicity to a cohort of Cambridge students who are passionate about tech/entrepreneurship</li>
+			<li>Prominent display of a company logo on our website/our material</li>
+			<li>Direct access to our Cluster students through CVs</li>
+			<li>Content for your own CSR initiatives</li>
+		</ul>
 	</div>
+	
 </section>
 
 <section id="two">
@@ -49,19 +52,20 @@ permalink: support.html
 	</div>
 </section>
 
+
 <section id="three">
-	<div class="inner">
+
+
+		<div class="inner">
 		<header class="major">
-			<h2>What can we offer?</h2>
+			<h2>Our Sponsors</h2>
 		</header>
-		<p>We would be more than happy to explore a tailored sponsorship package but typically we would be able to offer:
-		</p>
-		<ul>
-			<li>Targeted publicity to a cohort of Cambridge students who are passionate about tech/entrepreneurship</li>
-			<li>Prominent display of a company logo on our website/our material</li>
-			<li>Direct access to our Cluster students through CVs</li>
-			<li>Content for your own CSR initiatives</li>
-		</ul>
+		<p>We would like to thank our sponsors for their support. If you would like to sponsor us, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b></p>
+		<div class="row 50% uniform">
+			<div class="6u"><span class="image img_wid_max">
+			<a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
+		</div>
+
 	</div>
 </section>
 

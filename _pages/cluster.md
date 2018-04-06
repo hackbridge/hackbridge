@@ -61,8 +61,8 @@ permalink: cluster.html
         </div>
 
     <hr class="major" />
-    <h2>Project Showcase</h2>
-    <p>We may be techy but we're not superhuman. Cluster was started in Summer 2017: check back to see what comes out of it.</p> 
-
+    <h2>Active & Past Projects</h2>
+    <!-- <p>We may be techy but we're not superhuman. Cluster was started in Summer 2017: check back to see what comes out of it.</p>  -->
+    <iframe class="set_max_size" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKtxx1vqbUxfXGPwQICHoEZiU5wRhvdaRcfQVR6i5d7b1Q_CfiN-Z23TdbIlCtCpF4MShc7esCf9Dq/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
     </div>
 </section>
