@@ -65,6 +65,11 @@ permalink: support.html
 			<div class="6u"><span class="image img_wid_max">
 			<a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
 		</div>
+		<div class="row 50% uniform">
+			<div class="6u"><span class="image img_wid_max">
+			<a href = "https://www.quantumblack.com/" target="blank_"><img 
+			src="assets/images/qb.png" alt=""></a></span></div>
+		</div>
 
 	</div>
 </section>
