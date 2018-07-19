@@ -55,18 +55,17 @@ permalink: support.html
 
 <section id="three">
 
-
 		<div class="inner">
 		<header class="major">
 			<h2>Our Sponsors</h2>
 		</header>
 		<p>We would like to thank our sponsors for their support. If you would like to sponsor us, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b></p>
-		<div class="row 50% uniform">
-			<div class="6u"><span class="image img_wid_max">
+		<div class="row 50% uniform" >
+			<div class="4u"><span class="image">
 			<a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
-			<!-- <div class="6u"><span class="image img_wid_max">
+			<div class="4u"><span class="image">
 			<a href = "https://www.quantumblack.com/" target="blank_"><img 
-			src="assets/images/qb.png" alt=""></a></span></div> -->
+			src="assets/images/qb_white.png" alt=""></a></span></div>
 		</div>
 	</div>
 </section>
