@@ -55,6 +55,7 @@
 	}
 
 	.center {
+		width: 100%;
 		text-align: center;
 		align-items: center;
 	}
@@ -76,6 +77,10 @@
 
 	.pad-top {
 		padding-top: 5px;
+	}
+
+	.vert-space-large {
+		padding-bottom: 60px;
 	}
 
 	.rmb {
