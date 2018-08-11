@@ -65,9 +65,13 @@ permalink: cluster.html
     <div class="row"> 
         <div class="8">
             <p>Some of the brightest minds in town (Researchers/PhDs/Entrepreneurs) have put together amazing projects for students to get involved in! <br>
-            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeHlomMmi00xfJSPR0PXm-d5qP1RYKqs3Mlh8rV7wa3ASxn6g/viewform">Apply here</a></strong> to work on those super cool projects. But be quick! They are ver popular.</p>
+            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeHlomMmi00xfJSPR0PXm-d5qP1RYKqs3Mlh8rV7wa3ASxn6g/viewform">Apply here</a></strong> to work on those super cool projects. But be quick! They are ver popular.</p>         
         </div>
     </div>
     <iframe class="set_max_size"  src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true"></iframe>
+    <div>
+        <br>
+        <p>P.S. The links might work better if opened in a new tab 😃</p>
+    </div>
     </div>
 </section>
