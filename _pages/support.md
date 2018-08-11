@@ -1,11 +1,11 @@
 ---
-title: Support Us
-layout: landing
+title: Sponsors
+layout: page
 description: 'Interested in supporting some of the UK&apos;s most innovative creators?<br />Look no further.'
 image: assets/images/camb.jpg
-nav-menu: false
+nav-menu: true
 order: 20
-nav-order: 6
+nav-order: 5
 permalink: support.html
 ---
 

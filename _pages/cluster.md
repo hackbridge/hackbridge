@@ -36,7 +36,7 @@ permalink: cluster.html
             </div>
             <div class="4u 12u$(medium)">
                 <h3>Do I need a fully-fledged idea?</h3>
-                <p>Not at all. Part of the fun of Cluster is finding a small group of like-minded students - and then banding together to build stuff! Just drop by and say hi!</p>
+                <p>Not at all. Part of the fun of Cluster is finding a small group of like-minded students - and then banding together to build stuff! Just drop by and say hi! Also, if you are not sure about what to work on, why not check out our list of active projects below? </p>
             </div>
             <div class="4u 12u$(medium)">
                 <h3>Will there be free resources?</h3>
@@ -51,7 +51,7 @@ permalink: cluster.html
 
             <div class="4u 12u$(medium)">
                 <h3>What should I work on?</h3>
-                <p>Um, that's up to you. But, how about your 4th year project? A cool research experiment? A device? A project with Google Home? Need to send some emails for a project you're running at your society? Basically, just stay productive!</p>
+                <p>Um, that's up to you. But, how about your 4th year project? A cool research experiment? A device? A project with Google Home? Basically, just stay productive!</p>
             </div>
 
             <div class="4u 12u$(medium)">
@@ -62,7 +62,12 @@ permalink: cluster.html
 
     <hr class="major" />
     <h2>Active & Past Projects</h2>
-    <!-- <p>We may be techy but we're not superhuman. Cluster was started in Summer 2017: check back to see what comes out of it.</p>  -->
-    <iframe class="set_max_size" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKtxx1vqbUxfXGPwQICHoEZiU5wRhvdaRcfQVR6i5d7b1Q_CfiN-Z23TdbIlCtCpF4MShc7esCf9Dq/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    <div class="row"> 
+        <div class="8">
+            <p>Some of the brightest minds in town (Researchers/PhDs/Entrepreneurs) have put together amazing projects for students to get involved in! <br>
+            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeHlomMmi00xfJSPR0PXm-d5qP1RYKqs3Mlh8rV7wa3ASxn6g/viewform">Apply here</a></strong> to work on those super cool projects. But be quick! They are ver popular.</p>
+        </div>
+    </div>
+    <iframe class="set_max_size"  src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true"></iframe>
     </div>
 </section>
