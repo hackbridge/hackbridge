@@ -60,8 +60,8 @@ permalink: cluster.html
             </div>
         </div>
 
-    <hr class="major" />
-    <h2>Active & Past Projects</h2>
+    <hr class="major" id="projects"/>
+    <h2 >Active & Past Projects</h2>
     <div class="row"> 
         <div class="8">
             <p>Some of the brightest minds in town (Researchers/PhDs/Entrepreneurs) have put together amazing projects for students to get involved in! <br>
@@ -71,7 +71,7 @@ permalink: cluster.html
     <iframe class="set_max_size"  src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true"></iframe>
     <div>
         <br>
-        <p>P.S. The links might work better if opened in a new tab 😃</p>
+        <p>P.S. The links might work better if opened in a new tab 😉</p>
     </div>
     </div>
 </section>
