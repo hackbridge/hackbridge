@@ -46,7 +46,7 @@ permalink: about.html
 			<div class="row uniform align-center vert-space-large">
 				<div class="center">
 					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/khanh.jpg" alt="" /></span>
-					<div class="pad-top"><b>Sỹ Khánh Nguyễn</b></div>
+					<div class="pad-top"><b>Khanh Nguyen</b></div>
 				</div>
 				<div class="center">
 					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/monica.jpg" alt="" /></span>
