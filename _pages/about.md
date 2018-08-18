@@ -29,19 +29,37 @@ permalink: about.html
 		</header>
 
 		<div class="box alt">
-			<div class="row uniform align-center">
+			<div class="row uniform align-center vert-space-large">
 				<div class="center">
-					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/imran.jpg" alt="" /></span>
-					<div class="pad-top"><b>Imran Ahmed</b></div>
+					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/andrew.jpg" alt="" /></span>
+					<div class="pad-top"><b>Andrew Foong</b></div>
 				</div>
 				<div class="center">
-					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/ani.jpg" alt="" /></span>
-					<div class="pad-top"><b>Aniruddh Raghu</b></div>
+					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/edward.jpg" alt="" /></span>
+					<div class="pad-top"><b>Edward Liu</b></div>
+				</div>
+				<div class="center">
+					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/evelina.jpg" alt="" /></span>
+					<div class="pad-top"><b>Evelina Gumileva</b></div>
+				</div>
+			</div>
+			<div class="row uniform align-center vert-space-large">
+				<div class="center">
+					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/khanh.jpg" alt="" /></span>
+					<div class="pad-top"><b>Sỹ Khánh Nguyễn</b></div>
+				</div>
+				<div class="center">
+					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/monica.jpg" alt="" /></span>
+					<div class="pad-top"><b>Monica Dayao</b></div>
+				</div>
+				<div class="center">
+					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/shusma.jpg" alt="" /></span>
+					<div class="pad-top"><b>Shusma Balaji</b></div>
 				</div>
 			</div>
 		</div>
 
-		<p>Hackbridge is currently run by two final-year engineering students. Obviously, to achieve our vision, we need as many hands as we can get! We'd be looking for help in <b>sponsorship, event management, web design, speaker-hunting</b> and much more! If Hackbridge is something that you're interested in helping out with - and you want to make a lasting impact on the entrepreneurial environment at Cambridge - please get in touch by emailing <b><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21">team@hackbridge.io</a></b>.</p>
+		<p>Hackbridge is currently run by a small team of undergrads and PhDs. Obviously, to achieve our vision, we need as many hands as we can get! We'd be looking for help in <b>sponsorship, event management, web design, speaker-hunting</b> and much more! If Hackbridge is something that you're interested in helping out with - and you want to make a lasting impact on the entrepreneurial environment at Cambridge - please get in touch by emailing <b><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21">team@hackbridge.io</a></b>.</p>
 
 		<p>If you do reach out, please let us know (very briefly) <b>what you're working on now</b>/have worked on in the past and <b>where you'd like to help</b>! Also, let us know what subject you're studying and what year you're in!</p>
 
