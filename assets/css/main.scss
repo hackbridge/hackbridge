@@ -60,6 +60,12 @@
 		align-items: center;
 	}
 
+	img.center {
+		display: block;
+		 margin-left: auto;
+		 margin-right: auto;
+	}
+
 	.set_max_size {
 		width: 100% !important;
 		height: 500px !important;

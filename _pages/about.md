@@ -30,30 +30,30 @@ permalink: about.html
 
 		<div class="box alt">
 			<div class="row uniform align-center vert-space-large">
-				<div class="center">
-					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/andrew.jpg" alt="" /></span>
+				<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/andrew.jpg" alt="" /></span>
 					<div class="pad-top"><b>Andrew Foong</b></div>
 				</div>
-				<div class="center">
-					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/edward.jpg" alt="" /></span>
+				<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/edward.jpg" alt="" /></span>
 					<div class="pad-top"><b>Edward Liu</b></div>
 				</div>
-				<div class="center">
-					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/evelina.jpg" alt="" /></span>
+				<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/evelina.jpg" alt="" /></span>
 					<div class="pad-top"><b>Evelina Gumileva</b></div>
 				</div>
 			</div>
 			<div class="row uniform align-center vert-space-large">
-				<div class="center">
-					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/khanh.jpg" alt="" /></span>
+				<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/khanh.jpg" alt="" /></span>
 					<div class="pad-top"><b>Khanh Nguyen</b></div>
 				</div>
-				<div class="center">
-					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/monica.jpg" alt="" /></span>
+				<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/monica.jpg" alt="" /></span>
 					<div class="pad-top"><b>Monica Dayao</b></div>
 				</div>
-				<div class="center">
-					<span class="image fit rmb"><img class="img-circle size-fix" src="assets/images/shusma.jpg" alt="" /></span>
+				<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/shusma.jpg" alt="" /></span>
 					<div class="pad-top"><b>Shusma Balaji</b></div>
 				</div>
 			</div>
