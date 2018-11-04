@@ -71,6 +71,16 @@ permalink: about.html
 					<div class="pad-top"><b>Mark Mathews</b></div>
 				</div>
 			</div>
+      	<div class="row uniform align-center vert-space-large">
+				<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/sridhar.jpg" alt="" /></span>
+					<div class="pad-top"><b>Sridhar Prabhu</b></div>
+				</div>
+				<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/keefe.jpg" alt="" /></span>
+					<div class="pad-top"><b>Keefe Wayne Teo</b></div>
+				</div>
+			</div>
 		</div>
 
 		<p>Hackbridge is currently run by a small team of undergrads and PhDs. Obviously, to achieve our vision, we need as many hands as we can get! We'd be looking for help in <b>sponsorship, event management, web design, speaker-hunting</b> and much more! If Hackbridge is something that you're interested in helping out with - and you want to make a lasting impact on the entrepreneurial environment at Cambridge - please get in touch by emailing <b><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21">team@hackbridge.io</a></b>.</p>
