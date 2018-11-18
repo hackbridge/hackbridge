@@ -18,7 +18,8 @@ permalink: cluster.html
 		<header class="major">
 			<h1>Cluster</h1>
 		</header>
-        <h3>Tuesdays, from 6pm @ Cambridge University Engineering Department.</h3> 
+        <h3>Tuesdays, from 6pm @ Cambridge University Engineering Department, LR6.</h3> 
+        <p>LR6 is on the second floor beside the library, message on Facebook if you can't get in.</p>
 
         <ul class="actions">
             <li><a href="https://www.facebook.com/hackbridgeio/"  target="_blank" class="button">Visit our Facebook Page</a></li>
