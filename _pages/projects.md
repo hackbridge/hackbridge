@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 description: Create novel research and valuable products
-image: assets/images/spacex.jpg
+image: assets/images/arm.jpg
 order: 1
 nav-order: 1
 nav-menu: true
