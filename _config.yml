@@ -9,7 +9,7 @@ include: ["_pages"]
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 5
 
 # social settings
 500px_url:

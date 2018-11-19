@@ -4,7 +4,7 @@ layout: landing
 description: 'Our mission and our team.'
 image: assets/images/office.jpg
 order: 4
-nav-order: 1
+nav-order: 4
 nav-menu: true
 permalink: about.html
 ---

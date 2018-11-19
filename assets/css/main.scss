@@ -64,11 +64,12 @@
 		display: block;
 		 margin-left: auto;
 		 margin-right: auto;
-	}
-
-	.set_max_size {
-		width: 100% !important;
-		height: 500px !important;
+  }
+  
+	iframe {
+    height: 1000px;
+    width: 100%;
+    border: none;
 	}
 
 	.align-center {

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Cluster
-description: Code & build your dream projects. </br>Tuesdays, from 4pm at CUED.
-image: assets/images/arm.jpg
-order: 1
-nav-order: 2
+description: Meet up with the tech community. </br>Tuesdays, from 6pm at CUED.
+image: assets/images/yc.jpg
+order: 3
+nav-order: 3
 nav-menu: true
 permalink: cluster.html
 ---
@@ -30,40 +30,7 @@ permalink: cluster.html
 
         <p><b>Hackbridge Cluster</b> aims to foster the sort of collaborative environment which encourages you to build your dream projects. Whether its a $bn app in-the-making or a boundary-breaking research paper, you'll always find a group of like-minded - and motivated - students. Spend your time brainstorming ideas, furiously coding, or just leisurely working on examples papers. Drop by at the next Cluster - we're looking forward to meeting you!</p>
 
-        
-    <hr class="major" id="projects"/>
-    <h2 >Active & Past Projects</h2>
-    <div class="row"> 
-        <div class="8">
-            <p>
-            We run challenging projects throughout the year that aim to produce either novel research or valuable products. If you are interesting in joining a project team, please apply using the link below.<br>
-            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeHlomMmi00xfJSPR0PXm-d5qP1RYKqs3Mlh8rV7wa3ASxn6g/viewform?usp=sf_link">Apply for a project</a></strong>
-            </p>
-            <p>
-            If you want to propose your own project idea. Please fill in the project proposal form. We will help you build a team and provide the resources to get it started.<br>
-            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd8NqKvnXkxT2LdktykbJVQJI5S2vx5OhOziTd-FkshQkYe0w/viewform?usp=sf_link">Propose a project</a></strong>
-            <br>
-            </p>         
-        </div>
-    </div>
-    <iframe class="set_max_size"  src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true"></iframe>
-    
     <div style="margin: 40px"></div>
-
-    <hr class="major" id="challenges"/>
-    <h2 >Committee Proposed Challenges</h2>
-      <div class="row"> 
-        <div class="8">
-            <p>
-            Challenges are beginner friendly projects proposed by the Hackbridge committee. They are there to help you develop your skills and prepare you for a research or commercial project in the future. You don't need to apply for them. Just turn up at the clusters and our commitee will be there to help you get started.
-            <br>
-            <strong><a href="https://docs.google.com/document/d/18NBh1FZMcwW45-kAgh5mDbFV7iIokYgkbdCjLcAHkZM/edit?usp=sharing">Check out the challenges</a></strong>.
-            </p>
-        </div>
-    </div>
-    <hr class="major" id="challenges"/>
-    <div style="margin: 40px"></div>
-    <h2 >Cluster Sessions</h2>
     <div class="row">
             <div class="4u 12u$(medium)">
                 <h3>Who can turn up?</h3>
