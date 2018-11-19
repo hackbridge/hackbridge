@@ -34,7 +34,7 @@ permalink: projects.html
         </div>
     </div>
     <h2 >Active & Past Projects</h2>
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true&widget=false"></iframe>
+    <iframe width="100%" src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true&widget=false"></iframe>
     
     <div style="margin: 40px"></div>
 
