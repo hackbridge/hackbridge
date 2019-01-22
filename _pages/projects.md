@@ -33,9 +33,16 @@ permalink: projects.html
             </p>         
         </div>
     </div>
-    <h2 >Active & Past Projects</h2>
-    <iframe width="100%" src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true&widget=false"></iframe>
-    
+
+    <h2 >New Projects</h2>
+    <iframe id="new_projects" onload="resizeIframe(this)" src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true&widget=false"></iframe>
+
+    <h2 >Active Projects</h2>
+    <iframe id="active_projects" onload="resizeIframe(this)" src="https://docs.google.com/document/d/e/2PACX-1vQjnFd-e3-UGCf1l7gbpBVsaF0RCnWaaLOeVfNNvD8EutlWZnEIDyoYmNnNy3orR_qB9iCMr8JcZISS/pub?embedded=true"></iframe>
+
+    <h2 >Past Projects</h2>
+    <iframe id="past_projects" onload="resizeIframe(this)" src="https://docs.google.com/document/d/e/2PACX-1vShq9N06_lSEcLtWQrSN4KQRHChEFAA0SRr1K_kygdzf7adUSX4Jr9KJqeRkwY1ANsd41P0yGHVMyop/pub?embedded=true"></iframe>
+
     <div style="margin: 40px"></div>
 
     </div>

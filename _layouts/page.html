@@ -10,26 +10,62 @@
 
 <body>
 
-	{% include header.html %} 
-	
-	<!-- Main -->
-	<div id="main" class="alt">
-	
-	<!-- One -->
-	{{ content }}
-	
+  {% include header.html %}
+
+  <!-- Main -->
+  <div id="main" class="alt">
+
+    <!-- One -->
+    {{ content }}
+
   </div>
 
-  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script>
-  
-  function resizeIframe(obj) {
-    console.log(obj)
-    console.log(obj.innerHeight)
-    obj.style.height = window.innerHeight + 'px';
-  }       
+  <script type="text/javascript">
+    function resizeIframe(iframe) {
+      iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
+    }
+  </script>  
+  <!-- <script type="text/javascript">
 
+    window.addEventListener('message', function(event) { 
+      console.log('bomba')
+      console.log(event.data)
+
+    // IMPORTANT: Check the origin of the data! 
+    // if (~event.origin.indexOf('http://yoursite.com')) { 
+    //     // The data has been sent from your site 
+
+    //     // The data sent with postMessage is stored in event.data 
+    //     console.log(event.data); 
+    // } else { 
+    //     // The data hasn't been sent from your site! 
+    //     // Be careful! Do not use it. 
+    //     return; 
+    // } 
+    }); 
+
+    var loaded = false;
+
+    function iframeLoaded() {
+      if (loaded) return;
+
+      loaded = true;
+      console.log('function called')
+      console.log(document.getElementById('new_projects'))
+      var iFrames = [
+        document.getElementById('new_projects'),
+        document.getElementById('active_projects'),
+        document.getElementById('past_projects')
+      ];
+      for (let frame of iFrames) {
+        console.log(document.getElementById('new_projects'))
+        frame.height = "";
+        frame.height = frame.contentWindow.document.body.scrollHeight + "px";
+      }  
+    }
   </script> -->
+
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	
 	
 	{% include footer.html %}
