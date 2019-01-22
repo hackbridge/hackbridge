@@ -38,16 +38,12 @@ permalink: about.html
 					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/edward.jpg" alt="" /></span>
 					<div class="pad-top"><b>Edward Liu</b></div>
 				</div>
-				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/evelina.jpg" alt="" /></span>
-					<div class="pad-top"><b>Evelina Gumileva</b></div>
+        <div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/keefe.jpg" alt="" /></span>
+					<div class="pad-top"><b>Keefe Wayne Teo</b></div>
 				</div>
 			</div>
 			<div class="row uniform align-center vert-space-large">
-				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/khanh.jpg" alt="" /></span>
-					<div class="pad-top"><b>Khanh Nguyen</b></div>
-				</div>
 				<div class="center col-4">
 					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/monica.jpg" alt="" /></span>
 					<div class="pad-top"><b>Monica Dayao</b></div>
@@ -56,29 +52,9 @@ permalink: about.html
 					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/shusma.jpg" alt="" /></span>
 					<div class="pad-top"><b>Shusma Balaji</b></div>
 				</div>
-			</div>
-			<div class="row uniform align-center vert-space-large">
-				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/dimitris.jpg" alt="" /></span>
-					<div class="pad-top"><b>Dimitris Alexandridis</b></div>
-				</div>
-				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/sehaj.jpg" alt="" /></span>
-					<div class="pad-top"><b>Sehaj Chawla</b></div>
-				</div>
-				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/mark.jpg" alt="" /></span>
-					<div class="pad-top"><b>Mark Mathews</b></div>
-				</div>
-			</div>
-      	<div class="row uniform align-center vert-space-large">
-				<div class="center col-4">
+      	<div class="center col-4">
 					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/sridhar.jpg" alt="" /></span>
 					<div class="pad-top"><b>Sridhar Prabhu</b></div>
-				</div>
-				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/keefe.jpg" alt="" /></span>
-					<div class="pad-top"><b>Keefe Wayne Teo</b></div>
 				</div>
 			</div>
 		</div>
