@@ -68,9 +68,21 @@
   
 	iframe {
     // height: 500px;
-    // width: 100%;
+    width: 100%;
     border: none;
-	}
+  }
+
+  #new_projects {
+    height: 300px;
+  }
+
+  #active_projects {
+    height: 1400px;
+  }
+
+  #past_projects {
+    height: 500px;
+  }
 
 	.align-center {
 		display: flex;
