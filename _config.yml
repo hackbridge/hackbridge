@@ -22,6 +22,8 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
+medium_url: 
+oliverwyman_url: https://oliverwyman.com
 
 # build settings
 markdown: kramdown
