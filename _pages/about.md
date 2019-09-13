@@ -30,30 +30,41 @@ permalink: about.html
 		<div class="box alt">
 			<div class="row uniform align-center vert-space-large">
 				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/andrew.jpg" alt="" /></span>
-					<div class="pad-top"><b>Andrew Foong</b></div>
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/keefe.jpg" alt="" /></span>
+					<div class="pad-top"><b>Keefe Wayne Tao</b></div>
+					<div class="pad-top"><b>President</b></div>
 				</div>
 				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/edward.jpg" alt="" /></span>
-					<div class="pad-top"><b>Edward Liu</b></div>
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/Claire.jpg" alt="" /></span>
+					<div class="pad-top"><b>Claire Lim</b></div>
+					<div class="pad-top"><b>Director of Partnerships</b></div>
 				</div>
         <div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/keefe.jpg" alt="" /></span>
-					<div class="pad-top"><b>Keefe Wayne Teo</b></div>
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/Noah.jpg" alt="" /></span>
+					<div class="pad-top"><b>Noah Öhrner</b></div>
+					<div class="pad-top"><b>Director of Community and Events</b></div>
 				</div>
 			</div>
 			<div class="row uniform align-center vert-space-large">
 				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/monica.jpg" alt="" /></span>
-					<div class="pad-top"><b>Monica Dayao</b></div>
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/Robert.jpg" alt="" /></span>
+					<div class="pad-top"><b>Robert Martin</b></div>
+					<div class="pad-top"><b>Director of Self-Initiated Projects</b></div>
 				</div>
 				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/shusma.jpg" alt="" /></span>
-					<div class="pad-top"><b>Shusma Balaji</b></div>
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/Jakub.jpg" alt="" /></span>
+					<div class="pad-top"><b>Jakub Suchánek</b></div>
+					<div class="pad-top"><b>Director of Research Projects</b></div>
 				</div>
       	<div class="center col-4">
 					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/sridhar.jpg" alt="" /></span>
-					<div class="pad-top"><b>Sridhar Prabhu</b></div>
+					<div class="pad-top"><b>Theodoros Ouzounellis Kavlakonis</b></div>
+					<div class="pad-top"><b>Director of Consulting</b></div>
+				</div>
+		<div class="center col-4">
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/lixi.jpg" alt="" /></span>
+					<div class="pad-top"><b>Li Xi</b></div>
+					<div class="pad-top"><b>Director of Consulting</b></div>
 				</div>
 			</div>
 		</div>
