@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Projects
+layout: page
 description: Create novel research and valuable products
 image: assets/images/arm.jpg
 order: 1

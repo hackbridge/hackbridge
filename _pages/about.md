@@ -3,8 +3,8 @@ title: About Us
 layout: landing
 description: 'Our mission and our team.'
 image: assets/images/office.jpg
-order: 4
-nav-order: 4
+order: 3
+nav-order: 3
 nav-menu: true
 permalink: about.html
 ---
@@ -18,8 +18,7 @@ permalink: about.html
 		<header class="major">
 			<h2>Our Mission</h2>
 		</header>
-		<p>Hackbridge was started by a couple of students who had just returned from MIT as part of the now discontinued Cambridge-MIT Exchange Program. What they noticed was that students in the US were actively encouraged to pursue and develop personal projects in their spare time. Furthermore, in addition to the large amount of funding available for personal projects, students were also actively hacking together at weekly gatherings and industry leaders (read: Chairman of Google) frequently visited the university to encourage students to apply their technical skills outside of class. This created an <b>exciting</b> can-do environment where students had the attitude to <b>build something new</b> - all in addition to completing their classwork. As a result of this environment, <b>talented teams are formed, great projects are made, and awesome companies are created.</b></p>
-		<p><b>Our goal?</b> To foster an <b>identical environment</b> at Cambridge. To encourage people to use their time to explore new ideas and to focus people on building the future. If the prospect of this excites you, then you'll love our events and we'd love for you to turn up and say hi. We're looking forward to meeting you soon - and we'd love to see what you can build!</p>
+		<p>Hackbridge was  born  out  of  the  experiences  of  two  Cambridge  Engineering  students  who  spent  one  year  on  the  “MIT exchange programme” and wanted to bring the “hacker” culture to Cambridge – hence supercharging students’ learning via side-projects outside of their course. We  help  students  develop  practical  skills  by  facilitating  challenging  projects  that  aim  to  create  either  novel  research  or commercial products. Since the society’s inception just over two years ago, we have grown to a community of around 70 students who’ve worked on at least one project before, with over 20 deeply challenging projects that range from Machine Learning, to Blockchain to SaaS products.</p>
 	</div>
 </section>
 <section id = "two">
@@ -59,7 +58,7 @@ permalink: about.html
 			</div>
 		</div>
 
-		<p>Hackbridge is currently run by a small team of undergrads and PhDs. Obviously, to achieve our vision, we need as many hands as we can get! We'd be looking for help in <b>sponsorship, event management, web design, speaker-hunting</b> and much more! If Hackbridge is something that you're interested in helping out with - and you want to make a lasting impact on the entrepreneurial environment at Cambridge - please get in touch by emailing <b><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21">team@hackbridge.io</a></b>.</p>
+		<p>Hackbridge is currently run by a passionate team of students across disciplines and year groups. To achieve our vision, we need as many hands as we can get! We'd be looking for help in <b>sponsorship, event management, web design, speaker-hunting</b> and much more! If Hackbridge is something that you're interested in helping out with - and you want to make a lasting impact on the entrepreneurial environment at Cambridge - please get in touch by emailing <b><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21">team@hackbridge.io</a></b>.</p>
 
 		<p>If you do reach out, please let us know (very briefly) <b>what you're working on now</b>/have worked on in the past and <b>where you'd like to help</b>! Also, let us know what subject you're studying and what year you're in!</p>
 
