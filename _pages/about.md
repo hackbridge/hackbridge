@@ -47,7 +47,7 @@ permalink: about.html
 			</div>
 			<div class="row uniform align-center vert-space-large">
 				<div class="center col-4">
-					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/Robert.jpg" alt="" /></span>
+					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/Robert2.jpg" alt="" /></span>
 					<div class="pad-top"><b>Robert Martin</b></div>
 					<div class="pad-top"><b>Director of Self-Initiated Projects</b></div>
 				</div>
@@ -58,7 +58,7 @@ permalink: about.html
 				</div>
       	<div class="center col-4">
 					<span class="image fit rmb"><img class="img-circle size-fix center" src="assets/images/Theo.jpg" alt="" /></span>
-					<div class="pad-top"><b>Theodoros Ouzounellis Kavlakonis</b></div>
+					<div class="pad-top"><b>Theodoros Kavlakonis</b></div>
 					<div class="pad-top"><b>Director of Consulting</b></div>
 				</div>
 		<div class="center col-4">
