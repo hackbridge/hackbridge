@@ -1,12 +1,12 @@
 ---
-title: Cluster
+title: Events
 layout: page
 description: Meet up with the tech community.
 image: assets/images/yc.jpg
 order: 2
 nav-order: 2
 nav-menu: true
-permalink: cluster.html
+permalink: events.html
 ---
 
 <!-- Main -->
