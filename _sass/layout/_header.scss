@@ -34,14 +34,13 @@
 			color: _palette(fg-light);
 			display: inline-block;
 			line-height: 1;
-			margin-left: 0.5em;
-			padding-left: 0.5em;
-
+			margin-left: 0;
+			padding-left: 0;
+			padding: 0 0 0 0;
 			&:first-child {
 				border-left: 0;
 				margin-left: 0;
 				padding-left: 0;
-			}
 		}
 
 		.logo {
