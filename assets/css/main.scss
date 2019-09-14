@@ -13,116 +13,212 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-	@include skel-breakpoints((
-		xlarge: '(max-width: 1680px)',
-		large: '(max-width: 1280px)',
-		medium: '(max-width: 980px)',
-		small: '(max-width: 736px)',
-		xsmall: '(max-width: 480px)',
-		xxsmall: '(max-width: 360px)'
-	));
+@include skel-breakpoints((
+	xlarge: '(max-width: 1680px)',
+	large: '(max-width: 1280px)',
+	medium: '(max-width: 980px)',
+	small: '(max-width: 736px)',
+	xsmall: '(max-width: 480px)',
+	xxsmall: '(max-width: 360px)'
+));
 
-	@include skel-layout((
-		reset: 'full',
-		boxModel: 'border',
-		grid: ( gutters: 2em ),
-		breakpoints: (
-			large: (
-				grid: ( gutters: 1.5em )
-			),
-			small: (
-				grid: ( gutters: 1.25em )
-			)
+@include skel-layout((
+	reset: 'full',
+	boxModel: 'border',
+	grid: ( gutters: 2em ),
+	breakpoints: (
+		large: (
+			grid: ( gutters: 1.5em )
+		),
+		small: (
+			grid: ( gutters: 1.25em )
 		)
-	));
+	)
+));
 
-	@mixin inner {
-		> .inner {
-			@include padding(4em, 0);
-			margin: 0 auto;
-			max-width: _size(inner);
-			width: calc(100% - 6em);
+@mixin inner {
+	> .inner {
+		@include padding(4em, 0);
+		margin: 0 auto;
+		max-width: _size(inner);
+		width: calc(100% - 6em);
 
-			@include breakpoint(small) {
-				@include padding(3em, 0);
-				width: calc(100% - 3em);
-			}
+		@include breakpoint(small) {
+			@include padding(3em, 0);
+			width: calc(100% - 3em);
+		}
+	}
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.center {
+	width: 100%;
+	text-align: center;
+	align-items: center;
+}
+
+img.center {
+	display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+
+iframe {
+// height: 500px;
+width: 100%;
+border: none;
+}
+
+#new_projects {
+height: 1400px;
+}
+
+#active_projects {
+height: 1400px;
+}
+
+#past_projects {
+height: 500px;
+}
+
+.align-center {
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+
+.img_wid_max {
+	max-width: 200px !important;
+}
+
+.pad-top {
+	padding-top: 5px;
+}
+
+.vert-space-large {
+	padding-bottom: 60px;
+}
+
+.rmb {
+	margin-bottom: 0px !important;
+}
+
+.size-fix {
+	max-height: 300px;
+	max-width: 300px;
+}
+
+#back-top {
+	position: fixed;
+	bottom: 5px;
+	right:10px;
+	width:auto;
+	display: none;
+	z-index:10000; //Not great - but eh can't think of anything better
+}
+
+#back-top.force {
+	background-color: #fff !important;
+}
+
+.icons {
+
+	a {
+		font-size: 1.2em !important;
+		padding: 0;
+
+		&:last-child {
+			padding-right: 0em !important;
+		}
+
+		.label {
+			vertical-align: center;
 		}
 	}
 
-	.img-circle {
-		border-radius: 50%;
+	li {
+		padding: 0 !important;
+		color: _palette(fg-light);
+		display: inline-block;
+		line-height: 1;
+		margin-left: 0.5em;
+		padding-left: 0.5em;
+
+		&:first-child {
+			border-left: 0;
+			margin-left: 0;
+			padding-left: 0;
+		}
 	}
+}
 
-	.center {
-		width: 100%;
-		text-align: center;
-		align-items: center;
-	}
-
-	img.center {
-		display: block;
-		 margin-left: auto;
-		 margin-right: auto;
-  }
-  
-	iframe {
-    // height: 500px;
-    width: 100%;
-    border: none;
-  }
-
-  #new_projects {
-    height: 1400px;
-  }
-
-  #active_projects {
-    height: 1400px;
-  }
-
-  #past_projects {
-    height: 500px;
-  }
-
-	.align-center {
-		display: flex;
-		align-items: center;
-		justify-content: center
-	}
-
-	.img_wid_max {
-		max-width: 200px !important;
-	}
-
-	.pad-top {
-		padding-top: 5px;
-	}
-
-	.vert-space-large {
-		padding-bottom: 60px;
-	}
-
-	.rmb {
-		margin-bottom: 0px !important;
-	}
-
-	.size-fix {
-		max-height: 300px;
-		max-width: 300px;
-	}
-
-	#back-top {
-		position: fixed; 
-		bottom: 5px; 
-		right:10px; 
-		width:auto;
+#header.alt {
+	.icons {
 		display: none;
-		z-index:10000; //Not great - but eh can't think of anything better
+	}
+}
+
+.sponsor-banner {
+	padding: 0 1em;
+
+	.size-inherit {
+		max-height: 3.25em;
+		height: 3.25em;
+		width: auto !important;
+		max-width: none;
+	}
+}
+
+
+.banner-icons {
+	position: relative;
+	top: -5.5em;
+	left: 65vw;
+	height: 0;
+	padding: 0;
+	margin: 0;
+
+	a {
+		font-size: 1.5em;
+		padding: 0;
+
+		&:last-child {
+			padding-right: 0em;
+		}
+
+		.label {
+			vertical-align: center;
+		}
 	}
 
-	#back-top.force {
-		background-color: #fff !important;
+	li {
+		padding: 0;
+		color: _palette(fg-light);
+		display: inline-block;
+		line-height: 1;
+		margin-left: 0.5em;
+		padding-left: 0.5em;
+
+		&:first-child {
+			border-left: 0;
+			margin-left: 0;
+			padding-left: 0;
+		}
 	}
+}
+
+article {
+	width: 60% !important;
+}
+
+article:nth-child(4n - 1),
+article:nth-child(4n - 2) {
+	width: 40% !important;
+}
+
 // Base.
 
 	@import 'base/page';

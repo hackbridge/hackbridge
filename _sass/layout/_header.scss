@@ -12,17 +12,15 @@
 	}
 
 	#header {
-		--height: 3.25em;
-
 		@include vendor('display', 'flex');
 		background-color: _palette(bg-alt);
 		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
 		font-weight: _font(weight-bold);
-		height: var(--height);
+		height: 3.25em;
 		left: 0;
 		letter-spacing: _font(letter-spacing-alt);
-		line-height: var(--height);
+		line-height: 3.25em;
 		margin: 0;
 		position: fixed;
 		text-transform: uppercase;
@@ -30,16 +28,7 @@
 		width: 100%;
 		z-index: _misc(z-index-base);
 
-		.size-inherit {
-			max-height: var(--height);
-			height: var(--height);
-			width: auto;
-			max-width: none;
-		}
 
-		.align-center {
-			padding: 0 1em;
-		}
 
 		li {
 			color: _palette(fg-light);
@@ -86,32 +75,6 @@
 				strong {
 					background-color: desaturate(darken(_palette(highlight), 15), 5);
 				}
-			}
-		}
-
-		.icons {
-
-			a {
-				font-size: 1.2em;
-				padding: 0;
-
-				&:last-child {
-					padding-right: 0em;
-				}
-
-				.label {
-					vertical-align: center;
-				}
-			}
-
-			li {
-				padding: 0;
-			}
-		}
-
-		&.alt {
-			.icons {
-				display: none;
 			}
 		}
 
