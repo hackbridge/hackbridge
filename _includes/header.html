@@ -4,6 +4,27 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+
+	<header class="major">
+		<h4>Powered by</h4>
+	</header>
+
+	<div class="box alt">
+		<div class="align-center">
+			<span class="image fit rmb">
+				<img class="size-inherit center" src="assets/images/ef_white_square.png" alt="" />
+			</span>
+			<span class="image fit rmb">
+				<img class="size-inherit center" src="assets/images/qb_white.png" alt="" />
+			</span>
+			<span class="image fit rmb">
+				<img class="size-inherit center" src="assets/images/oliver.jpg" alt="" />
+			</span>
+		</div>
+	</div>
+
+
+	<nav>
 		<ul class="icons">
 			{% if site.twitter_url %}
 			<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
@@ -39,20 +60,6 @@
 			<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 			{% endif %}
 		</ul>
-		<!-- Add sponsors -->
-		<header class="major">
-				<h2>Powered by</h2>
-		</header>
-		<div class="box alt">
-				<div class="row uniform align-center vert-space-large">
-					<div class="center col-4">
-							<span class="image fit rmb">
-								<img class="img-circle size-fix center" src="assets/images/keefe.jpg" alt="" />
-							</span>
-					</div>
-				</div>
-		</div>
-	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
