@@ -66,7 +66,7 @@ permalink: support.html
 				<div class="row 50% uniform"><span class="image"><a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
 			</div>
 			<div class="5u">
-				<div class="row 50% uniform"><h3 class="center">Distuingished Sponsor</h3></div>
+				<div class="row 50% uniform"><h3 class="center">Distinguished Sponsor</h3></div>
 				<div class="row 50% uniform"><span class="image"><a href = "https://www.quantumblack.com/" target="blank_"><img src="assets/images/qb_white.png" alt=""></a></span></div>
 			</div>
 		</div>
