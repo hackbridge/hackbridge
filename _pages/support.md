@@ -62,12 +62,17 @@ permalink: support.html
 		<p>We would like to thank our sponsors for their support. If you would like to sponsor us, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b></p>
 		<div class="row">
 			<div class="5u">
-				<div class="row 50% uniform"><h3 class="center">Student Entrepreneurship Partner</h3></div>
+				<!-- <div class="row 50% uniform"><h3 class="center">Student Entrepreneurship Partner</h3></div>-->
 				<div class="row 50% uniform"><span class="image"><a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
 			</div>
 			<div class="5u">
-				<div class="row 50% uniform"><h3 class="center">Global Consulting Partner</h3></div>
+				<!-- <div class="row 50% uniform"><h3 class="center">Global Consulting Partner</h3></div>-->
 				<div class="row 50% uniform"><span class="image"><a href = "https://www.quantumblack.com/" target="blank_"><img src="assets/images/qb_white.png" alt=""></a></span></div>
+			</div>
+			<div class="5u">
+				<!-- <div class="row 50% uniform"><h3 class="center">Global-->
+				 Consulting Partner</h3></div>
+				<div class="row 50% uniform"><span class="image"><a href = "https://www.oliverwyman.com/" target="blank_"><img src="assets/images/oliverwymanbig.png" alt=""></a></span></div>
 			</div>
 		</div>
 		<div class="vert-space-large"></div>
