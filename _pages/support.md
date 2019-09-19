@@ -66,13 +66,13 @@ permalink: support.html
 				<div class="row 50% uniform"><span class="image"><a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
 			</div>
 			<div class="5u">
-				<div class="row 50% uniform"><h3 class="center">Distuingished Sponsor</h3></div>
-				<div class="row 50% uniform"><span class="image"><a href = "https://www.quantumblack.com/" target="blank_"><img src="assets/images/qb_white.png" alt=""></a></span></div>
+				<div class="row 30% uniform"><h3 class="center">Distuingished Sponsor</h3></div>
+				<div class="row 30% uniform"><span class="image"><a href = "https://www.quantumblack.com/" target="blank_"><img src="assets/images/qb_white.png" alt=""></a></span></div>
 			</div>
 			<div class="5u">
-				<div class="row 50% uniform"><h3 class="center">Global
+				<div class="row 30% uniform"><h3 class="center">Global
 				 Consulting Partner</h3></div>
-				<div class="row 50% uniform"><span class="image"><a href = "https://www.oliverwyman.com/" target="blank_"><img src="assets/images/oliverwymanbig.png" alt=""></a></span></div>
+				<div class="row 30% uniform"><span class="image"><a href = "https://www.oliverwyman.com/" target="blank_"><img src="assets/images/oliverwymanbig.png" alt=""></a></span></div>
 			</div>
 		</div>
 		<div class="vert-space-large"></div>
