@@ -74,7 +74,7 @@ permalink: support.html
 			<div class="5u">
 				<div class="row 50% uniform"><h3 class="center">Global
 				 Consulting Partner</h3></div>
-				<div class="row 50% uniform"><span class="image"><a href = "https://www.oliverwyman.com/" target="blank_"><img src="assets/images/oliverwymanbig.png" alt=""></a></span></div>
+				<div class="row 50% uniform"><span class="image"><a href = "https://www.oliverwyman.com/" target="blank_"><img src="assets/images/oliverwymanbig2.png" alt=""></a></span></div>
 			</div>
 			<div class="5u">
 				<div class="row 50% uniform"><h3 class="center">Self-initiated Project Partner</h3></div>
