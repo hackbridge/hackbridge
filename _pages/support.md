@@ -76,6 +76,10 @@ permalink: support.html
 				 Consulting Partner</h3></div>
 				<div class="row 50% uniform"><span class="image"><a href = "https://www.oliverwyman.com/" target="blank_"><img src="assets/images/oliverwymanbig.png" alt=""></a></span></div>
 			</div>
+			<div class="5u">
+				<div class="row 50% uniform"><h3 class="center">Self-initiated Project Partner</h3></div>
+				<div class="row 50% uniform"><span class="image"><a href = "https://www.syndicateroom.com/" target="blank_"><img src="assets/images/syndicateroom.png" alt=""></a></span></div>
+			</div>
 		</div>
 		<div class="vert-space-large"></div>
 	</div>
