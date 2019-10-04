@@ -39,8 +39,7 @@ permalink: projects.html
             <h3>New Projects</h3>
             <div class="project-row">
                 <h4>Combating Food Waste With Computer Vision</h4>
-                <p>Developing a computer vision algorithm to recognise food ingredients, used for recommending recipes
-                for leftover food.</p>
+                <p>Developing a computer vision algorithm to recognise food ingredients, used for recommending recipes for leftover food.</p>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1BUqgTvDDAaH63USv32nDvo8wpKU6KBmk4YGv2tU3MjE/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
