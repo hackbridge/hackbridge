@@ -34,20 +34,97 @@ permalink: projects.html
         </div>
     </div>
 
-    <h2 >New Projects</h2>
-    <iframe id="new_projects" src="https://docs.google.com/document/d/e/2PACX-1vRNfG2vUQ1cj48awKIFUL3ttbwNQNx8ifKrwW_2a9HtBTaq3Z3fkF-y3nWA2_azoWf4iLipPTckmBH2/pub?embedded=true&widget=false"></iframe>
-
-    <div style="margin: 40px"></div>
-
-    <h2 >Active Projects</h2>
-    <iframe id="active_projects" src="https://docs.google.com/document/d/e/2PACX-1vQjnFd-e3-UGCf1l7gbpBVsaF0RCnWaaLOeVfNNvD8EutlWZnEIDyoYmNnNy3orR_qB9iCMr8JcZISS/pub?embedded=true"></iframe>
-
-    <div style="margin: 40px"></div>
-
-    <h2 >Past Projects</h2>
-    <iframe id="past_projects" src="https://docs.google.com/document/d/e/2PACX-1vShq9N06_lSEcLtWQrSN4KQRHChEFAA0SRr1K_kygdzf7adUSX4Jr9KJqeRkwY1ANsd41P0yGHVMyop/pub?embedded=true"></iframe>
-
-    <div style="margin: 40px"></div>
-
+    <div class="row">
+        <div class="8">
+            <h3>New Projects</h3>
+            <div class="project-row">
+                <h4>Hypervault - Blockchain-based Secure Resource Access System</h4>
+                <p>Designing a secure resource access system that makes it easy to safely share confidential
+                information</p>
+            </div>
+            <div class="project-row">
+                <h4>6DOF Object Pose Detection from Monocular Images</h4>
+                <p>Re-implementation and possibly extension of a neural network architecture for 6DOF object detection
+                from monocular images.</p>
+            </div>
+            <div class="project-row">
+                <h4>Beta Go - A Reimplementation of AlphaGo Zero</h4>
+                <p>Reimplementing a scaled down version of Deepmind’s AlphaGo Zero, playing on a 5x5 board</p>
+            </div>
+            <div class="project-row">
+                <h4>Mandarin Tone Trainer</h4>
+                <p>Using machine learning to develop a system that can recognise and correct Mandarin tones,
+                for people learning the language</p>
+            </div>
+        </div>
     </div>
+    
+    <div class="row">
+        <div class="8">
+            <h3>Active Projects</h3>
+            <div class="project-row">
+                <h4>Hypervault - Blockchain-based Secure Resource Access System</h4>
+                <p>Designing a secure resource access system that makes it easy to safely share confidential
+                information</p>
+            </div>
+            <div class="project-row">
+                <h4>6DOF Object Pose Detection from Monocular Images</h4>
+                <p>Re-implementation and possibly extension of a neural network architecture for 6DOF object detection
+                from monocular images.</p>
+            </div>
+            <div class="project-row">
+                <h4>Beta Go - A Reimplementation of AlphaGo Zero</h4>
+                <p>Reimplementing a scaled down version of Deepmind’s AlphaGo Zero, playing on a 5x5 board</p>
+            </div>
+            <div class="project-row">
+                <h4>Mandarin Tone Trainer</h4>
+                <p>Using machine learning to develop a system that can recognise and correct Mandarin tones,
+                for people learning the language</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="8">
+            <h3>Past Projects</h3>
+            <div class="project-row">
+                <h4>Combating Food Waste With Computer Vision</h4>
+                <p>Developing a computer vision algorithm to recognise food ingredients, used for recommending recipes
+                for leftover food.</p>
+            </div>
+            <div class="project-row">
+                <h4>Image Classification Using a Sequential Attention Mechanism</h4>
+                <p>Developing a new image classification method, in which a neural network looks at an image multiple
+                times before making a decision</p>
+            </div>
+            <div class="project-row">
+                <h4>Investigating The Gravitational Collapse of Planetary Atmospheres</h4>
+                <p>Study the collapse of planetary atmospheres via hydrodynamic simulations.</p>
+            </div>
+            <div class="project-row">
+                <h4>Video Generation via Generative Adversarial Networks</h4>
+                <p>Producing realistic video sequences using GANs</p>
+            </div>
+            <div class="project-row">
+                <h4>Hypervault - Blockchain-based Secure Resource Access System</h4>
+                <p>Designing a secure resource access system that makes it easy to safely share confidential
+                information</p>
+            </div>
+            <div class="project-row">
+                <h4>6DOF Object Pose Detection from Monocular Images</h4>
+                <p>Re-implementation and possibly extension of a neural network architecture for 6DOF object detection
+                from monocular images.</p>
+            </div>
+            <div class="project-row">
+                <h4>Beta Go - A Reimplementation of AlphaGo Zero</h4>
+                <p>Reimplementing a scaled down version of Deepmind’s AlphaGo Zero, playing on a 5x5 board</p>
+            </div>
+            <div class="project-row">
+                <h4>Mandarin Tone Trainer</h4>
+                <p>Using machine learning to develop a system that can recognise and correct Mandarin tones,
+                for people learning the language</p>
+            </div>
+        </div>
+    </div>
+</div>
 </section>
