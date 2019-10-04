@@ -218,6 +218,70 @@ article:nth-child(4n - 2) {
 	}
 }
 
+
+.link-effect {
+	width: 100%;
+	padding-bottom: 20px;
+	-webkit-overflow-scrolling: touch;
+	display: flex;
+	justify-content: center;
+}
+
+.link-effect a {
+	margin: 0 10px;
+	color: rgba(230, 126, 34, 1);
+	position: relative;
+	padding: 5px 7px;
+	border-top: 2px solid rgba(230, 126, 34, 0);
+	border-bottom: 2px solid rgba(230, 126, 34, 0);
+	transition: padding .3s, border-color .3s;
+	font-size: 14px;
+	-webkit-transform: translate3d(0, 0, 0);
+}
+
+.link-effect a::after,
+.link-effect a::before {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	max-height: 0;
+	color: rgba(230, 126, 34, 0);
+	content: attr(data-text);
+	transition: max-height .3s, border-color 0s
+}
+
+.link-effect a:focus,
+a:hover {
+	padding: 5px 7px;
+	border-color: rgba(230, 126, 34, 1);
+	outline: 0
+}
+
+.link-effect a::before {
+	top: 0;
+	border-left: 2px solid rgba(230, 126, 34, 0)
+}
+
+.link-effect a::after {
+	padding: 5px;
+	border-right: 2px solid rgba(230, 126, 34, 0)
+}
+
+.link-effect a:focus::before,
+a:focus::after,
+a:hover::after,
+a:hover::before {
+	max-height: 100%;
+	transition-delay: .28s;
+	border-color: rgba(230, 126, 34, 1)
+}
+
+.link-effect a,
+ins {
+	text-decoration: none
+}
+
 @media only screen and (min-width: 650px) {
 	#header.alt {
 		.icons {

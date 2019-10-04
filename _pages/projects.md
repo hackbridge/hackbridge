@@ -118,6 +118,10 @@ permalink: projects.html
             <div class="project-row">
                 <h4>Beta Go - A Reimplementation of AlphaGo Zero</h4>
                 <p>Reimplementing a scaled down version of Deepmind’s AlphaGo Zero, playing on a 5x5 board</p>
+                <div class="link-effect">
+                        <a href="https://medium.com/hackbridge/what-we-learnt-by-making-our-own-alphago-zero-805ddc945a"
+                        target="_blank" data-text="Medium">Medium</a>
+                </div>
             </div>
             <div class="project-row">
                 <h4>Mandarin Tone Trainer</h4>
