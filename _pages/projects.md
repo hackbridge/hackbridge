@@ -31,7 +31,21 @@ redirect-url: projects.html
             If you want to propose your own project idea. Please fill in the project proposal form. We will help you build a team and provide the resources to get it started.<br>
             <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd8NqKvnXkxT2LdktykbJVQJI5S2vx5OhOziTd-FkshQkYe0w/viewform?usp=sf_link">Propose a project</a></strong>
             <br>
-            </p>         
+            </p>
+            <ul class="legend-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /> - Research</li>
+                <li><img src="assets/images/commercial.png" alt="" /> - Commercial</li>
+                <li>
+                    <img src="assets/images/startup.png" alt="" /> - 
+                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
+                                        target="_blank" data-text="Project Proposal">JumpStart form</a>
+                </li>
+                <li>
+                    <img src="assets/images/consult.png" alt="" /> - 
+                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
+                                        target="_blank" data-text="Project Proposal">Consulting website</a>
+                </li>
+            </ul>
         </div>
     </div>
     

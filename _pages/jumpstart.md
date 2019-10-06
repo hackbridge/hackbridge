@@ -1,5 +1,5 @@
 ---
-title: Jumpstart
+title: JumpStart
 layout: page
 description: Ideate. Iterate. Incubate.
 image: assets/images/jumpstart_tile.jpg
