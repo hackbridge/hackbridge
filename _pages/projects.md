@@ -7,6 +7,7 @@ order: 1
 nav-order: 1
 nav-menu: true
 permalink: projects.html
+redirect-url: projects.html
 ---
 
 <!-- Main -->
@@ -35,38 +36,149 @@ permalink: projects.html
     </div>
     
     <div class="row project-block">
-        <div class="8">
-            <h3>New Projects</h3>
+        <div class="8 project-block">
+            <h3>New Projects [accepting applications]</h3>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Open Source DNA Imaging System with Raspberry Pi - In Collaboration With BioMakespace</h4>
+                        <p>Design and build a DNA imaging system using a Raspberry Pi Camera for use in
+                        resource-constrained labs like Biomakespace and our partner labs in Africa.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Open Source Protein Electrophoresis - In Collaboration With BioMakespace</h4>
+                        <p>Design and build an open source, safer, affordable protein gel electrophoresis system for use
+                        in resource-constrained labs like Biomakespace and our partner labs in Africa.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1MqknqMRinsqUMP32x0ORDqOOlj3u1c3VMuMBrDk76pM/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Open Source UV Spectrophotometer - In Collaboration With BioMakespace</h4>
+                        <p>Design and build an open source UV spectrophotometer for quantifying DNA and proteins for use
+                        in resource-constrained labs like Biomakespace and our partner labs in Africa.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1LpkrtBqZMMtc3KyJOYHzyNKyWXpoNq7JZcrSPgamoFc/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
             <div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
                     <li>
-                        <h4>Combating Food Waste With Computer Vision</h4>
-                        <p>Developing a computer vision algorithm to recognise food ingredients, used for recommending
-                        recipes for leftover food.</p>
+                        <h4>Generative models for 2D and 3D cancer imaging</h4>
+                        <p>Developing 2D or 3D GANs to generate medical scans of cancer as a means of data augmentation
+                        for cancer segmentation models.</p>
                     </li>
                 </ul>
                 <div class="link-effect">
-                        <a href="https://docs.google.com/document/d/1BUqgTvDDAaH63USv32nDvo8wpKU6KBmk4YGv2tU3MjE/"
-                        target="_blank" data-text="Project Proposal">Project Proposal</a>
+                    <a href="https://docs.google.com/document/d/1GOe-RNKWBq38j-h3eSQewSTRWgAeen7ng8t-ckvrEfE/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Sensor Fusion for Automated Driving</h4>
+                        <p>Reduce computational requirement for multi-level sensor fusion - Implementing full-stack
+                        algorithms to allow autonomous navigation of vehicles in virtual hardware environment</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1Ut2d-YZaEYa82EH3tWS7zi4MugsSSjorw7-XluW8ZwM/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>NLP for News Clustering</h4>
+                        <p>Natural Language Processing clustering algorithm for multi-media news content.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1wWperf6-oUCL7gK4zxevr0AWEImliseKSUd_uDFHq9M/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>NLP for News Topic Classification</h4>
+                        <p>Natural Language Processing classification algorithm for multi-media news content.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1rtTo4SvPxkETpWuDWcemd8r-4WzqDOJ5sVI1h1UBpwY/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Econometrics modelling for public equities</h4>
+                        <p>Modeling relationships with the stock price of a company and fundamental forecasts
+                        (of eg. revenue, profit etc) to isolate a driver that is the best fit.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1TJX-ch029OJbaBXwnT369GFa0lKALXBGS77DAsRDTEU/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Predicting startup success based on historical data</h4>
+                        <p>SyndicateRoom has launched a new venture fund that aims to use data to identify the most
+                        promising startups to invest in.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1Qf7psdENM74Gp1M5cW4xSAgoRWFL-Zyx/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
         </div>
     </div>
     
     <div class="row project-block">
-        <div class="8">
-            <h3>Active Projects</h3>
+        <div class="8 project-block">
+            <h3>Active Projects [closed applications]</h3>
             <div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
                     <li>
-                        <h4>Machine Learning Models to predict cancer treatment response</h4>
-                        <p>Implementing a machine learning algorithm to predict response to cancer immunotherapy</p>
+                        <h4>Designing an Automated Marine Steering System</h4>
+                        <p>Designing a low cost auto pilot aiming system for small boats and rowing boats using the
+                        computing power on a mobile phone. Proposed by the Founder of Hawk-eye - Paul Hawkins</p>
                     </li>
                 </ul>
                 <div class="link-effect">
-                        <a href="https://docs.google.com/document/d/1yhByttcYV8-2Xk8ieLXTEPXkZJDSSKI3eeJ2t1QVBj4/"
+                        <a href="https://docs.google.com/document/d/13LgaOXc3k1xp2099fMmWD7A_CJarYBKzv9ZlP-7ufok/edit?usp=sharing"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>  
             </div>
@@ -140,7 +252,7 @@ permalink: projects.html
     </div>
     
     <div class="row project-block">
-        <div class="8">
+        <div class="8 project-block">
             <h3>Past Projects</h3>
             <div class="project-row">
                 <ul class="project-row-blocks">

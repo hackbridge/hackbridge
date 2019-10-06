@@ -3,10 +3,11 @@ title: About Us
 layout: landing
 description: 'Our mission and our team.'
 image: assets/images/office.jpg
-order: 3
-nav-order: 3
+order: 5
+nav-order: 5
 nav-menu: true
 permalink: about.html
+redirect-url: about.html
 ---
 
 <!-- Main -->

@@ -7,6 +7,7 @@ order: 2
 nav-order: 2
 nav-menu: true
 permalink: events.html
+redirect-url: events.html
 ---
 
 <!-- Main -->

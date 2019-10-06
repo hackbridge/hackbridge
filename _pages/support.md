@@ -3,10 +3,11 @@ title: Sponsors
 layout: page
 description: Interested in supporting some of the UK's most innovative creators?<br />Look no further.
 image: assets/images/camb.jpg
-order: 4
-nav-order: 4
+order: 6
+nav-order: 6
 nav-menu: true
 permalink: support.html
+redirect-url: support.html
 ---
 
 <!-- Main -->
