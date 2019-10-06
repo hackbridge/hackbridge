@@ -33,67 +33,103 @@ permalink: projects.html
             </p>         
         </div>
     </div>
-
-    <div class="row">
+    
+    <div class="row project-block">
         <div class="8">
             <h3>New Projects</h3>
             <div class="project-row">
-                <h4>Combating Food Waste With Computer Vision</h4>
-                <p>Developing a computer vision algorithm to recognise food ingredients, used for recommending recipes for leftover food.</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Combating Food Waste With Computer Vision</h4>
+                        <p>Developing a computer vision algorithm to recognise food ingredients, used for recommending
+                        recipes for leftover food.</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1BUqgTvDDAaH63USv32nDvo8wpKU6KBmk4YGv2tU3MjE/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>  
+                </div>
             </div>
         </div>
     </div>
     
-    <div class="row">
+    <div class="row project-block">
         <div class="8">
             <h3>Active Projects</h3>
             <div class="project-row">
-                <h4>Machine Learning Models to predict cancer treatment response</h4>
-                <p>Implementing a machine learning algorithm to predict response to cancer immunotherapy</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Machine Learning Models to predict cancer treatment response</h4>
+                        <p>Implementing a machine learning algorithm to predict response to cancer immunotherapy</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1yhByttcYV8-2Xk8ieLXTEPXkZJDSSKI3eeJ2t1QVBj4/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>  
             </div>
             <div class="project-row">
-                <h4>Scalable Machine Learning on Massive Images</h4>
-                <p>Developing novel methods to enable scalable production-ready deep learning pipeline on massive image data.</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Scalable Machine Learning on Massive Images</h4>
+                        <p>Developing novel methods to enable scalable production-ready deep learning pipeline on massive image data.</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1m5J-QnIWkJW0_80F2aj1JoqfvV6pX7N148-Ebyvpve0/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>  
             </div>
             <div class="project-row">
-                <h4>Analysing Videos to Find Soft Skill Indicators</h4>
-                <p>Interviewer.AI would like to create an assessment algorithm to measure key traits/skills that act as a predictor of job performance.</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Analysing Videos to Find Soft Skill Indicators</h4>
+                        <p>Interviewer.AI would like to create an assessment algorithm to measure key traits/skills that act as a predictor of job performance.</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/181p5KHg8hBpkYAUomSOWGkdsoRi_JEvOfUGecKdM_CI/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>  
             </div>
             <div class="project-row">
-                <h4>HelioRec</h4>
-                <p>An offshore floating solar power plant manufactured from recycled plastic: sustainable, scalable, rapid-to-deploy, reliable and cost-effective source of power generation..</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>HelioRec</h4>
+                        <p>An offshore floating solar power plant manufactured from recycled plastic: sustainable, scalable, rapid-to-deploy, reliable and cost-effective source of power generation..</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1kGvYfSUr4S9yIf7SZVbHhn6W1gVM5yogO-o4tsbuxOk/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>  
             </div>
             <div class="project-row">
-                <h4>Dynamic Vehicle Weight Sensors</h4>
-                <p>The aim of the project is to develop a system to accurately measure the weight of each axle of a lorry as it drives past at highway speed.</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Dynamic Vehicle Weight Sensors</h4>
+                        <p>The aim of the project is to develop a system to accurately measure the weight of each axle of a lorry as it drives past at highway speed.</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1ATQG9fEe_TNJNlmx7s-b5r_R-fVnVdZczorK57FvJkY/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>  
             </div>
             <div class="project-row">
-                <h4>NLP for News Topic Classification</h4>
-                <p>Natural Language Processing classification algorithm for multi-media news content.</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>NLP for News Topic Classification</h4>
+                        <p>Natural Language Processing classification algorithm for multi-media news content.</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1rtTo4SvPxkETpWuDWcemd8r-4WzqDOJ5sVI1h1UBpwY/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
@@ -103,82 +139,120 @@ permalink: projects.html
         </div>
     </div>
     
-    <div class="row">
+    <div class="row project-block">
         <div class="8">
             <h3>Past Projects</h3>
             <div class="project-row">
-                <h4>Combating Food Waste With Computer Vision</h4>
-                <p>Developing a computer vision algorithm to recognise food ingredients, used for recommending recipes
-                for leftover food.</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Combating Food Waste With Computer Vision</h4>
+                        <p>Developing a computer vision algorithm to recognise food ingredients, used for recommending recipes
+                        for leftover food.</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1BUqgTvDDAaH63USv32nDvo8wpKU6KBmk4YGv2tU3MjE/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>  
             </div>
             <div class="project-row">
-                <h4>Image Classification Using a Sequential Attention Mechanism</h4>
-                <p>Developing a new image classification method, in which a neural network looks at an image multiple
-                times before making a decision</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Image Classification Using a Sequential Attention Mechanism</h4>
+                        <p>Developing a new image classification method, in which a neural network looks at an image multiple
+                        times before making a decision</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/16TsEez5IeOL2ltUcnC4Ys7BPxFHB5NApSCXUMMlkLvI/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>                
             </div>
             <div class="project-row">
-                <h4>Investigating The Gravitational Collapse of Planetary Atmospheres</h4>
-                <p>Study the collapse of planetary atmospheres via hydrodynamic simulations.</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Investigating The Gravitational Collapse of Planetary Atmospheres</h4>
+                        <p>Study the collapse of planetary atmospheres via hydrodynamic simulations.</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1ytw4zNbPMy7eEZjvOAuur3dDvk2CPHzonDfxX31ii7o/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
             <div class="project-row">
-                <h4>Video Generation via Generative Adversarial Networks</h4>
-                <p>Producing realistic video sequences using GANs</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Video Generation via Generative Adversarial Networks</h4>
+                        <p>Producing realistic video sequences using GANs</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1HHuJprOYAA2Wc3lZGXVn_2OJczjQZqTsLfBrhjhkYAE/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
             <div class="project-row">
-                <h4>Hypervault - Blockchain-based Secure Resource Access System</h4>
-                <p>Designing a secure resource access system that makes it easy to safely share confidential
-                information</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Hypervault - Blockchain-based Secure Resource Access System</h4>
+                        <p>Designing a secure resource access system that makes it easy to safely share confidential
+                        information</p>
                 
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://medium.com/hackbridge/what-we-learnt-building-an-enterprise-blockchain-startup-58ea1aaf9521"
                         target="_blank" data-text="Medium">Medium</a>
                 </div>
             </div>
             <div class="project-row">
-                <h4>6DOF Object Pose Detection from Monocular Images</h4>
-                <p>Re-implementation and possibly extension of a neural network architecture for 6DOF object detection
-                from monocular images.</p>
-                 <div class="link-effect">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>6DOF Object Pose Detection from Monocular Images</h4>
+                        <p>Re-implementation and possibly extension of a neural network architecture for 6DOF object detection
+                        from monocular images.</p>
+                     </li>
+                </ul>
+                <div class="link-effect">
                         <a href="https://docs.google.com/document/d/1cwBLv0MRsC_3tIecabN8nSng4Y2XjmTFtQQ8OW0WuDQ/"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
             <div class="project-row">
-                <h4>Beta Go - A Reimplementation of AlphaGo Zero</h4>
-                <p>Reimplementing a scaled down version of Deepmind’s AlphaGo Zero, playing on a 5x5 board</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Beta Go - A Reimplementation of AlphaGo Zero</h4>
+                        <p>Reimplementing a scaled down version of Deepmind’s AlphaGo Zero, playing on a 5x5 board</p>
+                    </li>
+                </ul>
                 <div class="link-effect">
                         <a href="https://medium.com/hackbridge/what-we-learnt-by-making-our-own-alphago-zero-805ddc945a"
                         target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-                <div class="link-effect">
+                        
                         <a href="https://github.com/yl573/BetaGo"
                         target="_blank" data-text="Github">Github</a>
-                </div>
-                <div class="link-effect">
+                        
                         <a href="https://www.youtube.com/watch?v=FMNroKQ-srg"
                         target="_blank" data-text="Video">Video</a>
                 </div>
             </div>
             <div class="project-row">
-                <h4>Mandarin Tone Trainer</h4>
-                <p>Using machine learning to develop a system that can recognise and correct Mandarin tones,
-                for people learning the language</p>
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Mandarin Tone Trainer</h4>
+                        <p>Using machine learning to develop a system that can recognise and correct Mandarin tones,
+                        for people learning the language</p>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
