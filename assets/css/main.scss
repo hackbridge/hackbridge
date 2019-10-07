@@ -302,6 +302,16 @@ ins {
 			height: auto;
 			filter: invert(100%);
 		}
+
+		h4 {
+			img {
+				height: 2em;
+				width: auto;
+				filter: none;
+				background: rgba(255, 255, 255, 1);
+				vertical-align: middle;
+			}
+		}
 	}
 
 	p {
@@ -323,12 +333,17 @@ ins {
 			width: 1em;
 			height: auto;
 			filter: invert(100%);
+			vertical-align: middle;
 		}
 	}
 
 	p {
 		margin: 0;
 	}
+}
+
+.no-wrap {
+	white-space: nowrap;
 }
 
 @media only screen and (min-width: 650px) {

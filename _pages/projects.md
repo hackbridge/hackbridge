@@ -56,7 +56,7 @@ redirect-url: projects.html
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
                     <li>
-                        <h4>Open Source DNA Imaging System with Raspberry Pi - In Collaboration With BioMakespace</h4>
+                        <h4>Open Source DNA Imaging System with Raspberry Pi <span class="no-wrap">- In Collaboration With <img src="assets/images/biomakerspace.png" alt="" /></span></h4>
                         <p>Design and build a DNA imaging system using a Raspberry Pi Camera for use in
                         resource-constrained labs like Biomakespace and our partner labs in Africa.</p>
                     </li>
@@ -70,7 +70,7 @@ redirect-url: projects.html
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
                     <li>
-                        <h4>Open Source Protein Electrophoresis - In Collaboration With BioMakespace</h4>
+                        <h4>Open Source Protein Electrophoresis <span class="no-wrap">- In Collaboration With <img src="assets/images/biomakerspace.png" alt="" /></span></h4>
                         <p>Design and build an open source, safer, affordable protein gel electrophoresis system for use
                         in resource-constrained labs like Biomakespace and our partner labs in Africa.</p>
                     </li>
@@ -84,13 +84,54 @@ redirect-url: projects.html
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
                     <li>
-                        <h4>Open Source UV Spectrophotometer - In Collaboration With BioMakespace</h4>
+                        <h4>Open Source UV Spectrophotometer <span class="no-wrap">- In Collaboration With <img src="assets/images/biomakerspace.png" alt="" /></span></h4>
                         <p>Design and build an open source UV spectrophotometer for quantifying DNA and proteins for use
                         in resource-constrained labs like Biomakespace and our partner labs in Africa.</p>
                     </li>
                 </ul>
                 <div class="link-effect">
                     <a href="https://docs.google.com/document/d/1LpkrtBqZMMtc3KyJOYHzyNKyWXpoNq7JZcrSPgamoFc/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Learning to grasp objects with an anthropomorphic passive hand and reinforcement learning <span class="no-wrap">- In Collaboration With <img src="assets/images/CUR.png" alt="" /></span></h4>
+                        <p>Investigate learning strategies to enable grasping of objects using a passive ‘human-like’
+                        hand mounted on an industrial arm.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1imU7ePApfiRSwDv3-6nvCm1JJvSfcojgWq4JKe2kibg/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Developing novel tactile sensors using microphones <span class="no-wrap">- In Collaboration With <img src="assets/images/CUR.png" alt="" /></span></h4>
+                        <p>Investigate the feasibility of using audio signals to estimate tactile information like texture</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/196x9VGh7Dd_oVU_zFPQmVSyqDMt4r3vv-Fy5sFn8SXk/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Partially self replicating robots for extraterrestrial colonization <span class="no-wrap">- In Collaboration With <img src="assets/images/CUR.png" alt="" /></span></h4>
+                        <p>Design a robot able to manufacture some of its parts by utilizing extraterrestrially
+                        available resources using methods like sand casting.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1ifuQL_ahMiWVhACXRLbGdLk5eFsCsWSeD8W-i_PISO8/edit?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
