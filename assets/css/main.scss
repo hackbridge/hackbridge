@@ -299,7 +299,6 @@ ins {
 
 		img {
 			width: 3em;
-			vertical-align: middle;
 			height: auto;
 			filter: invert(100%);
 		}
@@ -384,13 +383,33 @@ ins {
 
 @media only screen and (max-width: 650px) {
 	.project-row-blocks {
+		list-style: none;
+		margin: 0;
+
 		li {
 			display: inline-block;
 			max-width: calc(100% - 2em);
 
 			img {
 				width: 1.5em;
+				vertical-align: middle;
+				height: auto;
+				filter: invert(100%);
 			}
+
+			h4 {
+				img {
+					height: 1.5em;
+					width: auto;
+					filter: none;
+					background: rgba(255, 255, 255, 1);
+					vertical-align: middle;
+				}
+			}
+		}
+
+		p {
+			margin: 0;
 		}
 	}
 }
