@@ -299,6 +299,7 @@ ins {
 
 		img {
 			width: 3em;
+			vertical-align: middle;
 			height: auto;
 			filter: invert(100%);
 		}
@@ -378,6 +379,19 @@ ins {
 @media only screen and (max-width: 650px) {
 	.banner-icons {
 		display: none;
+	}
+}
+
+@media only screen and (max-width: 650px) {
+	.project-row-blocks {
+		li {
+			display: inline-block;
+			max-width: calc(100% - 2em);
+
+			img {
+				width: 1.5em;
+			}
+		}
 	}
 }
 
