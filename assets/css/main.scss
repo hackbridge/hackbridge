@@ -231,8 +231,8 @@ article:nth-child(4n - 2) {
 	color: rgba(255, 255, 255, 1);
 	position: relative;
 	padding: 5px 7px;
-	border-top: 2px solid rgba(255, 255, 255, 0);
-	border-bottom: 2px solid rgba(255, 255, 255, 0);
+	border-top: 2px solid rgba(255, 255, 255, 1);
+	border-bottom: 2px solid rgba(255, 255, 255, 1);
 	transition: padding .3s, border-color .3s;
 	-webkit-transform: translate3d(0, 0, 0);
 }
@@ -271,7 +271,7 @@ a:focus::after,
 a:hover::after,
 a:hover::before {
 	max-height: 100%;
-	transition-delay: .2s;
+	transition-delay: .28s;
 	border-color: rgba(255, 255, 255, 1);
 }
 
