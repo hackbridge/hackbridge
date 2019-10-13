@@ -37,12 +37,12 @@ redirect-url: projects.html
                 <li><img src="assets/images/commercial.png" alt="" /> - Commercial</li>
                 <li>
                     <img src="assets/images/startup.png" alt="" /> - 
-                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
+                    <a href="https://forms.gle/YhjhVxHkUP89bc8h8"
                                         target="_blank" data-text="Project Proposal">JumpStart form</a>
                 </li>
                 <li>
                     <img src="assets/images/consult.png" alt="" /> - 
-                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
+                    <a href="https://lschackbridge.com/"
                                         target="_blank" data-text="Project Proposal">Consulting website</a>
                 </li>
             </ul>
