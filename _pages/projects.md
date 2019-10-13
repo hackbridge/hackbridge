@@ -189,6 +189,58 @@ redirect-url: projects.html
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
+	    <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>BitFear: fear indeces for cryptocurrencies</h4>
+                        <p>Develop a volatility index for cryptocurrencies</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1wh874aw15cVqBAjmqsBdMSL-7wFEdV7J/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+	    <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Deep Learning orderbook models for digital assets</h4>
+                        <p>Digital assets (cryptocurrencies) have a far more relaxed regulatory oversight than traditional financial instruments, which means that their orderbooks have a variety of complex phenomena that don’t occur in traditional markets</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/13cSBr81D-CBh-HWt4c7RwdVXkYoUgZB4/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+	    <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Crypto Markets: The future of trend following</h4>
+                        <p>A research study into the investment returns from trend following strategies in the burgeoning digital asset markets (“cryptocurrencies”).</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1VeY1howb3tTCM5TqFy1mhctyJqzUu8lh/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+	    <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Bitcoin: commodity or currency? A study of price returns</h4>
+                        <p>Bitcoin is often branded as a currency, but its price returns tell a different story. This is a project into the changing nature of cryptocurrency holding returns</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1LHeaAj61_habyigZbr5dArC5YnoNcN53/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
             <div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
