@@ -98,40 +98,14 @@ redirect-url: projects.html
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
                     <li>
-                        <h4>Learning to grasp objects with an anthropomorphic passive hand and reinforcement learning <span class="no-wrap">- In Collaboration With <img src="assets/images/CUR.png" alt="" /></span></h4>
-                        <p>Investigate learning strategies to enable grasping of objects using a passive ‘human-like’
-                        hand mounted on an industrial arm.</p>
+                        <h4>Reinforcement learning with a robotic arm<span class="no-wrap">- In Collaboration With <img src="assets/images/CUR.png" alt="" /></span></h4>
+                        <p>Detailed task to be specified in the first meeting, options are robot playing a game like
+                        Jenga or Mikado or learning to grasp objects with a passive anthromorphic hand. Details of one
+                        option in proposal.</p>
                     </li>
                 </ul>
                 <div class="link-effect">
                     <a href="https://docs.google.com/document/d/1imU7ePApfiRSwDv3-6nvCm1JJvSfcojgWq4JKe2kibg/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
-            <div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/research.png" alt="" /></li>
-                    <li>
-                        <h4>Developing novel tactile sensors using microphones <span class="no-wrap">- In Collaboration With <img src="assets/images/CUR.png" alt="" /></span></h4>
-                        <p>Investigate the feasibility of using audio signals to estimate tactile information like texture</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/196x9VGh7Dd_oVU_zFPQmVSyqDMt4r3vv-Fy5sFn8SXk/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
-            <div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/research.png" alt="" /></li>
-                    <li>
-                        <h4>Partially self replicating robots for extraterrestrial colonization <span class="no-wrap">- In Collaboration With <img src="assets/images/CUR.png" alt="" /></span></h4>
-                        <p>Design a robot able to manufacture some of its parts by utilizing extraterrestrially
-                        available resources using methods like sand casting.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1ifuQL_ahMiWVhACXRLbGdLk5eFsCsWSeD8W-i_PISO8/edit?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
