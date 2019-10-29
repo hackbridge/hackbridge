@@ -64,7 +64,7 @@ redirect-url: support.html
 		<div class="row">
 			<div class="5u">
 				<div class="row 50% uniform"><h3 class="center">Student Entrepreneurship Partner</h3></div>
-				<div class="row 50% uniform"><span class="image"><a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_white.png" alt=""></a></span></div>
+				<div class="row 50% uniform"><span class="image"><a href = "https://www.joinef.com/" target="blank_"><img src="assets/images/ef_keefe.png" alt=""></a></span></div>
 			</div>
 			<div class="5u">
 				<div class="row 50% uniform"><h3 class="center">Distinguished Sponsor</h3></div>
