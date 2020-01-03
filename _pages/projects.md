@@ -80,7 +80,7 @@ redirect-url: projects.html
             </div>
              <div class="project-row">
                 <ul class="project-row-blocks">
-                    <li><img src="assets/images/consulting.png" alt="" /></li>
+                    <li><img src="assets/images/consult.png" alt="" /></li>
                     <li>
                         <h4>Quantifying the Impact of a Student-Supportive Charity</h4>
                         <p>InsideUni is a charity that aims to make Oxbridge accessible to everyone. The charity is currently in need of sophisticated analysis of vast datasets to understand the impact of its website and other channels on the wider applicant pool.</p>
