@@ -134,7 +134,7 @@ redirect-url: projects.html
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
                     <li>
-                        <h4>App-Building for those Affected by Allergy-Like MAST- Collaboration with ITIC</h4>
+                        <h4>App-Building for those Affected by Allergy-Like MAST - Collaboration with ITIC</h4>
                         <p>Create a platform for patients suffering from MAST and build a profile on what is causing their allergy-like symptoms.</p>
                     </li>
                 </ul>
