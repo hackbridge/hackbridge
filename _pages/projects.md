@@ -32,6 +32,10 @@ redirect-url: projects.html
             <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd8NqKvnXkxT2LdktykbJVQJI5S2vx5OhOziTd-FkshQkYe0w/viewform?usp=sf_link">Propose a project</a></strong>
             <br>
             </p>
+            <p>
+            If you have any administrative questions for the projects (e.g. joining a running project if you are SUPER keen) contact us on facebook or email, rahter then contacting supervisors.
+            <br>
+            </p>
             <ul class="legend-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /> - Research</li>
                 <li><img src="assets/images/commercial.png" alt="" /> - Commercial</li>
@@ -74,7 +78,7 @@ redirect-url: projects.html
                     </li>
                 </ul>
                 <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
+                    <a href="https://drive.google.com/file/d/10oULlQobsu6EpOtIbXR60SMQx55vgwRY/view?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
@@ -95,12 +99,12 @@ redirect-url: projects.html
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
                     <li>
-                        <h4>Making a Face Blender and Generator App Using StyleGAN</h4>
-                        <p>Design and build an optimized mobile app using the StyleGAN generative model that can generate and interpolate between faces.</p>
+                        <h4>StyleGAN based face modification app</h4>
+                        <p>StyleGAN allows you to generate faces and interpolate between them. By encoding real faces into it and learning how emotions, hairstyles, gender etc. are encoded, you can change these in real world images in high quality (see demo).</p>
                     </li>
                 </ul>
                 <div class="link-effect">
-                    <a href="https://drive.google.com/file/d/1uZKMpHM5Ajp8LYx6HCu-E12FjgQz2woi/view?usp=sharing"
+                    <a href="https://docs.google.com/document/d/1F-fxxOVQ8ZWaZPrdlZI7Oh8EooOlFh95vZ8DB0UTiEI/edit?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
