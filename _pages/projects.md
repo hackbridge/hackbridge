@@ -25,7 +25,7 @@ redirect-url: projects.html
         <div class="8">
             <p>
             We run challenging projects throughout the year that are proposed by experts in their fields (Researchers/PhDs/Entrepreneurs). If you are interesting in joining a project team, please apply using the link below.<br>
-            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeHlomMmi00xfJSPR0PXm-d5qP1RYKqs3Mlh8rV7wa3ASxn6g/viewform?usp=sf_link">Apply for a project</a></strong>
+            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSes3pDOVm7Hvg8TQ-wPkRsDX9XwGHDcWhCUOMz4WoiyFdJRFw/viewform?usp=sf_link">Apply for a project</a></strong>
             </p>
             <p>
             If you want to propose your own project idea. Please fill in the project proposal form. We will help you build a team and provide the resources to get it started.<br>
@@ -52,6 +52,101 @@ redirect-url: projects.html
     <div class="row project-block">
         <div class="8 project-block">
             <h3>New Projects [accepting applications]</h3>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Deep learning for data validation in industrial formulations and processes</h4>
+                        <p>Deep neural networks are implemented to automatically validate and extract inter-property correlations from complex and expensive experimental data. This data is typically recorded at source in a non-systematic way that is prone to error and leads to delays in R&D pipelines. Our deep learning tool, Alchemite, can uniquely interpret numerical data in a way that is consistent across all domains.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1JBAxtc22kDHT_1mq-BT00KUSTWptjofv/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Applying Explainable AI to Deep Learning across Industries</h4>
+                        <p>Untangle AI has a experimental SDK/toolkit for explaining deep learning models. This project involves testing and improving the toolkit applied to problems such as Breast Cancer and Object Detection.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+             <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Quantifying the Impact of a Student-Supportive Charity</h4>
+                        <p>InsideUni is a charity that aims to make Oxbridge accessible to everyone. The charity is currently in need of sophisticated analysis of vast datasets to understand the impact of its website and other channels on the wider applicant pool.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1uZKMpHM5Ajp8LYx6HCu-E12FjgQz2woi/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Making a Face Blender and Generator App Using StyleGAN</h4>
+                        <p>Design and build an optimized mobile app using the StyleGAN generative model that can generate and interpolate between faces.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1uZKMpHM5Ajp8LYx6HCu-E12FjgQz2woi/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Create Remixes of Musical Pieces Using Deep Learning</h4>
+                        <p>Analyze audio and extract central features using deep learning applied audio and forge remixes by mixing features in complex ways while keeping the identity of the music.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1hKV71qroYxSAzHE1dPi3X8wEwuDBIB8y/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Build a Suistainability App for Individuals - Collaboration with ITIC</h4>
+                        <p>Join a group of students providing scientifically backed suggestions on how individuals can minimize their negative impact on the climate.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1XVESYMiblBwetp7QaKM7CWZ5Hx2-gTVWKmMGX9bvmbQ/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>App-Building for those Affected by Allergy-Like MAST- Collaboration with ITIC</h4>
+                        <p>Create a platform for patients suffering from MAST and build a profile on what is causing their allergy-like symptoms.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1Huup5yWzYRW7-eKeAoxXcembZ6d_Ir28N9HXYlBCoD0/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+
+
+
+
         </div>
     </div>
     
