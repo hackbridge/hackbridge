@@ -86,7 +86,7 @@ redirect-url: projects.html
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/consult.png" alt="" /></li>
                     <li>
-                        <h4>Quantifying the Impact of a Student-Supportive Charity</h4>
+                        <h4>Building an impact metric through quantitative analysis</h4>
                         <p>InsideUni is a charity that aims to make Oxbridge accessible to everyone. The charity is currently in need of sophisticated analysis of vast datasets to understand the impact of its website and other channels on the wider applicant pool.</p>
                     </li>
                 </ul>
@@ -144,6 +144,19 @@ redirect-url: projects.html
                 </ul>
                 <div class="link-effect">
                     <a href="https://docs.google.com/document/d/1Huup5yWzYRW7-eKeAoxXcembZ6d_Ir28N9HXYlBCoD0/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Automatic Rowing Boat Steering System</h4>
+                        <p>[missing app developer] Create a low cost auto pilot aiming system for small boats and rowing boats using the computing power on a mobile phone.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1F-fxxOVQ8ZWaZPrdlZI7Oh8EooOlFh95vZ8DB0UTiEI/edit?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
