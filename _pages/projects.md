@@ -33,7 +33,7 @@ redirect-url: projects.html
             <br>
             </p>
             <p>
-            If you have any administrative questions for the projects (e.g. joining a running project if you are SUPER keen) contact us on facebook or email, rahter then contacting supervisors.
+            If you have any administrative questions for the projects (e.g. joining a running project if you are SUPER keen) contact us on facebook or email, rather than contacting supervisors.
             <br>
             </p>
             <ul class="legend-row-blocks">
