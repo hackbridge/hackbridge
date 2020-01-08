@@ -82,19 +82,6 @@ redirect-url: projects.html
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
-             <div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/consult.png" alt="" /></li>
-                    <li>
-                        <h4>Building an impact metric through quantitative analysis</h4>
-                        <p>InsideUni is a charity that aims to make Oxbridge accessible to everyone. The charity is currently in need of sophisticated analysis of vast datasets to understand the impact of its website and other channels on the wider applicant pool.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://drive.google.com/file/d/1uZKMpHM5Ajp8LYx6HCu-E12FjgQz2woi/view?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
 			<div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
@@ -160,19 +147,6 @@ redirect-url: projects.html
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
-             <div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/consult.png" alt="" /></li>
-                    <li>
-                        <h4>Customer and Volunteer Profiling through analytics</h4>
-                        <p>This is a LSC Hackbridge project with SolidariTee that aims to develop a comprehensive and holistic profile of their customers and volunteers to better inform any strategic decisions such as their product lines, community engagement models and marketing campaigns.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1HT33ohxJ_bK58N_KcvTAzYnooFPONU9Hzm_re3U27_8/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
             <div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
@@ -186,7 +160,32 @@ redirect-url: projects.html
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
-
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/consult.png" alt="" /></li>
+                    <li>
+                        <h4>Building an impact metric through quantitative analysis</h4>
+                        <p>[Consulting] InsideUni is a charity that aims to make Oxbridge accessible to everyone. The charity is currently in need of sophisticated analysis of vast datasets to understand the impact of its website and other channels on various stakeholders.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1uZKMpHM5Ajp8LYx6HCu-E12FjgQz2woi/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/consult.png" alt="" /></li>
+                    <li>
+                        <h4>Customer and Volunteer Profiling through analytics</h4>
+                        <p>[Consulting] This is a LSC Hackbridge project with SolidariTee that aims to develop a comprehensive and holistic profile of their customers and volunteers to better inform any strategic decisions such as their product lines, community engagement models and marketing campaigns.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1HT33ohxJ_bK58N_KcvTAzYnooFPONU9Hzm_re3U27_8/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
 
 
         </div>
