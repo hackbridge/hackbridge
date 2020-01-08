@@ -182,7 +182,7 @@ redirect-url: projects.html
                     </li>
                 </ul>
                 <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1F-fxxOVQ8ZWaZPrdlZI7Oh8EooOlFh95vZ8DB0UTiEI/edit?usp=sharing"
+                    <a href="https://drive.google.com/open?id=1ItdEKkM1B6fP9G8_86iVSEGSHX86Ts80"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
