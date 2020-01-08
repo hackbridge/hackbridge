@@ -173,7 +173,19 @@ redirect-url: projects.html
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
-
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Signal separation on multi-sensor array data</h4>
+                        <p>Design and train a deep neural network to process seismic data, more specifically, to separate the blended signals from different sources.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/open?id=1ItdEKkM1B6fP9G8_86iVSEGSHX86Ts80"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
 
 
 
