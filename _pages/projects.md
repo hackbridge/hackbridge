@@ -143,7 +143,7 @@ redirect-url: projects.html
                     </li>
                 </ul>
                 <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1F-fxxOVQ8ZWaZPrdlZI7Oh8EooOlFh95vZ8DB0UTiEI/edit?usp=sharing"
+                    <a href="https://docs.google.com/document/d/1qrL2QRWNIVjeS3DrvimcUGFLrt5p4NCazn7EUBF36i4/edit?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
