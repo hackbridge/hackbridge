@@ -147,7 +147,7 @@ redirect-url: projects.html
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
-            <div class="project-row">
+            <div class="project-row" id="lsc_hackbridge">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
                     <li>
