@@ -55,8 +55,7 @@ redirect-url: support.html
 
 
 <section id="three">
-
-		<div class="inner">
+	<div class="inner">
 		<header class="major">
 			<h2>Our Sponsors</h2>
 		</header>
@@ -73,14 +72,23 @@ redirect-url: support.html
 		</div>
 		<div class="row">
 			<div class="5u">
-				<div class="row 50% uniform"><h3 class="center">Global
-				 Consulting Partner</h3></div>
+				<div class="row 50% uniform"><h3 class="center">Global Consulting Partner</h3></div>
 				<div class="row 50% uniform"><span class="image"><a href = "https://www.oliverwyman.com/" target="blank_"><img src="assets/images/oliverwymanbig2.png" alt=""></a></span></div>
 			</div>
 			<div class="5u">
-				<div class="row 50% uniform"><h3 class="center">Self-initiated Project Partner</h3></div>
+				<div class="row 50% uniform"><h3 class="center">JumpStart Partner</h3></div>
 				<div class="row 50% uniform"><span class="image"><a href = "https://www.syndicateroom.com/" target="blank_"><img src="assets/images/syndicateroom.png" alt=""></a></span></div>
 			</div>
+		</div>
+		<div class="row">
+			<div class="5u">
+				<div class="row 50% uniform"><h3 class="center">Communications Partner</h3></div>
+				<div class="row 50% uniform"><span class="image"><a href = "https://guild.co" target="blank_"><img style="align-text:center" src="assets/images/guild.png" alt=""></a></span></div>
+			</div>
+			<!-- <div class="5u">
+				<div class="row 50% uniform"><h3 class="center">JumpStart Partner</h3></div>
+				<div class="row 50% uniform"><span class="image"><a href = "https://www.syndicateroom.com/" target="blank_"><img src="assets/images/syndicateroom.png" alt=""></a></span></div>
+			</div> -->
 		</div>
 		<div class="vert-space-large"></div>
 	</div>
