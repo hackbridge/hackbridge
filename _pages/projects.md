@@ -147,7 +147,7 @@ redirect-url: projects.html
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
-            <div class="project-row" id="lsc_hackbridge">
+            <div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
                     <li>
@@ -157,6 +157,19 @@ redirect-url: projects.html
                 </ul>
                 <div class="link-effect">
                     <a href="https://drive.google.com/open?id=1ItdEKkM1B6fP9G8_86iVSEGSHX86Ts80"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row" id="lsc_hackbridge">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Accelerating Homomorphically-Encrypted Neural Networks on an FPGA</h4>
+                        <p>This project seeks to implement an accelerator for homomorphically-encrypted neural networks on an FPGA. We will be competing in the Xilinx Open Hardware 2020 competition, in the Accelerator category.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/open?id=1-8h9I6SkuQbt-bMCuZnc2CRX2oMKAZ_pWVToJITxUQo"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
