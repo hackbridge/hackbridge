@@ -36,7 +36,7 @@ redirect-url: jumpstart.html
         </div>
     </div>
 
-    <div class="row>
+    <div class="row">
         <div class="8">
         <h3>We are running our first Lent workshop on 3-Feb 2020, 6.30pm, Lecture Room 4 at Cambridge University Engineering Department! </h3>
             <p> We want this workshop to be personalised and bespoke. This workshop is for you and about you, our JumpStart members. It will be a meaningful evening; you will get to learn about Product Market Fit and receive personalised feedback about your ideas and pitching abilities from our partners at Judge Business School
@@ -45,4 +45,6 @@ redirect-url: jumpstart.html
             Indicate interest for the workshop now! <br>
             <strong><a href="https://www.facebook.com/events/588375038386249/592828767940876/?notif_t=admin_plan_mall_activity&notif_id=1580258124701104">Link to the Facebook event!</a></strong>
             </p>
+        </div>
+    </div>
 </section>
