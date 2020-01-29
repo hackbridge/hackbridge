@@ -19,6 +19,7 @@ redirect-url: jumpstart.html
 		<header class="major">
 			<h1>Hackbridge JumpStart</h1>
 		</header>
+    </div>
 
     <h3>Hackbridge JumpStart is a hub for the development of students’ self-initiated projects. </h3> 
     <div class="row"> 
