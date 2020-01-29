@@ -47,6 +47,5 @@ redirect-url: jumpstart.html
             </p>
         </div>
     </div>
-    </div>
 </div>
 </section>
