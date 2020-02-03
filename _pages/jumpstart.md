@@ -40,7 +40,7 @@ redirect-url: jumpstart.html
         <div class="8">
         <h3>Our first flagship Lent Workshop</h3>
             <p>
-            Date and Time: 3 Feb 2020 (Monday), 6:30pm
+            Date and Time: 3 Feb 2020 (Monday), 6:30pm <br>
             Venue: Engineering Department, CB2 1PZ, LR4 <br>
             LR4 is located on the ground floor of Engineering Department Baker Building Main Site, right next to the lift.
             </p>
@@ -57,7 +57,7 @@ redirect-url: jumpstart.html
         <div class="8">
         <h3>Our second flagship Lent Workshop </h3>
             <p>
-            Date and Time: 13 Feb 2020 (Thursday), 5:00pm
+            Date and Time: 13 Feb 2020 (Thursday), 5:00pm <br>
             Venue: Engineering Department, CB2 1PZ, LT6 <br>
             LT6 is located on the 1st floor of Engineering Department Baker Building Main Site, right next to the library's entrance.
             </p>
