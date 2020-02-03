@@ -20,6 +20,7 @@ redirect-url: jumpstart.html
 			<h1>Hackbridge JumpStart</h1>
 		</header>
 
+    <h2>What is Hackbridge JumpStart?</h2>
     <h3>Hackbridge JumpStart is a hub for the development of students’ self-initiated projects. </h3> 
     <div class="row"> 
         <div class="8">
@@ -35,6 +36,28 @@ redirect-url: jumpstart.html
             </p>
         </div>
     </div>
+
+    <div class ="row">
+        <div class ="8">
+        <h2>The JumpStart workflow</h2>
+        <h3>The JumpStart programme is split into 4 key stages</h3>
+        <p>
+        1. Team Formation <br>
+        Sign-up for the JumpStart programme through our form and meet other JumpStart members for the first time at our 2 flagship workshops. This is where you get to meet your co-founders - ideally members who share similar interests as you, yet have complementary skillsets - and form your teams.
+        </p>
+        <p>
+        2. Ideation <br>
+        Brainstorm ideas for your personal venture. Receive support in the form of workshops conducted by the Hackbridge JumpStart committee (hosted in conjunction with our Hackbridge partners); these are meant to catalyse ideation by providing a framework for the further development of your very own ideas.
+        </p>
+        <p>
+        3. Development <br>
+        Work on developing your ideas further; this includes writing a business plan, preparing a pitch deck and possibly even developing a Minimal Viable Product (MVP). This may also involve iterating your initial idea to ensure Product Market Fit. <br>
+        You will get all the support you need in the form of mentorships from our commercial partners as well as comprehensive support - in the form of check-ins - from the Hackbridge committee.
+        </p>
+        <p>
+        4. Incubation <br>
+        Once your idea has grown substantially, you can now consider exits in the form of other incubator and accelerator programmes, or even raising seed funding! Hackbridge JumpStart will provide all the support you need to get there.
+        </p>
 
     <div class="row">
         <div class="8">
