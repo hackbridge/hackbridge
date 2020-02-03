@@ -58,6 +58,8 @@ redirect-url: jumpstart.html
         4. Incubation <br>
         Once your idea has grown substantially, you can now consider exits in the form of other incubator and accelerator programmes, or even raising seed funding! Hackbridge JumpStart will provide all the support you need to get there.
         </p>
+        </div>
+    </div>
 
     <div class="row">
         <div class="8">
