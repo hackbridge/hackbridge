@@ -138,12 +138,12 @@ redirect-url: about
 				</div>
 			</div>
 
-		<p>Hackbridge is currently run by a passionate team of students across disciplines and year groups. To achieve our vision, we need as many hands as we can get! We'd be looking for help in <b>sponsorship, event management, web design, speaker-hunting</b> and much more! If Hackbridge is something that you're interested in helping out with - and you want to make a lasting impact on the entrepreneurial environment at Cambridge - please get in touch by emailing <b><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21">team@hackbridge.io</a></b>.</p>
+		<p>Hackbridge is currently run by a passionate team of students across disciplines and year groups. To achieve our vision, we need as many hands as we can get! We'd be looking for help in <b>sponsorship, event management, web design, speaker-hunting</b> and much more! If Hackbridge is something that you're interested in helping out with - and you want to make a lasting impact on the entrepreneurial environment at Cambridge - please get in touch by emailing <b><a href="mailto:hellohackbridge@gmail.com?Subject=I%20want%20to%20help%21">hellohackbridge@gmail.com</a></b>.</p>
 
 		<p>If you do reach out, please let us know (very briefly) <b>what you're working on now</b>/have worked on in the past and <b>where you'd like to help</b>! Also, let us know what subject you're studying and what year you're in!</p>
 
 		<ul class="actions">
-			<li><a href="mailto:team@hackbridge.io?Subject=I%20want%20to%20help%21" class="button">Join Us</a></li>
+			<li><a href="mailto:hellohackbridge@gmail.com?Subject=I%20want%20to%20help%21" class="button">Join Us</a></li>
 		</ul>
 
 	</div>
