@@ -101,7 +101,7 @@ redirect-url: about
         <div class="center col-4">
 					<img class="img-circle size-fix" src="assets/committee/Ishaan Vadgama.jpg" alt="" />
 					<div class="pad-top"><b>Ishaan Vadgama</b></div>
-					<div class="pad-top"><b>Director of Partnerships and Investor Relations</b></div>
+					<div class="pad-top"><b>Director of Partnerships</b></div>
 				</div>
 			</div>
 			
@@ -134,7 +134,7 @@ redirect-url: about
         <div class="center col-4">
 					<img class="img-circle size-fix" src="assets/committee/Adam Sroka.jpg" alt="" />
 					<div class="pad-top"><b>Adam Sroka</b></div>
-					<div class="pad-top"><b>Director of Alumni Relations, Community Engagement and Events</b></div>
+					<div class="pad-top"><b>Director of Community Engagement</b></div>
 				</div>
 			</div>
 
