@@ -6,8 +6,8 @@ image: assets/images/camb.jpg
 order: 6
 nav-order: 6
 nav-menu: true
-permalink: support.html
-redirect-url: support.html
+permalink: support
+redirect-url: support
 ---
 
 <!-- Main -->

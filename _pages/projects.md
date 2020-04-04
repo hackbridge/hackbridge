@@ -6,8 +6,8 @@ image: assets/images/arm.jpg
 order: 1
 nav-order: 1
 nav-menu: true
-permalink: projects.html
-redirect-url: projects.html
+permalink: projects
+redirect-url: projects
 ---
 
 <!-- Main -->

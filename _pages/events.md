@@ -6,8 +6,8 @@ image: assets/images/yc.jpg
 order: 2
 nav-order: 2
 nav-menu: true
-permalink: events.html
-redirect-url: events.html
+permalink: events
+redirect-url: events
 ---
 
 <!-- Main -->
