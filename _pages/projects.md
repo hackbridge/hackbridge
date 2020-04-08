@@ -25,7 +25,7 @@ redirect-url: projects
         <div class="8">
             <p>
             We run challenging projects throughout the year that are proposed by experts in their fields (Researchers/PhDs/Entrepreneurs). If you are interesting in joining a project team, please apply using the link below.<br>
-            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSes3pDOVm7Hvg8TQ-wPkRsDX9XwGHDcWhCUOMz4WoiyFdJRFw/viewform?usp=sf_link">Apply for a project</a></strong>
+            <strong><a href="https://forms.gle/ydQD14aGAEcEwvxj6">Apply for a project</a></strong>
             </p>
             <p>
             If you want to propose your own project idea. Please fill in the project proposal form. We will help you build a team and provide the resources to get it started.<br>
@@ -39,11 +39,7 @@ redirect-url: projects
             <ul class="legend-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /> - Research</li>
                 <li><img src="assets/images/commercial.png" alt="" /> - Commercial</li>
-                <li>
-                    <img src="assets/images/startup.png" alt="" /> - 
-                    <a href="https://forms.gle/YhjhVxHkUP89bc8h8"
-                                        target="_blank" data-text="Project Proposal">JumpStart form</a>
-                </li>
+                <li><img src="assets/images/startup.png" alt="" /> - JumpStart</li>
                 <li>
                     <img src="assets/images/consult.png" alt="" /> - 
                     <a href="https://lschackbridge.com/"
