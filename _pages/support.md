@@ -6,8 +6,8 @@ image: assets/images/camb.jpg
 order: 6
 nav-order: 6
 nav-menu: true
-permalink: support.html
-redirect-url: support.html
+permalink: support
+redirect-url: support
 ---
 
 <!-- Main -->
@@ -46,9 +46,9 @@ redirect-url: support.html
 			<li>Funding to support Cluster and Aspire events</li>
 			<li>Great publicity!</li>
 		</ul>
-		<p>Interested? Please reach out at: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b>.</p>
+		<p>Interested? Please reach out at: <b><a href="mailto:hellohackbridge@gmail.com">hellohackbridge@gmail.com</a></b>.</p>
 		<ul class="actions">
-			<li><a href="mailto:sponsor@hackbridge.io" class="button">Email Us</a></li>
+			<li><a href="mailto:hellohackbridge@gmail.com" class="button">Email Us</a></li>
 		</ul>
 	</div>
 </section>
@@ -59,7 +59,7 @@ redirect-url: support.html
 		<header class="major">
 			<h2>Our Sponsors</h2>
 		</header>
-		<p>We would like to thank our sponsors for their support. If you would like to sponsor us, please get in touch through: <b><a href="mailto:sponsor@hackbridge.io">sponsor@hackbridge.io</a></b></p>
+		<p>We would like to thank our sponsors for their support. If you would like to sponsor us, please get in touch through: <b><a href="mailto:hellohackbridge@gmail.com">hellohackbridge@gmail.com</a></b></p>
 		<div class="row">
 			<div class="5u">
 				<div class="row 50% uniform"><h3 class="center">Student Entrepreneurship Partner</h3></div>
