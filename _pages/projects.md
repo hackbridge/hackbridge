@@ -56,6 +56,78 @@ redirect-url: projects.html
     <div class="row project-block">
         <div class="8 project-block">
             <h3>New Projects [accepting applications]</h3>
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>StyleGAN based face modification app</h4>
+                        <p>StyleGAN allows you to generate faces and interpolate between them. By encoding real faces into it and learning how emotions, hairstyles, gender etc. are encoded, you can change these in real world images in high quality (see demo).</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1F-fxxOVQ8ZWaZPrdlZI7Oh8EooOlFh95vZ8DB0UTiEI/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>           
+			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Automatic Rowing Boat Steering System</h4>
+                        <p>[missing app developer] Create a low cost auto pilot aiming system for small boats and rowing boats using the computing power on a mobile phone.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1qrL2QRWNIVjeS3DrvimcUGFLrt5p4NCazn7EUBF36i4/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Signal separation on multi-sensor array data</h4>
+                        <p>Design and train a deep neural network to process seismic data, more specifically, to separate the blended signals from different sources.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/open?id=1ItdEKkM1B6fP9G8_86iVSEGSHX86Ts80"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>    
+			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Build a Sustainability App for Individuals - Collaboration with ITIC</h4>
+                        <p>Join a group of students providing scientifically backed suggestions on how individuals can minimize their negative impact on the climate.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1XVESYMiblBwetp7QaKM7CWZ5Hx2-gTVWKmMGX9bvmbQ/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row project-block">
+        <div class="8 project-block">
+            <h3>Active Projects [closed applications]</h3>
+            <div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Open Source DNA Imaging System with Raspberry Pi <span class="no-wrap">- In Collaboration With <img src="assets/images/biomakerspace.png" alt="" /></span></h4>
+                        <p>Design and build a DNA imaging system using a Raspberry Pi Camera for use in
+                        resource-constrained labs like Biomakespace and our partner labs in Africa.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
             <div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
@@ -84,19 +156,6 @@ redirect-url: projects.html
             </div>
 			<div class="project-row">
                 <ul class="project-row-blocks">
-                    <li><img src="assets/images/research.png" alt="" /></li>
-                    <li>
-                        <h4>StyleGAN based face modification app</h4>
-                        <p>StyleGAN allows you to generate faces and interpolate between them. By encoding real faces into it and learning how emotions, hairstyles, gender etc. are encoded, you can change these in real world images in high quality (see demo).</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1F-fxxOVQ8ZWaZPrdlZI7Oh8EooOlFh95vZ8DB0UTiEI/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
-			<div class="project-row">
-                <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
                     <li>
                         <h4>Create Remixes of Musical Pieces Using Deep Learning</h4>
@@ -112,51 +171,12 @@ redirect-url: projects.html
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
                     <li>
-                        <h4>Build a Suistainability App for Individuals - Collaboration with ITIC</h4>
-                        <p>Join a group of students providing scientifically backed suggestions on how individuals can minimize their negative impact on the climate.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1XVESYMiblBwetp7QaKM7CWZ5Hx2-gTVWKmMGX9bvmbQ/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
-			<div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/commercial.png" alt="" /></li>
-                    <li>
                         <h4>App-Building for those Affected by Allergy-Like MAST - Collaboration with ITIC</h4>
                         <p>Create a platform for patients suffering from MAST and build a profile on what is causing their allergy-like symptoms.</p>
                     </li>
                 </ul>
                 <div class="link-effect">
                     <a href="https://docs.google.com/document/d/1Huup5yWzYRW7-eKeAoxXcembZ6d_Ir28N9HXYlBCoD0/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
-			<div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/research.png" alt="" /></li>
-                    <li>
-                        <h4>Automatic Rowing Boat Steering System</h4>
-                        <p>[missing app developer] Create a low cost auto pilot aiming system for small boats and rowing boats using the computing power on a mobile phone.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1qrL2QRWNIVjeS3DrvimcUGFLrt5p4NCazn7EUBF36i4/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
-            <div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/commercial.png" alt="" /></li>
-                    <li>
-                        <h4>Signal separation on multi-sensor array data</h4>
-                        <p>Design and train a deep neural network to process seismic data, more specifically, to separate the blended signals from different sources.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://drive.google.com/open?id=1ItdEKkM1B6fP9G8_86iVSEGSHX86Ts80"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
@@ -196,28 +216,6 @@ redirect-url: projects.html
                 </ul>
                 <div class="link-effect">
                     <a href="https://docs.google.com/document/d/1HT33ohxJ_bK58N_KcvTAzYnooFPONU9Hzm_re3U27_8/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-    
-    <div class="row project-block">
-        <div class="8 project-block">
-            <h3>Active Projects [closed applications]</h3>
-            <div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/research.png" alt="" /></li>
-                    <li>
-                        <h4>Open Source DNA Imaging System with Raspberry Pi <span class="no-wrap">- In Collaboration With <img src="assets/images/biomakerspace.png" alt="" /></span></h4>
-                        <p>Design and build a DNA imaging system using a Raspberry Pi Camera for use in
-                        resource-constrained labs like Biomakespace and our partner labs in Africa.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1T5UZ_jfpwwpUs5Pmqdme3Fa4Nt9cV4Abl423XZXnHFE/edit?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
