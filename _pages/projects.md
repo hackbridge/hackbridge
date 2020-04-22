@@ -48,7 +48,7 @@ redirect-url: projects
             </ul>
         </div>
     </div>
-    
+    <br>
     <div class="row project-block">
         <div class="8 project-block">
             <h3>New Flagship Projects [accepting applications]</h3><br>
