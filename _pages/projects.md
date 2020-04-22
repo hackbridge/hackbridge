@@ -55,7 +55,96 @@ redirect-url: projects
     
     <div class="row project-block">
         <div class="8 project-block">
-            <h3>New Projects [accepting applications]</h3>
+            <h3>New Flagship Projects [accepting applications]</h3><br>
+            <h4>Members who perform well may be offered an internship by the respective company</h4>
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Perfect Dubbing for Movies & TV</h4>
+                        <p>Revolutionize how the world watches foreign content, by using deep learning to provide Perfect Dubbing.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1evAwi3uO6K_snhUrDaw7_5LnN19FAvzP/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Application to Resolve the Knowing Doing Gap</h4>
+                        <p>We’re testing a product which helps founders, execs and managers of fast paced companies resolve the knowing-doing gap. The Knowing-Doing Gap is when we are busy and stressed, we forget to apply the behaviours, we know will optimise team performance, and default to old ways.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/15b0OxhXx3gaLq5qSlbs3rfByoXKBZpmz/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>     
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Virtual Metrology on Plasma Etching</h4>
+                        <p>Build a machine learning algorithm for predicting the result of a quality test after a plasma etching process taking as input machine variables (temperature, pressure,...) recorded during the process.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1qMVD_JvMaKCFyTWSL_ZzMo6aWp-TP24T/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>     
+        </div>
+    </div>
+    
+    <div class="row project-block">
+        <div class="8 project-block">
+            <h3>New Projects [accepting applications]</h3><br>
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/consult.png" alt="" /></li>
+                    <li>
+                        <h4>Hackbridge-CCN Project by Obliquity Group</h4>
+                        <p>Work on a new product that encourages employees to partake in sustainability practises and movements by tapping on the psychology of gameificatin, reward and recognition, collector’s incentive and groupthink. </p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1mi6vGkW4UU_VYZmFSHktvAVQC7l1RBke/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Pay It Forward App with ITIC</h4>
+                        <p>Create an application that allows people to donate vouchers, which can be redeemed as and when the receiver requires. </p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/13AqMxHMlxiP_2ABASiB8v2htbzz1mcsj/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>     
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Matching and Optimisation Algorithm on Pooled Data</h4>
+                        <p>Designing and implementing a data-matching and optimisation algorithm, on encrypted financial and personal data. The project also includes transforming the input data (and as a bonus, integrating your work into our existing user flow).</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1Mso8lkMoC3xBr3GW9oSTj9GZ3k8K3njO/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>     
+        </div>
+    </div>
+
+    <div class="row project-block">
+        <div class="8 project-block">
+            <h3>Active Projects [closed applications]</h3>
  			<div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
@@ -108,12 +197,6 @@ redirect-url: projects
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>
-        </div>
-    </div>
-    
-    <div class="row project-block">
-        <div class="8 project-block">
-            <h3>Active Projects [closed applications]</h3>
             <div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
