@@ -11,15 +11,14 @@ redirect-url: jumpstart
 ---
 
 <!-- Main -->
-<div id="main" class="alt">
+<div id="main" class="alt"></div>
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Hackbridge JumpStart</h1>
-		</header>
-    </div>
+<div class="inner">
+    <header class="major">
+        <h1>Hackbridge JumpStart</h1>
+    </header>
     <h2>What is Hackbridge JumpStart?</h2>
     <h3>Hackbridge JumpStart is a hub for the development of students’ self-initiated projects. </h3> 
     <div class="row"> 
@@ -143,4 +142,5 @@ redirect-url: jumpstart
             </p>
         </div>
     </div>
+</div>
 </section>
