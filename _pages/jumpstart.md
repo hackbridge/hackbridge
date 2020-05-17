@@ -143,4 +143,3 @@ redirect-url: jumpstart
         </div>
     </div>
 </div>
-</section>
