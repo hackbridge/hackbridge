@@ -19,7 +19,7 @@ redirect-url: jumpstart
 		<header class="major">
 			<h1>Hackbridge JumpStart</h1>
 		</header>
-
+    </div>
     <h2>What is Hackbridge JumpStart?</h2>
     <h3>Hackbridge JumpStart is a hub for the development of students’ self-initiated projects. </h3> 
     <div class="row"> 
@@ -31,8 +31,8 @@ redirect-url: jumpstart
             We accept JumpStart members on a rolling basis throughout the term, with two mass intakes during the start of Michaelmas and Lent term.
             </p>
             <p>
-            Our current intake for Lent 2020 is now open! <br>
-            <strong><a href="https://forms.gle/Us1myDHBHHhz4s3h6">Apply for Hackbridge JumpStart now!</a></strong>
+            Our current intake for Easter 2020 is now open! <br>
+            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQzkVzzJKhpiKqEG1I1GLzEURRvslXPIBgkDJhlXv3bZ06Ow/viewform">Apply for Hackbridge JumpStart now!</a></strong>
             </p>
         </div>
     </div>
@@ -143,6 +143,4 @@ redirect-url: jumpstart
             </p>
         </div>
     </div>
-
-</div>
 </section>
