@@ -96,6 +96,7 @@ redirect-url: jumpstart
                     <li>
                         <h4>Med Tech 1</h4>
                         <p>Bringing together large clinical datasets, incorporating new data sources as well as looking for new ways to make them available for research and clinical use.</p>
+                        <br>
                     </li>
                 </ul>
             </div> 
@@ -105,6 +106,7 @@ redirect-url: jumpstart
                     <li>
                         <h4>Med Tech 2</h4>
                         <p>Creating a virtual platform for doctors from China to provide educational resources for other countries’ doctors in this pandemic, to merge with existing medical forums to have economies of scale.</p>
+                        <br>
                     </li>
                 </ul>
             </div> 
