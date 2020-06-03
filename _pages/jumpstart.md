@@ -94,8 +94,8 @@ redirect-url: jumpstart
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/startup.png" alt="" /></li>
                     <li>
-                        <br><h4>Med Tech 1</h4>
-                        <p>Bringing together large clinical datasets, incorporating new data sources as well as looking for new ways to make them available for research and clinical use. <br></p>
+                        <h4><br>Med Tech 1</h4>
+                        <p>Bringing together large clinical datasets, incorporating new data sources as well as looking for new ways to make them available for research and clinical use.</p>
                     </li>
                 </ul>
             </div> 
@@ -103,8 +103,8 @@ redirect-url: jumpstart
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/startup.png" alt="" /></li>
                     <li>
-                        <h4>Med Tech 2</h4>
-                        <p>Creating a virtual platform for doctors from China to provide educational resources for other countries’ doctors in this pandemic, to merge with existing medical forums to have economies of scale. <br></p>
+                        <h4><br>Med Tech 2</h4>
+                        <p>Creating a virtual platform for doctors from China to provide educational resources for other countries’ doctors in this pandemic, to merge with existing medical forums to have economies of scale.</p>
                     </li>
                 </ul>
             </div> 
