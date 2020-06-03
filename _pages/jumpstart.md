@@ -114,7 +114,7 @@ redirect-url: jumpstart
 
     <div class ="row">
         <div class ="8">
-        <h2>The JumpStart workflow</h2>
+        <h2><br>The JumpStart workflow</h2>
         <h3>The JumpStart programme is split into 4 key stages</h3>
         <p>
         1. Team Formation <br>
