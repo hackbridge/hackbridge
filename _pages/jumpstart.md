@@ -90,10 +90,14 @@ redirect-url: jumpstart
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/startup.png" alt="" /></li>
                     <li>
-                        <h4><br>Med Tech 2</h4>
-                        <p>Creating a virtual platform for doctors from China to provide educational resources for other countries’ doctors in this pandemic, to merge with existing medical forums to have economies of scale.</p>
+                        <h4><br>Clinician Wiki</h4>
+                        <p>Creating an online medical knowledge base free for everyone to read and edit.</p>
                     </li>
                 </ul>
+                <div class="link-effect">
+                    <a href="http://clinicianwiki.com/index.php/Main_Page"
+                    target="_blank" data-text="More Information">More Information</a>
+                </div>
             </div> 
         </div>
     </div>
