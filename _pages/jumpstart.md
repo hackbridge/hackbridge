@@ -81,15 +81,6 @@ redirect-url: jumpstart
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/startup.png" alt="" /></li>
                     <li>
-                        <h4>Med Tech 1</h4>
-                        <p>Bringing together large clinical datasets, incorporating new data sources as well as looking for new ways to make them available for research and clinical use.</p>
-                    </li>
-                </ul>
-            </div> 
-            <div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/startup.png" alt="" /></li>
-                    <li>
                         <h4><br>Clinician Wiki</h4>
                         <p>Creating an online medical knowledge base free for everyone to read and edit.</p>
                     </li>
