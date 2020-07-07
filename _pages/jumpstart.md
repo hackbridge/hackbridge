@@ -81,7 +81,7 @@ redirect-url: jumpstart
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/startup.png" alt="" /></li>
                     <li>
-                        <h4><br>Clinician Wiki</h4>
+                        <h4>Clinician Wiki</h4>
                         <p>Creating an online medical knowledge base free for everyone to read and edit.</p>
                     </li>
                 </ul>
