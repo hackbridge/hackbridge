@@ -51,8 +51,81 @@ redirect-url: projects
     <br>
     <div class="row project-block">
         <div class="8 project-block">
-            <h3>New Flagship Projects [accepting applications]</h3><br>
-            <h4>Members who perform well may be offered an internship by the respective company</h4>
+            <h3>New Projects [accepting applications]</h3><br>
+  			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Head Circumference Measuring App</h4>
+                        <p>The aim of this study is to devise and validate a mobile app utilising modern smartphone camera technology to allow parents and caregivers to reliably measure infant HC. An accurate head circumference (HC) measurement is essential when clinically evaluating a
+                        neonate or infant. HC outside the normal range may indicate a disorder of brain development, hydrocephalus, or an intracranial mass lesion. A project hosted in collaboration with Addenbrooke's.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1TLEnU5znYq8D-MY6p_RX1oR168Q3Kg78/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+  			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/commercial.png" alt="" /></li>
+                    <li>
+                        <h4>Happyr Health: Game-based symptom tracking app for children with migraine</h4>
+                        <p>1 in 10 children suffer from migraine, a neurological disease that is far worse than ‘just a headache‘. To manage their chronic condition, doctors ask them to keep track of migraine episodes. This supports the diagnosis and treatment pathway.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1-Lm2cVm1Q0T3jSKB8qZrc6-kGA4m1EgQ/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+  			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>CYTO!: Cell Culturing Pocket Reference Guide</h4>
+                        <p>CYTO! is an app that teaches the basics of cell culturing to beginners. Users will find a simplified reference guide with laymen terms and graphics to clarify the concepts and protocols. The target users are biology students and researchers who are new to the cell lab environment.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1zSCfR0Q7CHRApC3dxeXVY73zga1MZBvp/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="row project-block">
+        <div class="8 project-block">
+            <h3>Active Projects [closed applications]</h3>
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/consult.png" alt="" /></li>
+                    <li>
+                        <h4>Afrinspire & Hackbridge-CCN Technical Consulting Project</h4>
+                        <p>Afrinspire is a charity which supports African initiatives in development and poverty reduction in East Africa. Afrinspire helps bridge the digital divide and the resource gap in Africa by providing PCs and books and training IT technicians to support local communities.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1h_owewTFSXGhsbnWLW8YPvX8HjBRurSd/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
+ 			<div class="project-row">
+                <ul class="project-row-blocks">
+                    <li><img src="assets/images/research.png" alt="" /></li>
+                    <li>
+                        <h4>Satellite Images Analysis using Physics and Computer Vision</h4>
+                        <p>Exploratory project in the use of Computer Vision applied to satellite images to determine the height of objects in the image, with a focus on tree height estimation.</p>
+                    </li>
+                </ul>
+                <div class="link-effect">
+                    <a href="https://drive.google.com/file/d/1_F3_d7eelMj4Q78hXwwR90hapTr4CsmT/view?usp=sharing"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+                </div>
+            </div>
  			<div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
@@ -65,6 +138,7 @@ redirect-url: projects
                     <a href="https://drive.google.com/file/d/1evAwi3uO6K_snhUrDaw7_5LnN19FAvzP/view?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
+            </div>
  			<div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/commercial.png" alt="" /></li>
@@ -91,12 +165,6 @@ redirect-url: projects
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
             </div>     
-        </div>
-    </div>
-    
-    <div class="row project-block">
-        <div class="8 project-block">
-            <h3>New Projects [accepting applications]</h3><br>
  			<div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/consult.png" alt="" /></li>
@@ -134,13 +202,7 @@ redirect-url: projects
                     <a href="https://drive.google.com/file/d/1Mso8lkMoC3xBr3GW9oSTj9GZ3k8K3njO/view?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
                 </div>
-            </div>     
-        </div>
-    </div>
-
-    <div class="row project-block">
-        <div class="8 project-block">
-            <h3>Active Projects [closed applications]</h3>
+            </div>    
  			<div class="project-row">
                 <ul class="project-row-blocks">
                     <li><img src="assets/images/research.png" alt="" /></li>
