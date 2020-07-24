@@ -25,7 +25,7 @@ redirect-url: projects
     <div class="8">
         <p>
         We run challenging projects throughout the year that are proposed by experts in their fields (Researchers/PhDs/Entrepreneurs). If you are interesting in joining a project team, please apply using the link below.<br>
-        <strong><a href="https://forms.gle/ydQD14aGAEcEwvxj6">Apply for a project</a></strong>
+        <strong><a href="https://forms.gle/Aa4FNqEUQgVegwbEA">Apply for a project</a></strong>
         </p>
         <p>
         If you want to propose your own project idea. Please fill in the project proposal form. We will help you build a team and provide the resources to get it started.<br>
