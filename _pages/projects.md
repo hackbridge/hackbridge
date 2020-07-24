@@ -19,6 +19,7 @@ redirect-url: projects
 		<header class="major">
 			<h1>Projects</h1>
 		</header>
+    </div>
 
     <h3>Join a project to create novel research or commercial products.</h3> 
     <div class="row"> 
