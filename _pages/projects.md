@@ -15,11 +15,10 @@ redirect-url: projects
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Projects</h1>
-		</header>
-    </div>
+<div class="inner">
+    <header class="major">
+        <h1>Projects</h1>
+    </header>
 
     <h3>Join a project to create novel research or commercial products.</h3> 
     <div class="row"> 
