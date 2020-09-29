@@ -52,7 +52,8 @@ redirect-url: projects
 <div class="row project-block">
     <div class="8 project-block">
         <h3>New Projects [accepting applications]</h3><br>
-        <div class="project-row">
+        <h4><strong>Our brand new Michaelmas 2020 projects will be released on 9th October 2020!</strong></h4>
+        <!-- <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
                 <li>
@@ -91,7 +92,7 @@ redirect-url: projects
                 <a href="https://drive.google.com/file/d/1zSCfR0Q7CHRApC3dxeXVY73zga1MZBvp/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
-        </div>
+        </div> -->
 
 
     </div>
