@@ -52,8 +52,59 @@ redirect-url: projects
 <div class="row project-block">
     <div class="8 project-block">
         <h3>New Projects [accepting applications]</h3><br>
-        <h4><strong>Our brand new Michaelmas 2020 projects will be released on 9th October 2020!</strong></h4>
-        <!-- <div class="project-row">
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>[Gateway] Introduction to Web Development: Improving the Hackbridge website</h4>
+                    <p>Gateway Projects are beginner friendly, there are no prerequisites. The first Hackbridge website (hackbridge.io) was designed and created back in 2018, using Jekyll and Ruby. In 2020, there exists a lot of more powerful frameworks and libraries that enable web developers to create responsive and modern websites. Thus, we wish to update our website to give it a modern look.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1M0lEg3MoTbq9CKCBAyhJhNVSAfvvELpH/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>[Gateway] Introduction to Web Development: COVID-19 Contact Tracing</h4>
+                    <p>Gateway Projects are beginner friendly, there are no prerequisites. Covid-19 has changed the way we live and work significantly. Governments around the world have tried numerous methods to control and contain the virus. One method used is extensive contact tracing. This has been done by Google and Apple using Bluetooth. At Hackbridge, we hope to develop a web application that performs contact-tracing in a voluntary way.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1d8FAr6_EcGpo9TBp9xmhzc4QrxhBTdYd/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>Dissecting deep learning for systematic generalisation</h4>
+                    <p>We carry out an empirical study on the effective computational power of deep learning methods (transformers in particular) for systematic generalisation. </p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/19FIUP73T-f_UXxWAn7ukIx3JfT53MAIv/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>[Collaboration with CUR] Robotics Policy Learning Research Project</h4>
+                    <p>A research project in collaboration with Deepmind and the Bio-Inspired Robotics Laboratory (BIRL), a robotics research lab in the engineering dept. It is supervised by Thomas, a post-doc at BIRL, and by a few researchers at Deepmind. We have been working with a Firefly arm and using a passive hand, developed by Kieran, a phd student at BIRL. The project aims to both provide experience in robotics and in research environment for undergraduates.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/1tjcxj2SPq9vK9WvwKGq6uBOzPncVcRNBnfaTSwfKKDc/edit#"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
                 <li>
@@ -69,51 +120,50 @@ redirect-url: projects
         </div>
         <div class="project-row">
             <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li><img src="assets/images/research.png" alt="" /></li>
                 <li>
-                    <h4>Happyr Health: Game-based symptom tracking app for children with migraine</h4>
-                    <p>1 in 10 children suffer from migraine, a neurological disease that is far worse than ‘just a headache‘. To manage their chronic condition, doctors ask them to keep track of migraine episodes. This supports the diagnosis and treatment pathway.</p>
+                    <h4>ML-Enhanced Computer Vision Change Detector System for Satellite Images Analysis</h4>
+                    <p>Spacept is an Open Innovation company, taking a friendly and collaborative approach to solving some of the world’s most challenging problems. For this project, we are building a machine learning enhanced change detector applied to satellite images to spot oil on the ocean surface and assess damage to cities following a natural disaster (flood, storm, fires, and earthquakes).</p>
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1-Lm2cVm1Q0T3jSKB8qZrc6-kGA4m1EgQ/view?usp=sharing"
+                <a href="https://drive.google.com/file/d/1M6_0bSZpkVvoVe9xlyRvPYNf1JCWvcpX/view"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
         <div class="project-row">
             <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
+                <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>CYTO!: Cell Culturing Pocket Reference Guide</h4>
-                    <p>CYTO! is an app that teaches the basics of cell culturing to beginners. Users will find a simplified reference guide with laymen terms and graphics to clarify the concepts and protocols. The target users are biology students and researchers who are new to the cell lab environment.</p>
+                    <h4>Happyr Health: Game-based symptom tracking app for children with migraine</h4>
+                    <p>1 in 10 children suffer from migraine, a neurological disease that is far worse than 'just a headache'. To manage their chronic condition, doctors ask them to keep track of migraine episodes. This supports the diagnosis and treatment pathway.</p>
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1zSCfR0Q7CHRApC3dxeXVY73zga1MZBvp/view?usp=sharing"
+                <a href="https://drive.google.com/file/d/1PeTkbodU_oKxpEprEaPK9uH65Qc16y5o/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
-        </div> -->
-
-
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/consult.png" alt="" /></li>
+                <li>
+                    <h4>Unlimitech & Hackbridge-CCN Technical Consulting Project</h4>
+                    <p>Unlimitech is a technology start-up based in Cambridge, UK. Unlimitech helps people optimize their performance and nutrition through high-precision metabolic tracking.
+                    Unlimitech is currently developing a wearable device (Smartmask) and companion mobile application that together track a user’s key metabolic metrics. Unlimitech hopes to understand what the customer demands for the mobile application are and what would be an adequate plan for its development.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/14Jn2fsj3QbhUFSFUnwEDA67KNTYkpiOT/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
     </div>
 </div>
 
 <div class="row project-block">
     <div class="8 project-block">
         <h3>Active Projects [closed applications]</h3>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/consult.png" alt="" /></li>
-                <li>
-                    <h4>Afrinspire & Hackbridge-CCN Technical Consulting Project</h4>
-                    <p>Afrinspire is a charity which supports African initiatives in development and poverty reduction in East Africa. Afrinspire helps bridge the digital divide and the resource gap in Africa by providing PCs and books and training IT technicians to support local communities.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1h_owewTFSXGhsbnWLW8YPvX8HjBRurSd/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
@@ -124,19 +174,6 @@ redirect-url: projects
             </ul>
             <div class="link-effect">
                 <a href="https://drive.google.com/file/d/1_F3_d7eelMj4Q78hXwwR90hapTr4CsmT/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Perfect Dubbing for Movies & TV</h4>
-                    <p>Revolutionize how the world watches foreign content, by using deep learning to provide Perfect Dubbing.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1evAwi3uO6K_snhUrDaw7_5LnN19FAvzP/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
@@ -182,19 +219,6 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>Pay It Forward App with ITIC</h4>
-                    <p>Create an application that allows people to donate vouchers, which can be redeemed as and when the receiver requires. </p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/13AqMxHMlxiP_2ABASiB8v2htbzz1mcsj/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>     
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
                     <h4>Matching and Optimisation Algorithm on Pooled Data</h4>
                     <p>Designing and implementing a data-matching and optimisation algorithm, on encrypted financial and personal data. The project also includes transforming the input data (and as a bonus, integrating your work into our existing user flow).</p>
                 </li>
@@ -208,51 +232,12 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
                 <li>
-                    <h4>StyleGAN based face modification app</h4>
-                    <p>StyleGAN allows you to generate faces and interpolate between them. By encoding real faces into it and learning how emotions, hairstyles, gender etc. are encoded, you can change these in real world images in high quality (see demo).</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://docs.google.com/document/d/1F-fxxOVQ8ZWaZPrdlZI7Oh8EooOlFh95vZ8DB0UTiEI/edit?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>           
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
-                <li>
                     <h4>Automatic Rowing Boat Steering System</h4>
                     <p>[missing app developer] Create a low cost auto pilot aiming system for small boats and rowing boats using the computing power on a mobile phone.</p>
                 </li>
             </ul>
             <div class="link-effect">
                 <a href="https://docs.google.com/document/d/1qrL2QRWNIVjeS3DrvimcUGFLrt5p4NCazn7EUBF36i4/edit?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Signal separation on multi-sensor array data</h4>
-                    <p>Design and train a deep neural network to process seismic data, more specifically, to separate the blended signals from different sources.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/open?id=1ItdEKkM1B6fP9G8_86iVSEGSHX86Ts80"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>    
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Build a Sustainability App for Individuals - Collaboration with ITIC</h4>
-                    <p>Join a group of students providing scientifically backed suggestions on how individuals can minimize their negative impact on the climate.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://docs.google.com/document/d/1XVESYMiblBwetp7QaKM7CWZ5Hx2-gTVWKmMGX9bvmbQ/edit?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
