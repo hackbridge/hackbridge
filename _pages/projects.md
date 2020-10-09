@@ -40,11 +40,7 @@ redirect-url: projects
             <li><img src="assets/images/research.png" alt="" /> - Research</li>
             <li><img src="assets/images/commercial.png" alt="" /> - Commercial</li>
             <li><img src="assets/images/startup.png" alt="" /> - JumpStart</li>
-            <li>
-                <img src="assets/images/consult.png" alt="" /> - 
-                <a href="https://lschackbridge.com/"
-                                    target="_blank" data-text="Project Proposal">Consulting website</a>
-            </li>
+            <li><img src="assets/images/consult.png" alt="" /> - Consulting</li>
         </ul>
     </div>
 </div>

@@ -7,7 +7,7 @@ order: 3
 nav-order: 3
 nav-menu: true
 permalink: consulting
-redirect-url: https://lschackbridge.com/
+redirect-url: projects
 ---
 
 <!-- Main -->
