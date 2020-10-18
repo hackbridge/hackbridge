@@ -30,8 +30,8 @@ redirect-url: jumpstart
             We accept JumpStart members on a rolling basis throughout the term, with two mass intakes during the start of Michaelmas and Lent term.
             </p>
             <p>
-            Our current intake for Easter 2020 is now open! <br>
-            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQzkVzzJKhpiKqEG1I1GLzEURRvslXPIBgkDJhlXv3bZ06Ow/viewform">Apply for Hackbridge JumpStart now!</a></strong>
+            Our current intake for Michaelmas 2020 is now open! <br>
+            <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfyXuBEPCob46vwRMRW870WE1lafmRW4dT3TcRW1aV2c1i5Dw/viewform">Apply for Hackbridge JumpStart now!</a></strong>
             </p>
         </div>
     </div>
@@ -39,57 +39,7 @@ redirect-url: jumpstart
     <div class="row project-block">
         <div class="8 project-block">
             <h3>Collaborate on an active JumpStart Project!</h3><br>
- 			<div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/startup.png" alt="" /></li>
-                    <li>
-                        <h4>Savewise</h4>
-                        <p>Savewise: Saving Made Easy. An integrated platform to manage all your subscriptions. </p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://drive.google.com/open?id=1sgQ5Bceb6KZPVefrD6fCI9yADeT82tLe"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
- 			<div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/startup.png" alt="" /></li>
-                    <li>
-                        <h4>Find Rent Room</h4>
-                        <p>A stealth blockchain start-up working on a disruptive application focusing on the real estate sector. It will connect landlords to tenants and facilitate the full rental process from start to finish. </p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://drive.google.com/open?id=1hzxeU1xc7LWyJItaqyP2hhITPJymVS_j"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>     
- 			<div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/startup.png" alt="" /></li>
-                    <li>
-                        <h4>Digital Platform Disruptor</h4>
-                        <p>A tool that lets developers design competing social media interfaces that users choose from to connect to the same network.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="https://drive.google.com/open?id=1fXudSDRBWlRaNXCuu-Er5CSjxMdWkukH"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-                </div>
-            </div>     
-            <div class="project-row">
-                <ul class="project-row-blocks">
-                    <li><img src="assets/images/startup.png" alt="" /></li>
-                    <li>
-                        <h4>Clinician Wiki</h4>
-                        <p>Creating an online medical knowledge base free for everyone to read and edit.</p>
-                    </li>
-                </ul>
-                <div class="link-effect">
-                    <a href="http://clinicianwiki.com/index.php/Main_Page"
-                    target="_blank" data-text="More Information">More Information</a>
-                </div>
-            </div> 
+ 			<p>No active projects as of now!</p>
         </div>
     </div>
 
