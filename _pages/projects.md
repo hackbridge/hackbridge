@@ -48,16 +48,16 @@ redirect-url: projects
 <div class="row project-block">
     <div class="8 project-block">
         <h3>New Projects [accepting applications]</h3><br>
-        <div class="project-row">
+                <div class="project-row">
             <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
+                <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>[Gateway] Introduction to Web Development: Improving the Hackbridge website</h4>
-                    <p>Gateway Projects are beginner friendly, there are no prerequisites. The first Hackbridge website (hackbridge.io) was designed and created back in 2018, using Jekyll and Ruby. In 2020, there exists a lot of more powerful frameworks and libraries that enable web developers to create responsive and modern websites. Thus, we wish to update our website to give it a modern look.</p>
+                    <h4>[Flagship Project - Convertible Internship Available] Developing a calendar-based nudge tool helps senior leaders make small but impactful changes in behaviour and communication at work.</h4>
+                    <p>Use Machine Learning to create a tool that reads data from a calendar and create unique nudges. The nudges should be relevant to their next meeting; fitting within the natural flow of work. A nudge follows a learning curriculum which uses predictive modelling to calibrate present, priority and missing skills.</p>
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1M0lEg3MoTbq9CKCBAyhJhNVSAfvvELpH/view?usp=sharing"
+                <a href="https://drive.google.com/file/d/1YlxuHLQQioAyUdq_PE88PsVyckVwk3hC/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
@@ -65,16 +65,22 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
                 <li>
-                    <h4>[Gateway] Introduction to Web Development: COVID-19 Contact Tracing</h4>
-                    <p>Gateway Projects are beginner friendly, there are no prerequisites. Covid-19 has changed the way we live and work significantly. Governments around the world have tried numerous methods to control and contain the virus. One method used is extensive contact tracing. This has been done by Google and Apple using Bluetooth. At Hackbridge, we hope to develop a web application that performs contact-tracing in a voluntary way.</p>
+                    <h4>ML-Enhanced Computer Vision Change Detector System for Satellite Images Analysis</h4>
+                    <p>To fight climate change by inspect the world’s ocean to detect oil spills and land for damage estimation following natural disasters.</p>
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1d8FAr6_EcGpo9TBp9xmhzc4QrxhBTdYd/view?usp=sharing"
+                <a href="https://drive.google.com/file/d/1ZO0o7aY_b1Ebp_8dtoXRi8hc7KvpK9l7/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
-        <div class="project-row">
+    </div>
+</div>
+
+<div class="row project-block">
+    <div class="8 project-block">
+        <h3>Active Projects [closed applications]</h3>
+                <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
                 <li>
@@ -84,19 +90,6 @@ redirect-url: projects
             </ul>
             <div class="link-effect">
                 <a href="https://drive.google.com/file/d/19FIUP73T-f_UXxWAn7ukIx3JfT53MAIv/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
-                <li>
-                    <h4>[Collaboration with CUR] Robotics Policy Learning Research Project</h4>
-                    <p>A research project in collaboration with Deepmind and the Bio-Inspired Robotics Laboratory (BIRL), a robotics research lab in the engineering dept. It is supervised by Thomas, a post-doc at BIRL, and by a few researchers at Deepmind. We have been working with a Firefly arm and using a passive hand, developed by Kieran, a phd student at BIRL. The project aims to both provide experience in robotics and in research environment for undergraduates.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://docs.google.com/document/d/1tjcxj2SPq9vK9WvwKGq6uBOzPncVcRNBnfaTSwfKKDc/edit#"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
@@ -114,116 +107,6 @@ redirect-url: projects
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
-                <li>
-                    <h4>ML-Enhanced Computer Vision Change Detector System for Satellite Images Analysis</h4>
-                    <p>Spacept is an Open Innovation company, taking a friendly and collaborative approach to solving some of the world’s most challenging problems. For this project, we are building a machine learning enhanced change detector applied to satellite images to spot oil on the ocean surface and assess damage to cities following a natural disaster (flood, storm, fires, and earthquakes).</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1M6_0bSZpkVvoVe9xlyRvPYNf1JCWvcpX/view"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Happyr Health: Game-based symptom tracking app for children with migraine</h4>
-                    <p>1 in 10 children suffer from migraine, a neurological disease that is far worse than 'just a headache'. To manage their chronic condition, doctors ask them to keep track of migraine episodes. This supports the diagnosis and treatment pathway.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1PeTkbodU_oKxpEprEaPK9uH65Qc16y5o/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/consult.png" alt="" /></li>
-                <li>
-                    <h4>Unlimitech & Hackbridge-CCN Technical Consulting Project</h4>
-                    <p>Unlimitech is a technology start-up based in Cambridge, UK. Unlimitech helps people optimize their performance and nutrition through high-precision metabolic tracking.
-                    Unlimitech is currently developing a wearable device (Smartmask) and companion mobile application that together track a user’s key metabolic metrics. Unlimitech hopes to understand what the customer demands for the mobile application are and what would be an adequate plan for its development.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/14Jn2fsj3QbhUFSFUnwEDA67KNTYkpiOT/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="row project-block">
-    <div class="8 project-block">
-        <h3>Active Projects [closed applications]</h3>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
-                <li>
-                    <h4>Satellite Images Analysis using Physics and Computer Vision</h4>
-                    <p>Exploratory project in the use of Computer Vision applied to satellite images to determine the height of objects in the image, with a focus on tree height estimation.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1_F3_d7eelMj4Q78hXwwR90hapTr4CsmT/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Application to Resolve the Knowing Doing Gap</h4>
-                    <p>We’re testing a product which helps founders, execs and managers of fast paced companies resolve the knowing-doing gap. The Knowing-Doing Gap is when we are busy and stressed, we forget to apply the behaviours, we know will optimise team performance, and default to old ways.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/15b0OxhXx3gaLq5qSlbs3rfByoXKBZpmz/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>     
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Virtual Metrology on Plasma Etching</h4>
-                    <p>Build a machine learning algorithm for predicting the result of a quality test after a plasma etching process taking as input machine variables (temperature, pressure,...) recorded during the process.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1qMVD_JvMaKCFyTWSL_ZzMo6aWp-TP24T/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>     
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/consult.png" alt="" /></li>
-                <li>
-                    <h4>Hackbridge-CCN Project by Obliquity Group</h4>
-                    <p>Work on a new product that encourages employees to partake in sustainability practises and movements by tapping on the psychology of gameificatin, reward and recognition, collector’s incentive and groupthink. </p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1mi6vGkW4UU_VYZmFSHktvAVQC7l1RBke/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Matching and Optimisation Algorithm on Pooled Data</h4>
-                    <p>Designing and implementing a data-matching and optimisation algorithm, on encrypted financial and personal data. The project also includes transforming the input data (and as a bonus, integrating your work into our existing user flow).</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1Mso8lkMoC3xBr3GW9oSTj9GZ3k8K3njO/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>    
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
@@ -415,31 +298,38 @@ redirect-url: projects
         </div>
         <div class="project-row">
             <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li><img src="assets/images/research.png" alt="" /></li>
                 <li>
-                    <h4>NLP for News Clustering</h4>
-                    <p>Natural Language Processing clustering algorithm for multi-media news content.</p>
+                    <h4>Dynamic Vehicle Weight Sensors</h4>
+                    <p>The aim of the project is to develop a system to accurately measure the weight of each axle of a lorry as it drives past at highway speed.</p>
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://docs.google.com/document/d/1wWperf6-oUCL7gK4zxevr0AWEImliseKSUd_uDFHq9M/edit?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
+                    <a href="https://docs.google.com/document/d/1ATQG9fEe_TNJNlmx7s-b5r_R-fVnVdZczorK57FvJkY/"
+                    target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>  
         </div>
-        <div class="project-row">
+
+    </div>
+</div>
+
+<div class="row project-block">
+    <div class="8 project-block">
+        <h3>Past Projects</h3>
+            <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>NLP for News Topic Classification</h4>
-                    <p>Natural Language Processing classification algorithm for multi-media news content.</p>
+                    <h4>Application to Resolve the Knowing Doing Gap</h4>
+                    <p>We’re testing a product which helps founders, execs and managers of fast paced companies resolve the knowing-doing gap. The Knowing-Doing Gap is when we are busy and stressed, we forget to apply the behaviours, we know will optimise team performance, and default to old ways.</p>
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://docs.google.com/document/d/1rtTo4SvPxkETpWuDWcemd8r-4WzqDOJ5sVI1h1UBpwY/edit?usp=sharing"
+                <a href="https://drive.google.com/file/d/15b0OxhXx3gaLq5qSlbs3rfByoXKBZpmz/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
-        </div>
-    <div class="project-row">
+        </div>     
+            <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
@@ -452,110 +342,42 @@ redirect-url: projects
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
-    <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Deep Learning orderbook models for digital assets</h4>
-                    <p>Digital assets (cryptocurrencies) have a far more relaxed regulatory oversight than traditional financial instruments, which means that their orderbooks have a variety of complex phenomena that don’t occur in traditional markets</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/13cSBr81D-CBh-HWt4c7RwdVXkYoUgZB4/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-    <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Crypto Markets: The future of trend following</h4>
-                    <p>A research study into the investment returns from trend following strategies in the burgeoning digital asset markets (“cryptocurrencies”).</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1VeY1howb3tTCM5TqFy1mhctyJqzUu8lh/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-    <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Bitcoin: commodity or currency? A study of price returns</h4>
-                    <p>Bitcoin is often branded as a currency, but its price returns tell a different story. This is a project into the changing nature of cryptocurrency holding returns</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1LHeaAj61_habyigZbr5dArC5YnoNcN53/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>Econometrics modelling for public equities</h4>
-                    <p>Modeling relationships with the stock price of a company and fundamental forecasts
-                    (of eg. revenue, profit etc) to isolate a driver that is the best fit.</p>
+                    <h4>Virtual Metrology on Plasma Etching</h4>
+                    <p>Build a machine learning algorithm for predicting the result of a quality test after a plasma etching process taking as input machine variables (temperature, pressure,...) recorded during the process.</p>
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://docs.google.com/document/d/1TJX-ch029OJbaBXwnT369GFa0lKALXBGS77DAsRDTEU/edit?usp=sharing"
+                <a href="https://drive.google.com/file/d/1qMVD_JvMaKCFyTWSL_ZzMo6aWp-TP24T/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
-        </div>
+        </div>     
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>Predicting startup success based on historical data</h4>
-                    <p>SyndicateRoom has launched a new venture fund that aims to use data to identify the most
-                    promising startups to invest in.</p>
+                    <h4>Matching and Optimisation Algorithm on Pooled Data</h4>
+                    <p>Designing and implementing a data-matching and optimisation algorithm, on encrypted financial and personal data. The project also includes transforming the input data (and as a bonus, integrating your work into our existing user flow).</p>
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1Qf7psdENM74Gp1M5cW4xSAgoRWFL-Zyx/view?usp=sharing"
+                <a href="https://drive.google.com/file/d/1Mso8lkMoC3xBr3GW9oSTj9GZ3k8K3njO/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
-        </div>
+        </div>    
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>Designing an Automated Marine Steering System</h4>
-                    <p>Designing a low cost auto pilot aiming system for small boats and rowing boats using the
-                    computing power on a mobile phone. Proposed by the Founder of Hawk-eye - Paul Hawkins</p>
+                    <h4>NLP for News Topic Classification</h4>
+                    <p>Natural Language Processing classification algorithm for multi-media news content.</p>
                 </li>
             </ul>
             <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/13LgaOXc3k1xp2099fMmWD7A_CJarYBKzv9ZlP-7ufok/edit?usp=sharing"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>  
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Scalable Machine Learning on Massive Images</h4>
-                    <p>Developing novel methods to enable scalable production-ready deep learning pipeline on massive image data.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1m5J-QnIWkJW0_80F2aj1JoqfvV6pX7N148-Ebyvpve0/"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>  
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Analysing Videos to Find Soft Skill Indicators</h4>
-                    <p>Interviewer.AI would like to create an assessment algorithm to measure key traits/skills that act as a predictor of job performance.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/181p5KHg8hBpkYAUomSOWGkdsoRi_JEvOfUGecKdM_CI/"
+                    <a href="https://docs.google.com/document/d/1rtTo4SvPxkETpWuDWcemd8r-4WzqDOJ5sVI1h1UBpwY/"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>  
         </div>
@@ -574,37 +396,31 @@ redirect-url: projects
         </div>
         <div class="project-row">
             <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
+                <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>Dynamic Vehicle Weight Sensors</h4>
-                    <p>The aim of the project is to develop a system to accurately measure the weight of each axle of a lorry as it drives past at highway speed.</p>
+                    <h4>Designing an Automated Marine Steering System</h4>
+                    <p>Designing a low cost auto pilot aiming system for small boats and rowing boats using the
+                    computing power on a mobile phone. Proposed by the Founder of Hawk-eye - Paul Hawkins</p>
                 </li>
             </ul>
             <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1ATQG9fEe_TNJNlmx7s-b5r_R-fVnVdZczorK57FvJkY/"
+                    <a href="https://docs.google.com/document/d/13LgaOXc3k1xp2099fMmWD7A_CJarYBKzv9ZlP-7ufok/edit?usp=sharing"
                     target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>  
-        </div>
+        </div>       
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
-                    <h4>NLP for News Topic Classification</h4>
-                    <p>Natural Language Processing classification algorithm for multi-media news content.</p>
+                    <h4>NLP for News Clustering</h4>
+                    <p>Natural Language Processing clustering algorithm for multi-media news content.</p>
                 </li>
             </ul>
             <div class="link-effect">
-                    <a href="https://docs.google.com/document/d/1rtTo4SvPxkETpWuDWcemd8r-4WzqDOJ5sVI1h1UBpwY/"
-                    target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>  
+                <a href="https://docs.google.com/document/d/1wWperf6-oUCL7gK4zxevr0AWEImliseKSUd_uDFHq9M/edit?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
         </div>
-
-    </div>
-</div>
-
-<div class="row project-block">
-    <div class="8 project-block">
-        <h3>Past Projects</h3>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
