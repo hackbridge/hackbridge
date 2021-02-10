@@ -48,7 +48,7 @@ redirect-url: projects
 <div class="row project-block">
     <div class="8 project-block">
         <h3>New Projects [accepting applications]</h3><br>
-                <div class="project-row">
+        <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
@@ -71,6 +71,19 @@ redirect-url: projects
             </ul>
             <div class="link-effect">
                 <a href="https://drive.google.com/file/d/1ZO0o7aY_b1Ebp_8dtoXRi8hc7KvpK9l7/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+                <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Developing an integrated, personalized medicine platform using digital twins extrapolated from real-patient data</h4>
+                    <p>By extracting each patient’s unique biological signature, we aim to redefine the dynamic between patient, drug and treatment. Analogous to online ads targeted to your online identity, Aiina aims to accelerate therapeutic and clinical solutions to your unique biological signature.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/1R8I4AhXKjC99gpAzpEDNg3KGfA1UHhhFxmEdD3qJNEI/edit"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
