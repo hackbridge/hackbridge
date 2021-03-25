@@ -94,8 +94,6 @@ redirect-url: about
 		</ul>
 
 	</div>
-</section>
-
 <!-- Two -->
 <section id="two" class="spotlights">
 
