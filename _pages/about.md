@@ -29,6 +29,9 @@ redirect-url: about
 		</header>
 
 		<div class="box alt">
+
+			<div class="align-center"><h2>Central Committee</h2></div>
+
 			<div class="row uniform align-center vert-space-medium">
 				<div class="center col-4">
 					<img class="img-circle size-fix" src="assets/committee/Bryan Teng.jpg" alt="" />
@@ -36,14 +39,21 @@ redirect-url: about
 					<div class="pad-top"><b>President</b></div>
 				</div>
 				<div class="center col-4">
+					<div class="pad-top"><b>Jonathan Chee</b></div>
+					<div class="pad-top"><b>Vice President</b></div>
+				</div>
+			</div>
+
+			<div class="row uniform align-center vert-space-medium">
+				<div class="center col-4">
 					<img class="img-circle size-fix" src="assets/committee/Keefe Wayne Teo.jpg" alt="" />
 					<div class="pad-top"><b>Keefe Wayne Teo</b></div>
 					<div class="pad-top"><b>Chair</b></div>
 				</div>
-        <div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Jakub Suchánek.jpg" alt="" />
-					<div class="pad-top"><b>Jakub Suchánek</b></div>
-					<div class="pad-top"><b>Advisor for Projects</b></div>
+				<div class="center col-4">
+						<img class="img-circle size-fix" src="assets/committee/Tianhao Dong.jpg" alt="" />
+						<div class="pad-top"><b>Tianhao Dong</b></div>
+						<div class="pad-top"><b>Secretary</b></div>
 				</div>
 			</div>
 
@@ -51,37 +61,17 @@ redirect-url: about
 
 			<div class="row uniform align-center vert-space-small">
 				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Ashley Pennington.jpg" alt="" />
-					<div class="pad-top"><b>Ashley Pennington</b></div>
-					<div class="pad-top"><b>Managing Director of Projects</b></div>
-				</div>
-				<div class="center col-4">
 					<img class="img-circle size-fix" src="assets/committee/He Yu.jpg" alt="" />
 					<div class="pad-top"><b>He Yu</b></div>
-					<div class="pad-top"><b>Director of Research Projects</b></div>
+					<div class="pad-top"><b>Managing Director of Projects</b></div>
 				</div>
-        <div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/John Letey.jpg" alt="" />
-					<div class="pad-top"><b>John Letey</b></div>
-					<div class="pad-top"><b>Director of Commercial Projects</b></div>
-				</div>
-			</div>
-			
-			<div class="row uniform align-center vert-space-medium">
-				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Andy Wu.jpg" alt="" />
-					<div class="pad-top"><b>Andy Wu</b></div>
-					<div class="pad-top"><b>Managing Director of Technical Consulting</b></div>
+        		<div class="center col-4">
+					<div class="pad-top"><b>Ayush Agarwal</b></div>
+					<div class="pad-top"><b>Director of Research and Commercial Projects</b></div>
 				</div>
 				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Marco Muttoni.jpg" alt="" />
-					<div class="pad-top"><b>Marco Muttoni</b></div>
-					<div class="pad-top"><b>Director of Technical Consulting</b></div>
-				</div>
-        <div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Zhang Chen.jpg" alt="" />
-					<div class="pad-top"><b>Zhang Chen</b></div>
-					<div class="pad-top"><b>Director of Technical Consulting</b></div>
+					<div class="pad-top"><b>Lohith Konathala</b></div>
+					<div class="pad-top"><b>Director of Technical Consulting Projects</b></div>
 				</div>
 			</div>
 
@@ -89,52 +79,9 @@ redirect-url: about
 
 			<div class="row uniform align-center vert-space-small">
 				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Raine Low.jpg" alt="" />
-					<div class="pad-top"><b>Raine Low</b></div>
+					<img class="img-circle size-fix" src="assets/committee/Ashley Pennington.jpg" alt="" />
+					<div class="pad-top"><b>Ashley Pennington</b></div>
 					<div class="pad-top"><b>Managing Director of JumpStart</b></div>
-				</div>
-				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Tianhao Dong.jpg" alt="" />
-					<div class="pad-top"><b>Tianhao Dong</b></div>
-					<div class="pad-top"><b>Managing Director of JumpStart</b></div>
-				</div>
-        <div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Ishaan Vadgama.jpg" alt="" />
-					<div class="pad-top"><b>Ishaan Vadgama</b></div>
-					<div class="pad-top"><b>Director of Partnerships</b></div>
-				</div>
-			</div>
-			
-			<div class="row uniform align-center vert-space-medium">
-				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Yan Qi Chiang.jpg" alt="" />
-					<div class="pad-top"><b>Yan Qi Chiang</b></div>
-					<div class="pad-top"><b>Director of Curriculum and Programme</b></div>
-				</div>
-				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Aleksander Misztal.jpg" alt="" />
-					<div class="pad-top"><b>Aleksander Misztal</b></div>
-					<div class="pad-top"><b>Director of Talent Outreach</b></div>
-				</div>
-			</div>
-
-			<div class="align-center"><h2>Internal Operations</h2></div>
-
-			<div class="row uniform align-center vert-space-large">
-				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Lee Eik Chong.jpg" alt="" />
-					<div class="pad-top"><b>Lee Eik Chong</b></div>
-					<div class="pad-top"><b>Secretary</b></div>
-				</div>
-				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Michael Yang.jpg" alt="" />
-					<div class="pad-top"><b>Michael Yang</b></div>
-					<div class="pad-top"><b>Director of Sponsorships and Marketing</b></div>
-				</div>
-        <div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Adam Sroka.jpg" alt="" />
-					<div class="pad-top"><b>Adam Sroka</b></div>
-					<div class="pad-top"><b>Director of Community Engagement</b></div>
 				</div>
 			</div>
 
