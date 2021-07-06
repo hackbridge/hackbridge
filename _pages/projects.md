@@ -65,7 +65,8 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
                 <li>
-                    <h4>The project is a user interface for an electric vehicle that displays vehicle information such as speed, battery charge, etc.</p>
+                    <h4>Dashboard for a Solar-Electric Vehicle</h4>
+                    <p>The project is a user interface for an electric vehicle that displays vehicle information such as speed, battery charge, etc.</p>
                 </li>
             </ul>
             <div class="link-effect">
