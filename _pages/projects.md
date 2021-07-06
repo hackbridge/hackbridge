@@ -115,7 +115,7 @@ redirect-url: projects
         </div>
         <div class="project-row">
             <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
+                <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
                     <h4>“Computer! Sort Out my PDF”: Build an ML model that identifies the structure of a pdf containing multiple documents</h4>
                     <p>Extend our ML service which aims to classify and paginate documents in a PDF using computer vision and natural language processing techniques. </p>
