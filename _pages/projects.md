@@ -48,6 +48,129 @@ redirect-url: projects
 <div class="row project-block">
     <div class="8 project-block">
         <h3>New Projects [accepting applications]</h3><br>
+
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Segmentation Network to Locate and Predict Damage to Bikes</h4>
+                    <p>For teams managing shared bikes and e-scooters, they currently have no way to see or predict what types of issues will happen. This leads to endless support tasks and frustration for riders. We aim to solve this by building machine learning models to input an image and output a prediction of the type of damage and location of damage on the vehicle.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/181AJ8wOa0aEWQNCSBETXCwdRAwhL0UvEnvBJ2iTYoJw/edit?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>The project is a user interface for an electric vehicle that displays vehicle information such as speed, battery charge, etc.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/1LrOuUlWHSqaoxMUiCWCQ7f8wvXgvkN1Y9vFoozUfd7A/edit?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>[Flagship Project - Convertible Internship Available] Developing a calendar-based nudge tool helps senior leaders make small but impactful changes in behaviour and communication at work.</h4>
+                    <p>Use Machine Learning to create a tool that reads data from a calendar and create unique nudges. The nudges should be relevant to their next meeting; fitting within the natural flow of work. A nudge follows a learning curriculum which uses predictive modelling to calibrate present, priority and missing skills.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1GtjzCP4jMFdHPeS6-0crktX0X0Yf8cLB/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Develop a demand forecasting time series models and MIP optimisers.</h4>
+                    <p>PreWarp is focused on helping fashion brands earn more and waste less. We are building demand forecasting and revenue-maximising models using data science and mathematical optimisation algorithms. </p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1dKrWRlKNcLMzGKtQPrnqPA5mNoYhfIkA/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Perform unsupervised clustering of documents to detect similarities.</h4>
+                    <p>Explore datasets of pdf documents (images) using unsupervised learning techniques like clustering and anomaly detection methods. </p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1yvbLMXomezCdIHtlyi58Ja4KFBYVD3wn/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>“Computer! Sort Out my PDF”: Build an ML model that identifies the structure of a pdf containing multiple documents</h4>
+                    <p>Extend our ML service which aims to classify and paginate documents in a PDF using computer vision and natural language processing techniques. </p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/12ZNF6u1-Uf3JGreGCT3twRFFjvVL2CS_/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+
+
+
+
+
+
+
+    </div>
+</div>
+
+<div class="row project-block">
+    <div class="8 project-block">
+        <h3>Active Projects [closed applications]</h3>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>Dissecting deep learning for systematic generalisation</h4>
+                    <p>We carry out an empirical study on the effective computational power of deep learning methods (transformers in particular) for systematic generalisation. </p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/19FIUP73T-f_UXxWAn7ukIx3JfT53MAIv/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>Head Circumference Measuring App</h4>
+                    <p>The aim of this study is to devise and validate a mobile app utilising modern smartphone camera technology to allow parents and caregivers to reliably measure infant HC. An accurate head circumference (HC) measurement is essential when clinically evaluating a
+                    neonate or infant. HC outside the normal range may indicate a disorder of brain development, hydrocephalus, or an intracranial mass lesion. A project hosted in collaboration with Addenbrooke's.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1TLEnU5znYq8D-MY6p_RX1oR168Q3Kg78/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
@@ -84,39 +207,6 @@ redirect-url: projects
             </ul>
             <div class="link-effect">
                 <a href="https://docs.google.com/document/d/1R8I4AhXKjC99gpAzpEDNg3KGfA1UHhhFxmEdD3qJNEI/edit"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="row project-block">
-    <div class="8 project-block">
-        <h3>Active Projects [closed applications]</h3>
-                <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
-                <li>
-                    <h4>Dissecting deep learning for systematic generalisation</h4>
-                    <p>We carry out an empirical study on the effective computational power of deep learning methods (transformers in particular) for systematic generalisation. </p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/19FIUP73T-f_UXxWAn7ukIx3JfT53MAIv/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
-                <li>
-                    <h4>Head Circumference Measuring App</h4>
-                    <p>The aim of this study is to devise and validate a mobile app utilising modern smartphone camera technology to allow parents and caregivers to reliably measure infant HC. An accurate head circumference (HC) measurement is essential when clinically evaluating a
-                    neonate or infant. HC outside the normal range may indicate a disorder of brain development, hydrocephalus, or an intracranial mass lesion. A project hosted in collaboration with Addenbrooke's.</p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1TLEnU5znYq8D-MY6p_RX1oR168Q3Kg78/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
