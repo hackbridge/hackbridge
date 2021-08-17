@@ -52,6 +52,25 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
+                    <h4>[Flagship Project - Convertible Internship Available] Automatic Tile Grouting Robot</h4>
+                    <p>Fabrica.AI builds automatic tile grouting robots and eventually automatic tiling robots. Our robot is meant to automate the whole tile-grouting process. The robot will help boost productivity and help our clients return their investments in a year or two when purchasing our robots.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1S4YBQaIKfVKoK2IWx5HBr4nRHQuVhYdE/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row project-block">
+    <div class="8 project-block">
+        <h3>Active Projects [closed applications]</h3>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
                     <h4>Segmentation Network to Locate and Predict Damage to Bikes</h4>
                     <p>For teams managing shared bikes and e-scooters, they currently have no way to see or predict what types of issues will happen. This leads to endless support tasks and frustration for riders. We aim to solve this by building machine learning models to input an image and output a prediction of the type of damage and location of damage on the vehicle.</p>
                 </li>
@@ -126,12 +145,6 @@ redirect-url: projects
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
-    </div>
-</div>
-
-<div class="row project-block">
-    <div class="8 project-block">
-        <h3>Active Projects [closed applications]</h3>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
