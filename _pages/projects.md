@@ -74,6 +74,32 @@ redirect-url: projects
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Perform unsupervised clustering of documents to detect similarities.</h4>
+                    <p>Explore datasets of pdf documents (images) using unsupervised learning techniques like clustering and anomaly detection methods. </p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/13HIS9DeFQJYkA8oTcMihBb7VZ7VVPHsY/edit?usp=sharing&ouid=112385518041086826441&rtpof=true&sd=true"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>“Computer! Sort Out my PDF”: Build an ML model that identifies the structure of a pdf containing multiple documents</h4>
+                    <p>Extend our ML service which aims to classify and paginate documents in a PDF using computer vision and natural language processing techniques. </p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/1tccT-qDQt68Ac8XrsdBoia1adFsXQrRS/edit?usp=sharing&ouid=112385518041086826441&rtpof=true&sd=true"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -129,32 +155,6 @@ redirect-url: projects
             </ul>
             <div class="link-effect">
                 <a href="https://drive.google.com/file/d/1dKrWRlKNcLMzGKtQPrnqPA5mNoYhfIkA/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>Perform unsupervised clustering of documents to detect similarities.</h4>
-                    <p>Explore datasets of pdf documents (images) using unsupervised learning techniques like clustering and anomaly detection methods. </p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/1yvbLMXomezCdIHtlyi58Ja4KFBYVD3wn/view?usp=sharing"
-                target="_blank" data-text="Project Proposal">Project Proposal</a>
-            </div>
-        </div>
-        <div class="project-row">
-            <ul class="project-row-blocks">
-                <li><img src="assets/images/commercial.png" alt="" /></li>
-                <li>
-                    <h4>“Computer! Sort Out my PDF”: Build an ML model that identifies the structure of a pdf containing multiple documents</h4>
-                    <p>Extend our ML service which aims to classify and paginate documents in a PDF using computer vision and natural language processing techniques. </p>
-                </li>
-            </ul>
-            <div class="link-effect">
-                <a href="https://drive.google.com/file/d/12ZNF6u1-Uf3JGreGCT3twRFFjvVL2CS_/view?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
