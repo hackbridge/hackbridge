@@ -61,6 +61,19 @@ redirect-url: projects
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>ML-Enhanced Computer Vision Change Detector System for Satellite Images Analysis</h4>
+                    <p>For this project, we are building upon the work we have carried out in the past semester of the Hack bridge project, generate detailed performance metrics of the change detector and building height detector, and test it in a wide range of use cases (Oil spills, vegetation encroachment, building damage etc). We’ll also want to have a standardized documentation in the form of Confluence wikis for all the processing blocks developed and if time permits, to file a patent</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/1LGhfnuLSKjXZSEIu4K92kiEHdNPGt91u/edit?usp=sharing&ouid=112385518041086826441&rtpof=true&sd=true"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
     </div>
 </div>
 
