@@ -63,7 +63,7 @@ redirect-url: projects
         </div>
         <div class="project-row">
             <ul class="project-row-blocks">
-                <li><img src="assets/images/commerical.png" alt="" /></li>
+                <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
                     <h4>Hackbridge Device Innovation Addenbrokes Medical Engineering Project</h4>
                     <p>For this project, we need to design a patentable one-way locking (unable to unlock once applied) lid container mechanism. This is important in the fields of medical science to ensure the quality of the samples collected is not compromised. In addition, the containers have to be sturdy enough to prevent common damages or shock applied to the casing, sample, etc. Design features are outlined in the document</p>
