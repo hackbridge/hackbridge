@@ -50,6 +50,50 @@ redirect-url: projects
         <h3>New Projects [accepting applications]</h3>    
         <div class="project-row">
             <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>Kanjo Health Project: Developing cognitive, linguistic and wellbeing biomarkers and biometrics from a range of device interaction and sensor data</h4>
+                    <p> Almost every parent wishes they understood their children better. This manifests in a broad range of questions and concerns, such as: when is the best time for my child to study, are they getting enough sleep, why are they currently anxious, are their language skills developing well, am I doing an okay job as a parent? We aim to aid parents with all these questions; helping to build a generation of more emotionally resilient, engaged and happier children - and their parents</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/1EO78T3imvvyPRoe3r-LK2hlB5j0avi1c/edit?usp=sharing&ouid=112385518041086826441&rtpof=true&sd=true"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commerical.png" alt="" /></li>
+                <li>
+                    <h4>Hackbridge Device Innovation Addenbrokes Medical Engineering Project</h4>
+                    <p>For this project, we need to design a patentable one-way locking (unable to unlock once applied) lid container mechanism. This is important in the fields of medical science to ensure the quality of the samples collected is not compromised. In addition, the containers have to be sturdy enough to prevent common damages or shock applied to the casing, sample, etc. Design features are outlined in the document</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/1DbyBs9DM7z71mcpQCSBHuOxhbsha5mVh/edit?usp=sharing&ouid=112385518041086826441&rtpof=true&sd=true"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>NLP based Project by Opply in faciliating Effective Supply Chains</h4>
+                    <p>Implementing an algorithm to establish defined groups of suppliers relevant, collecting a wide scope of data to ensure enough information is collected based on supply chains as well as bridging the gaps between product quality and quality of data on product supplies.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1_9w5pbS3QodpTCX29ESmDlOSgLP5_Wmi/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row project-block">
+    <div class="8 project-block">
+        <h3>Active Projects [closed applications]</h3>
+        <div class="project-row">
+            <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
                     <h4>Segmentation Network to Locate and Predict Damage to Bikes</h4>
@@ -57,7 +101,7 @@ redirect-url: projects
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://docs.google.com/document/d/181AJ8wOa0aEWQNCSBETXCwdRAwhL0UvEnvBJ2iTYoJw/edit?usp=sharing"
+                <a href="https://docs.google.com/document/d/1U1xYDw3tWsRvo2FtUcc2OGyI-9ucoqkyONcwAucSWTM/edit?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
@@ -113,12 +157,6 @@ redirect-url: projects
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
-    </div>
-</div>
-
-<div class="row project-block">
-    <div class="8 project-block">
-        <h3>Active Projects [closed applications]</h3>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
