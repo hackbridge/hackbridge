@@ -36,23 +36,21 @@ redirect-url: about
 				<div class="center col-4">
 					<img class="img-circle size-fix" src="assets/committee/Bryan Teng.jpg" alt="" />
 					<div class="pad-top"><b>Bryan Teng</b></div>
-					<div class="pad-top"><b>President</b></div>
+					<div class="pad-top"><b>Chair</b></div>
 				</div>
 				<div class="center col-4">
 					<div class="pad-top"><b>Jonathan Chee</b></div>
-					<div class="pad-top"><b>Vice President</b></div>
+					<div class="pad-top"><b>President</b></div>
 				</div>
 			</div>
 
 			<div class="row uniform align-center vert-space-medium">
 				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Keefe Wayne Teo.jpg" alt="" />
-					<div class="pad-top"><b>Keefe Wayne Teo</b></div>
-					<div class="pad-top"><b>Chair</b></div>
+					<div class="pad-top"><b>Komal Rathi</b></div>
+					<div class="pad-top"><b>Vice-President</b></div>
 				</div>
 				<div class="center col-4">
-						<img class="img-circle size-fix" src="assets/committee/Tianhao Dong.jpg" alt="" />
-						<div class="pad-top"><b>Tianhao Dong</b></div>
+						<div class="pad-top"><b>Pengyu Zhang</b></div>
 						<div class="pad-top"><b>Secretary</b></div>
 				</div>
 			</div>
@@ -61,16 +59,15 @@ redirect-url: about
 
 			<div class="row uniform align-center vert-space-small">
 				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/He Yu.jpg" alt="" />
-					<div class="pad-top"><b>He Yu</b></div>
+					<div class="pad-top"><b>Ayush Agarwal</b></div>
 					<div class="pad-top"><b>Managing Director of Projects</b></div>
 				</div>
         		<div class="center col-4">
-					<div class="pad-top"><b>Ayush Agarwal</b></div>
+					<div class="pad-top"><b>Gift Mungmeeprued</b></div>
 					<div class="pad-top"><b>Director of Research and Commercial Projects</b></div>
 				</div>
 				<div class="center col-4">
-					<div class="pad-top"><b>Lohith Konathala</b></div>
+					<div class="pad-top"><b>Alice Luo</b></div>
 					<div class="pad-top"><b>Director of Technical Consulting Projects</b></div>
 				</div>
 			</div>
@@ -79,8 +76,7 @@ redirect-url: about
 
 			<div class="row uniform align-center vert-space-small">
 				<div class="center col-4">
-					<img class="img-circle size-fix" src="assets/committee/Ashley Pennington.jpg" alt="" />
-					<div class="pad-top"><b>Ashley Pennington</b></div>
+					<div class="pad-top"><b>Ilias Moutsopoulos</b></div>
 					<div class="pad-top"><b>Managing Director of JumpStart</b></div>
 				</div>
 			</div>
