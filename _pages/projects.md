@@ -47,7 +47,59 @@ redirect-url: projects
 <br>
 <div class="row project-block">
     <div class="8 project-block">
-        <h3>New Projects [accepting applications]</h3>    
+        <h3>New Projects [accepting applications]</h3>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>ReplyGen (B2B SaaS Generative AI): building a website and generative AI models which will allow customers to make custom marketing campaigns.</h4>
+                    <p>ReplyGen is a Sales and marketing + Generative AI startup. What we are trying to solve is to use generative images and video AI to create highly customisable marketing solutions easy to build without much technical expertise on the company's end. We also want to make it cheaper and less time intensive to build new marketing and sales campaigns.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1J1YDockV4BHHJ4AdTt6a2bb1_a4d5aQ9/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Playfair Technologies Inc. : Build an ML model to pick up market sentiment based on technical analysis images posted by the world's best traders.</h4>
+                    <p>At Playfair, we see value in finding the value of consolidating a diverse range of valuable insights from a variety of data sources, in particular, technical analysis (TA) reports in financial markets to best predict accurately the direction of markets. We hoped to build a Computer Vision model that can organise such data provided by the world's best traders to make good trading strategies and hence determining the change in market sentiments.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1LrrZtNkHzZmUcATWlga6ogv54gz8QuGa/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/research.png" alt="" /></li>
+                <li>
+                    <h4>NLP Interpretability: How does GPT-2 understand language?</h4>
+                    <p>In this project, what we wish to study in depth is to understand how Language Machine Learning models are able to construct meaning from arbitrary language characters and decipher complicated language tasks. In particular, what we would like to achieve is to build a framework in a way that such language ML models can create new formatting, documentation, text and much more versatile uses in the world of Natural Language processing</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1l3H8ugl_GkD-xiDISttJsObmbSGsCRi6/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Ethēcos: Development of an adaptive platform from a range of manual input and biomarker health parameter data.</h4>
+                    <p>At the heart of health-tech, nutrition, and education, Ethēcos believes in the immense potential in extracting insights from biological marker information for consumers to make informed decisions to staying healthy or simply to be the best version of themselves in a simple and comprehensive way in the context of education or self-awareness. In this respect, our ambition is to build a mobile app product that collects such data of our bio-marker parameters and evaluate what this means to our health, progression in our education, etc, thereby giving consumers vital information to make small changes in their lifestyle.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/18XzTnlRRkbfGTnSVtdF3aP_aYRUPVWKX/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>   
     </div>
 </div>
 <div class="row project-block">
