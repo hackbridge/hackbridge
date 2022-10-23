@@ -50,7 +50,7 @@ redirect-url: projects
         <h3>New Projects [accepting applications]</h3>
         <div class="project-row">
             <ul class="project-row-blocks">
-                <li><img src="assets/images/research.png" alt="" /></li>
+                <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
                     <h4>ReplyGen (B2B SaaS Generative AI): building a website and generative AI models which will allow customers to make custom marketing campaigns.</h4>
                     <p>ReplyGen is a Sales and marketing + Generative AI startup. What we are trying to solve is to use generative images and video AI to create highly customisable marketing solutions easy to build without much technical expertise on the company's end. We also want to make it cheaper and less time intensive to build new marketing and sales campaigns.</p>
