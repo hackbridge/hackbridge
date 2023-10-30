@@ -52,6 +52,19 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
+                    <h4>Biomr: (option 1) materials-centric simulation and modeling to develop revolutionary plastic-free coatings; (option 2)creating advanced sorting algorithms to facilitate textile recycling and circular fashion models. </h4>
+                    <p>At Biomr, we firmly believe that we are on the brink of a materials science revolution, aided by computation and the growing demand for natural materials driven by regulations. We are a small but ambitious team dedicated to pushing the boundaries of materials science.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1z4aNIIrdPoNRORIT20vRHoRw42O-uQl-/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
                     <h4>ThinkLabsAI: building a website and GPT-powered conversational chatbots to provide affordable, personalized career guidance and academic support.</h4>
                     <p>ThinkLabsAI is a Generative AI startup. We seek to build a platform that provides personalized, unbiased, affordable, 24x7, instant, yet human-like support for students at all career stages in higher education.</p>
                 </li>
