@@ -52,6 +52,19 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
+                    <h4>Caspa AI: developing AI methods to quickly, easily, and accurately generate custom product images and marketing content for ecommerce sellers. </h4>
+                    <p>Caspa AI is a generative AI startup developing software that lets ecommerce businesses create realistic and customized product images.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1ravgjQmpWoT-sLYUv3eC4dT-Evsl4ndD/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
                     <h4>Biomr: (option 1) materials-centric simulation and modeling to develop revolutionary plastic-free coatings; (option 2)creating advanced sorting algorithms to facilitate textile recycling and circular fashion models. </h4>
                     <p>At Biomr, we firmly believe that we are on the brink of a materials science revolution, aided by computation and the growing demand for natural materials driven by regulations. We are a small but ambitious team dedicated to pushing the boundaries of materials science.</p>
                 </li>
