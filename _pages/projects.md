@@ -48,6 +48,10 @@ redirect-url: projects
 <div class="row project-block">
     <div class="8 project-block">
         <h3>New Projects [accepting applications]</h3>
+        
+<div class="row project-block">
+    <div class="8 project-block">
+        <h3>Active Projects [closed applications]</h3>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
@@ -102,9 +106,6 @@ redirect-url: projects
         </div>   
     </div>
 </div>
-<div class="row project-block">
-    <div class="8 project-block">
-        <h3>Active Projects [closed applications]</h3>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/research.png" alt="" /></li>
