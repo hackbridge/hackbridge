@@ -48,7 +48,19 @@ redirect-url: projects
 <div class="row project-block">
     <div class="8 project-block">
         <h3>New Projects [accepting applications]</h3>
-        
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>ThinkLabsAI: building a website and GPT-powered conversational chatbots to provide affordable, personalized career guidance and academic support.</h4>
+                    <p>ThinkLabsAI is a Generative AI startup. We seek to build a platform that provides personalized, unbiased, affordable, 24x7, instant, yet human-like support for students at all career stages in higher education.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/1sDO2QYvrZyEYbuUOQeh73IhroECzxgP3/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
 <div class="row project-block">
     <div class="8 project-block">
         <h3>Active Projects [closed applications]</h3>
