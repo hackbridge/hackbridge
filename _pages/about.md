@@ -39,14 +39,14 @@ redirect-url: about
 					<div class="pad-top"><b>Chair</b></div>
 				</div>
 				<div class="center col-4">
-					<div class="pad-top"><b>Jonathan Chee</b></div>
+					<div class="pad-top"><b>Alice</b></div>
 					<div class="pad-top"><b>President</b></div>
 				</div>
 			</div>
 
 			<div class="row uniform align-center vert-space-medium">
 				<div class="center col-4">
-					<div class="pad-top"><b>Komal Rathi</b></div>
+					<div class="pad-top"><b>Sophia He</b></div>
 					<div class="pad-top"><b>Vice-President</b></div>
 				</div>
 				<div class="center col-4">
@@ -59,15 +59,15 @@ redirect-url: about
 
 			<div class="row uniform align-center vert-space-small">
 				<div class="center col-4">
-					<div class="pad-top"><b>Ayush Agarwal</b></div>
-					<div class="pad-top"><b>Managing Director of Projects</b></div>
+					<div class="pad-top"><b>Caroline Cui</b></div>
+					<div class="pad-top"><b>Director of Projects</b></div>
 				</div>
         		<div class="center col-4">
-					<div class="pad-top"><b>Gift Mungmeeprued</b></div>
+					<div class="pad-top"><b>Oshin Vats</b></div>
 					<div class="pad-top"><b>Director of Research and Commercial Projects</b></div>
 				</div>
 				<div class="center col-4">
-					<div class="pad-top"><b>Alice Luo</b></div>
+					<div class="pad-top"><b>Adi Jain</b></div>
 					<div class="pad-top"><b>Director of Technical Consulting Projects</b></div>
 				</div>
 			</div>
