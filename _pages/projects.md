@@ -48,6 +48,37 @@ redirect-url: projects
 <div class="row project-block">
     <div class="8 project-block">
         <h3>New Projects [accepting applications]</h3>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Playfair (Hedge Fund API): construct Financial Signal dataframe API for quant-funds using proprietary social media signal data derived by our Playfair AI Models.
+ </h4>
+                    <p> At Playfair, we use ML system to classify the opinions of millions of traders on social media. In doing so, we find the world’s best as we track their performance against the market. This data is used to construct the world’s first social finance ranking system. 
+</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/12-S1ItmUoW313nefRjrOSpNN3VQAFn2zdsNEXw66cdo/edit?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
+                    <h4>Playfair (Algorithmic portfolio): create trading algorithms for a $300k USD portfolio in Scotiabank’s Capital Market’s group using buy/sell signals from the best traders on social media.
+ </h4>
+                    <p> At Playfair, we use an ML system to analyze the opinions of millions of traders on social media. In doing so, we find the world’s best as we track their performance against the market. This data is used to construct the world’s first social finance ranking system we sell to large hedge funds via API.
+
+</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/12-S1ItmUoW313nefRjrOSpNN3VQAFn2zdsNEXw66cdo/edit?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
                 
         
         
