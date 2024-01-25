@@ -75,7 +75,7 @@ redirect-url: projects
                 </li>
             </ul>
             <div class="link-effect">
-                <a href="https://docs.google.com/document/d/12-S1ItmUoW313nefRjrOSpNN3VQAFn2zdsNEXw66cdo/edit?usp=sharing"
+                <a href="https://docs.google.com/document/d/1tSd7KG2KxVEvxcV0SKjImm-0u0_5V-I1DqQLgKS4m1w/edit?usp=sharing"
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
