@@ -52,6 +52,22 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
+                    <h4>RapiDx: (summer internship) PCR assay development - experiment and develop new rapid diagnostic assays for a wide range of diseases. Learn to operate plasmonic PCR machines developed by the team at RapidX Bio and engage with experimental planning, data collection and analysis and most importantly enjoy the process of inventing life-saving tools that are 20x better than what’s out there today. 
+
+ </h4>
+                    <p> RapiDx is building the future of healthcare, with an optical plasmonic PCR (polymerase chain reaction) device that can help detect microbial diseases in minutes.
+</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://docs.google.com/document/d/152qXz__OXHLCylILBhR_vSMCv0m2lDZG/edit?usp=sharing&ouid=112385518041086826441&rtpof=true&sd=true"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
                     <h4>Biomr: leveraging ML algorithms to discover and develop better biopolymers,
 particularly polysaccharides, as alternatives to restricted or banned ingredients in consumer
 products.
