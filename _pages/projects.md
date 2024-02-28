@@ -52,6 +52,34 @@ redirect-url: projects
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
                 <li>
+                    <h4>Biomr: leveraging ML algorithms to discover and develop better biopolymers,
+particularly polysaccharides, as alternatives to restricted or banned ingredients in consumer
+products.
+ </h4>
+                    <p> Biomr is pioneering ML-aided sustainable materials discovery, addressing the challenges
+faced by consumer goods companies in the wake of increasing ingredient bans, particularly in
+the EU. Biomr utilizes classic machine learning (ML) with state-of-the-art artificial intelligence
+language models to speed up the identification and development of biobased material
+alternatives with high performance.</p>
+                </li>
+            </ul>
+            <div class="link-effect">
+                <a href="https://drive.google.com/file/d/14q511rCkg45MDcT_hx6Qq0k7GTOCoaLO/view?usp=sharing"
+                target="_blank" data-text="Project Proposal">Project Proposal</a>
+            </div>
+        </div>
+
+                
+        
+        
+
+<div class="row project-block">
+    <div class="8 project-block">
+        <h3>Active Projects [closed applications]</h3>
+        <div class="project-row">
+            <ul class="project-row-blocks">
+                <li><img src="assets/images/commercial.png" alt="" /></li>
+                <li>
                     <h4>Playfair (Hedge Fund API): construct Financial Signal dataframe API for quant-funds using proprietary social media signal data derived by our Playfair AI Models.
  </h4>
                     <p> At Playfair, we use ML system to classify the opinions of millions of traders on social media. In doing so, we find the world’s best as we track their performance against the market. This data is used to construct the world’s first social finance ranking system. 
@@ -79,13 +107,6 @@ redirect-url: projects
                 target="_blank" data-text="Project Proposal">Project Proposal</a>
             </div>
         </div>
-                
-        
-        
-
-<div class="row project-block">
-    <div class="8 project-block">
-        <h3>Active Projects [closed applications]</h3>
         <div class="project-row">
             <ul class="project-row-blocks">
                 <li><img src="assets/images/commercial.png" alt="" /></li>
